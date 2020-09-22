@@ -1,0 +1,210 @@
+geoId;Pays;Region;Latitude;Longitude;Cas;Deces
+AD;Andorre;Europe;42,31;1,32;1564,0;53,0
+AE ;Émirats arabes Unis;Méditerranée orientale;24,28;54,22;84242;404
+AF;Afghanistan;Méditerranée orientale;34,28;66,11;39044,0;1441,0
+AG;Antigua-et-Barbuda;Amérique latine;17,2;-61,48;96,0;3,0
+AI;Anguilla;Amérique latine;18,14;-63,03;3,0;0,0
+AL;Albanie;Europe;41,18;19,49;12226,0;358,0
+AM;Arménie;Europe;40,1;44,31;47154,0;928,0
+AO;Angola;Afrique;-12,5;17,15;3901,0;144,0
+AR;Argentine;Amérique latine;-36,3;-63,0;613645,0;12705,0
+AT;Autriche;Europe;48,12;16,22;37948,0;765,0
+AU;Australie;Pacifique occidental;-25,0;130,0;26885,0;844,0
+AW;Aruba;Amérique latine;12,3;-69,58;3460,0;23,0
+AZ;Azerbaïdjan;Europe;40,29;49,56;39042,0;574,0
+BA;Bosnie-Herzégovine;Europe;43,52;18,26;24892,0;746,0
+BB;Barbade;Amérique latine;13,05;-59,3;185,0;7,0
+BD;Bangladesh;Asie du Sud-Est;23,43;90,26;347372,0;4913,0
+BE;Belgique;Europe;50,51;4,21;100654,0;9944,0
+BF;Burkina Faso;Afrique;12,15;-1,3;1816,0;56,0
+BG;Bulgarie;Europe;42,45;23,2;18819,0;755,0
+BH;Bahreïn;Méditerranée orientale;26,1;50,3;63879,0;220,0
+BI;Burundi;Afrique;-3,26;29,54;473,0;1,0
+BJ;Bénin;Afrique;6,23;2,42;2280,0;40,0
+BM;Bermudes;Amérique latine;32,2;-64,45;180,0;9,0
+BN;Brunei;Pacifique occidental;4,52;115,0;145,0;3,0
+BO;Bolivie;Amérique latine;-16,2;-68,1;130470,0;7586,0
+BQ;Bonaire;Amérique latine;12,1;-68,14;36,0;1,0
+BR;Brésil;Amérique latine;-15,47;-47,55;4528240,0;136532,0
+BS;Bahamas;Amérique latine;25,05;-77,2;3214,0;73,0
+BT;Bhoutan;Asie du Sud-Est;27,31;89,45;259,0;0,0
+BW;Botswana;Afrique;-24,38;25,54;2567,0;13,0
+BY;Biélorussie;Europe;53,52;27,3;75461,0;776,0
+BZ;Belize;Amérique latine;17,18;-88,3;1606,0;20,0
+CA;Canada;Amérique du Nord;60,0;-110,0;142774,0;9211,0
+CD;République démocratique du Congo;Afrique;-4,2;23,15;10488,0;268,0
+CF;République centrafricaine;Afrique;4,23;18,35;4786,0;62,0
+CG;Congo;Afrique;-4,09;15,12;4986,0;89,0
+CH;Suisse;Europe;46,57;7,28;49171,0;1764,0
+CI;Côte d’Ivoire;Afrique;6,49;-5,17;19269,0;120,0
+CL;Chili;Amérique latine;-33,24;-70,4;444674,0;12254,0
+CM;Cameroun;Afrique;3,5;11,35;20431,0;416,0
+CN;Chine;Pacifique occidental;35,0;105,0;90333,0;4737,0
+CO;Colombie;Amérique latine;4,34;-74,0;758398,0;24039,0
+CR;Costa Rica;Amérique latine;9,55;-84,02;63712,0;706,0
+CU;Cuba;Amérique latine;23,08;-82,22;5055,0;113,0
+CV;Cap Vert;Afrique;15,02;-23,34;5186,0;50,0
+CW;Curaçao;Amérique latine;12,1;-68,58;247,0;1,0
+CY;Chypre;Europe;35,1;33,25;1580,0;22,0
+CZ;République tchèque;Europe;50,05;14,22;48306,0;499,0
+DE;Allemagne;Europe;52,3;10,0;271415,0;9386,0
+DJ;Djibouti;Méditerranée orientale;11,08;42,2;5403,0;61,0
+DK;Danemark;Europe;55,41;12,34;21847,0;635,0
+DM;Dominique;Amérique latine;15,2;-61,24;24,0;0,0
+DO;République dominicaine;Amérique latine;18,3;-69,59;107700,0;2044,0
+DZ;Algérie;Afrique;28,42;3,08;49623,0;1665,0
+EC;Équateur;Amérique latine;-0,15;-78,35;125620,0;11084,0
+EE;Estonie;Europe;59,22;24,48;2875,0;64,0
+EG;Égypte;Méditerranée orientale;27,31;29,14;101900,0;5750,0
+EH;Sahara Occidental;Méditerranée orientale;25,0;-13,0;766,0;1,0
+EL;Grèce;Europe;37,58;23,46;14978,0;331,0
+ER;Erythrée;Afrique;15,19;38,55;364,0;0,0
+ES;Espagne;Europe;40,25;-3,45;640040,0;30495,0
+ET;Éthiopie;Afrique;9,02;38,42;68131,0;1089,0
+FI;Finlande;Europe;63,0;25,03;8922,0;339,0
+FJ;Fidji;Pacifique occidental;-18,06;178,3;32,0;2,0
+FK;Îles Malouines;Amérique latine;-51,42;-57,51;13,0;0,0
+FO;Îles Féroé;Europe;62,05;-6,56;431,0;0,0
+FR;France;Europe;48,5;2,2;442194,0;31274,0
+GA;Gabon;Afrique;0,25;9,26;8696,0;53,0
+GD;Grenade;Amérique latine;12,3;-61,45;24,0;0,0
+GE;Géorgie;Europe;41,43;44,5;3502,0;19,0
+GG;Guernesey;Europe;49,26;-2,33;254,0;13,0
+GH;Ghana;Afrique;5,35;-0,06;45877,0;297,0
+GI;Gibraltar;Europe;36,08;-5,2;346,0;0,0
+GL;Groeland;Europe;70,0;-45,0;14,0;0,0
+GM;Gambie;Afrique;13,28;-16,4;3504,0;108,0
+GN;Guinée;Afrique;9,29;-13,49;10286,0;63,0
+GQ;Guinée équatoriale;Afrique;3,45;8,5;5002,0;83,0
+GT;Guatemala;Amérique latine;14,4;-90,22;85152,0;3105,0
+GU;Guam;Pacifique occidental;13,28;144,48;2117,0;34,0
+GW;Guinée Bissau;Afrique;11,52;-15,36;2303,0;39,0
+GY;Guyana;Amérique latine;6,46;-58,1;2168,0;64,0
+HN;Honduras;Amérique latine;14,05;-87,14;71143,0;2166,0
+HR;Croatie;Europe;45,5;15,58;14725,0;244,0
+HT;Haïti;Amérique latine;18,4;-72,2;8600,0;221,0
+HU;Hongrie;Europe;47,29;19,05;17990,0;683,0
+ID;Indonésie;Asie du Sud-Est;-6,09;106,49;240687,0;9448,0
+IE;Irlande;Europe;53,21;-6,15;32538,0;1792,0
+IL;Israël;Europe;31,47;35,12;183602,0;1226,0
+IM;Île de Man;Europe;54,15;-4,3;339,0;24,0
+IN;Inde;Asie du Sud-Est;23,0;77,13;5400619,0;86752,0
+IQ;Irak;Méditerranée orientale;33,2;44,3;315597,0;8491,0
+IR;Iran;Méditerranée orientale;33,0;53,0;419043,0;24118,0
+IS;Islande;Europe;64,1;-21,57;2307,0;10,0
+IT;Italie;Europe;41,54;12,29;296569,0;35692,0
+JE;Jersey;Europe;49,12;-2,09;393,0;32,0
+JM;Jamaïque;Amérique latine;18,0;-76,5;4758,0;60,0
+JO;Jordanie;Méditerranée orientale;31,57;35,52;4540,0;30,0
+JP;Japon;Pacifique occidental;35,41;139,46;78657,0;1500,0
+KE;Kenya;Afrique;-1,17;36,48;36829,0;646,0
+KG;Kirghizistan;Europe;42,54;74,46;45416,0;1063,0
+KH;Cambodge;Pacifique occidental;11,33;104,55;275,0;0,0
+KM;Comores;Afrique;-11,41;43,16;470,0;7,0
+KN;Saint-Kitts-et-Nevis;Amérique latine;17,18;-62,44;17,0;0,0
+KR;Corée du Sud;Pacifique occidental;37,31;126,58;22975,0;383,0
+KW;Koweït;Méditerranée orientale;29,3;48,0;99049,0;581,0
+KY;Îles Caïmans;Amérique latine;19,2;-81,24;209,0;1,0
+KZ;Kazakhstan;Europe;51,1;71,3;138348,0;2014,0
+LA;Laos;Pacifique occidental;17,58;102,37;23,0;0,0
+LB;Liban;Méditerranée orientale;33,53;35,31;28297,0;286,0
+LC;Sainte Lucie;Amérique latine;14,02;-60,58;27,0;0,0
+LI;Liechtenstein;Europe;47,08;9,31;112,0;1,0
+LK;Sri Lanka;Asie du Sud-Est;6,54;79,54;3283,0;13,0
+LR;Liberia;Afrique;6,18;-10,47;1335,0;82,0
+LS;Lesotho;Afrique;-29,18;27,28;1390,0;33,0
+LT;Lituanie;Europe;54,38;25,19;3664,0;87,0
+LU;Luxembourg;Europe;49,37;6,09;7718,0;124,0
+LV;Lettonie;Europe;56,53;24,08;1515,0;36,0
+LY;Libye;Méditerranée orientale;32,54;13,11;27234,0;430,0
+MA;Maroc;Méditerranée orientale;32,2;-6,51;99816,0;1795,0
+MC;Monaco;Europe;43,43;7,25;192,0;1,0
+MD;Moldavie;Europe;47,02;28,5;46336,0;1201,0
+ME;Monténégro;Europe;42,47;19,28;7898,0;134,0
+MG;Madagascar;Afrique;-18,55;47,31;16020,0;219,0
+MK;Macédoine du Nord;Europe;41,59;21,25;16557,0;689,0
+ML;Mali;Afrique;12,39;-8,0;3006,0;128,0
+MM;Birmanie;Asie du Sud-Est;16,45;96,2;5263,0;81,0
+MN;Mongolie;Pacifique occidental;47,55;106,55;312,0;0,0
+MP;Îles Mariannes du Nord;Pacifique occidental;15,15;145,45;68,0;2,0
+MR;Mauritanie;Afrique;18,5;-11,58;7361,0;161,0
+MS;Montserrat;Amérique latine;16,45;-62,12;13,0;1,0
+MT;Malte;Europe;35,54;14,31;2634,0;17,0
+MU;Maurice;Afrique;-20,09;57,3;367,0;10,0
+MV;Maldives;Asie du Sud-Est;4,0;73,28;9649,0;33,0
+MW;Malawi;Afrique;-13,58;33,45;5716,0;179,0
+MX;Mexique;Amérique du Nord;19,2;-99,1;694121,0;73258,0
+MY;Malaisie;Pacifique occidental;3,09;101,41;10167,0;130,0
+MZ;Mozambique;Afrique;-25,58;32,32;6537,0;41,0
+;Namibie;Afrique;-22,35;17,04;;
+NC;Nouvelle Calédonie;Pacifique occidental;-22,17;166,3;26,0;0,0
+NE;Niger;Afrique;16,27;8,0;1182,0;69,0
+NG;Nigeria;Afrique;9,05;7,32;57145,0;1095,0
+NI;Nicaragua;Amérique latine;12,06;-86,2;4961,0;147,0
+NL;Pays-Bas;Europe;52,23;4,54;91841,0;6266,0
+NO;Norvège;Europe;59,55;10,45;12645,0;267,0
+NP;Népal;Asie du Sud-Est;27,45;85,2;62797,0;401,0
+NZ;Nouvelle-Zélande;Pacifique occidental;-41,19;174,46;1464,0;25,0
+OM;Oman;Méditerranée orientale;23,37;58,36;91753,0;818,0
+PA;Panama;Amérique latine;9,0;-79,25;105601,0;2247,0
+PE;Perou;Amérique latine;-12,0;-77,0;762865,0;31369,0
+PF;Polynésie française;Pacifique occidental;-17,32;-149,34;1271,0;2,0
+PG;Papouasie-Nouvelle-Guinée;Pacifique occidental;-9,24;147,08;516,0;6,0
+PH;Philippines;Pacifique occidental;14,4;121,03;283460,0;4930,0
+PK;Pakistan;Méditerranée orientale;33,4;73,1;305671,0;6416,0
+PL;Pologne;Europe;52,13;21,0;78330,0;2282,0
+PR;Porto Rico;Amérique latine;18,29;-66,08;40993,0;605,0
+PS;Palestine;Méditerranée orientale;31,25;34,2;44763,0;291,0
+PT;Portugal;Europe;38,42;-9,1;68025,0;1899,0
+PY;Paraguay;Amérique latine;-25,1;-57,3;33015,0;636,0
+QA;Qatar;Méditerranée orientale;25,15;51,35;123146,0;209,0
+RO;Roumanie;Europe;44,27;26,1;111550,0;4402,0
+RS;Serbie;Europe;44,48;20,23;32840,0;740,0
+RU;Russie;Europe;55,45;37,35;1097251,0;19339,0
+RW;Rwanda;Afrique;-1,59;30,04;4689,0;26,0
+SA;Arabie saoudite;Méditerranée orientale;24,41;46,42;329271,0;4458,0
+SC;Seychelles;Afrique;-4,37;55,27;141,0;0,0
+SD;Soudan;Méditerranée orientale;15,31;32,35;13535,0;836,0
+SE;Suède;Europe;59,2;18,03;88237,0;5865,0
+SG;Singapour;Pacifique occidental;1,17;103,51;57558,0;27,0
+SI;Slovénie;Europe;46,04;14,33;4309,0;133,0
+SK;Slovaquie;Europe;48,1;17,07;6546,0;39,0
+SL;Sierra Leone;Afrique;8,31;-13,15;2159,0;72,0
+SM;Saint-Marin;Europe;43,55;12,3;723,0;42,0
+SN;Sénégal;Afrique;14,34;-17,29;14688,0;302,0
+SO;Somalie;Méditerranée orientale;2,02;45,25;3442,0;98,0
+SR;Suriname;Amérique latine;5,5;-55,1;4709,0;97,0
+SS;Soudan-du-Sud;Afrique;4,51;31,36;2642,0;49,0
+ST;Sao-Tomé-et-Principe;Afrique;0,2;6,43;908,0;15,0
+SV;Salvador;Amérique latine;13,4;-89,1;27428,0;811,0
+SX;Saint-Martin;Amérique latine;18,1;-63,04;584,0;20,0
+SY;Syrie;Méditerranée orientale;33,3;36,18;3765,0;168,0
+SZ;Eswatini;Afrique;-26,28;31,12;5245,0;104,0
+TC;Îles Turques-et-Caïques;Amérique latine;21,45;-71,35;668,0;5,0
+TD;Tchad;Afrique;14,1;18,59;1149,0;81,0
+TG;Togo;Afrique;6,09;1,2;1659,0;41,0
+TH;Thaïlande;Asie du Sud-Est;13,45;100,31;3506,0;59,0
+TJ;Tadjikistan;Europe;38,33;68,48;9303,0;73,0
+TL;Timor oriental;Asie du Sud-Est;-8,29;125,34;27,0;0,0
+TN;Tunisie;Méditerranée orientale;36,5;10,11;9736,0;155,0
+TR;Turquie;Europe;39,57;32,54;301348,0;7445,0
+TT;Trinidad et Tobago;Amérique latine;10,39;-61,3;3853,0;61,0
+TW;Taïwan;Pacifique occidental;25,04;121,31;507,0;7,0
+TZ;Tanzanie;Afrique;-6,08;35,45;509,0;21,0
+UA;Ukraine;Europe;50,3;30,28;172712,0;3516,0
+UG;Ouganda;Afrique;0,2;32,3;6017,0;63,0
+UK;Royaume-Uni;Europe;54,0;-1,05;390358,0;41759,0
+US;États-Unis;Amérique du Nord;39,91;-100,0;6764962,0;199258,0
+UY;Uruguay;Amérique latine;-34,5;-56,11;1904,0;46,0
+UZ;Ouzbékistan;Europe;41,16;69,13;51235,0;429,0
+VA;Vatican;Europe;41,54;12,27;12,0;0,0
+VC;Saint-Vincent-et-les-Grenadines;Amérique latine;13,1;-61,1;64,0;0,0
+VE;Venezuela;Amérique latine;10,3;-66,55;65949,0;539,0
+VG;Îles Vierges britanniques;Amérique latine;18,3;-64,3;71,0;1,0
+VI;Îles Vierges américaines;Amérique latine;18,2;-65,55;1242,0;19,0
+VN;Vietnam;Pacifique occidental;21,05;105,55;1068,0;35,0
+XK;Kosovo;Europe;42,4;21,1;15002,0;614,0
+YE;Yémen;Méditerranée orientale;15,21;44,12;2028,0;586,0
+ZA;Afrique du Sud;Afrique;-29,44;24,12;659656,0;15940,0
+ZM;Zambie;Afrique;-15,28;25,16;14024,0;329,0
+ZW;Zimbabwe;Afrique;-19,43;30,02;7672,0;225,0
