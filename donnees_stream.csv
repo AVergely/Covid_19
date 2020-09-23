@@ -1,1934 +1,1934 @@
-,dateRep,continentExp,cases,deaths
-0,1/1/20,Afrique,0,0
-1,1/1/20,Amérique du Nord,0,0
-2,1/1/20,Amérique latine,0,0
-3,1/1/20,Asie du Sud-Est,0,0
-4,1/1/20,Europe,0,0
-5,1/1/20,Méditerranée orientale,0,0
-6,1/1/20,Other,0,0
-7,1/1/20,Pacifique occidental,0,0
-8,1/10/20,Afrique,0,0
-9,1/10/20,Amérique du Nord,0,0
-10,1/10/20,Amérique latine,0,0
-11,1/10/20,Asie du Sud-Est,0,0
-12,1/10/20,Europe,0,0
-13,1/10/20,Méditerranée orientale,0,0
-14,1/10/20,Other,0,0
-15,1/10/20,Pacifique occidental,0,0
-16,1/11/20,Afrique,0,0
-17,1/11/20,Amérique du Nord,0,0
-18,1/11/20,Amérique latine,0,0
-19,1/11/20,Asie du Sud-Est,0,0
-20,1/11/20,Europe,0,0
-21,1/11/20,Méditerranée orientale,0,0
-22,1/11/20,Other,0,0
-23,1/11/20,Pacifique occidental,0,1
-24,1/12/20,Afrique,0,0
-25,1/12/20,Amérique du Nord,0,0
-26,1/12/20,Amérique latine,0,0
-27,1/12/20,Asie du Sud-Est,0,0
-28,1/12/20,Europe,0,0
-29,1/12/20,Méditerranée orientale,0,0
-30,1/12/20,Other,0,0
-31,1/12/20,Pacifique occidental,0,0
-32,1/13/20,Afrique,0,0
-33,1/13/20,Amérique du Nord,0,0
-34,1/13/20,Amérique latine,0,0
-35,1/13/20,Asie du Sud-Est,1,0
-36,1/13/20,Europe,0,0
-37,1/13/20,Méditerranée orientale,0,0
-38,1/13/20,Other,0,0
-39,1/13/20,Pacifique occidental,0,0
-40,1/14/20,Afrique,0,0
-41,1/14/20,Amérique du Nord,0,0
-42,1/14/20,Amérique latine,0,0
-43,1/14/20,Asie du Sud-Est,0,0
-44,1/14/20,Europe,0,0
-45,1/14/20,Méditerranée orientale,0,0
-46,1/14/20,Other,0,0
-47,1/14/20,Pacifique occidental,0,0
-48,1/15/20,Afrique,0,0
-49,1/15/20,Amérique du Nord,0,0
-50,1/15/20,Amérique latine,0,0
-51,1/15/20,Asie du Sud-Est,0,0
-52,1/15/20,Europe,0,0
-53,1/15/20,Méditerranée orientale,0,0
-54,1/15/20,Other,0,0
-55,1/15/20,Pacifique occidental,1,1
-56,1/16/20,Afrique,0,0
-57,1/16/20,Amérique du Nord,0,0
-58,1/16/20,Amérique latine,0,0
-59,1/16/20,Asie du Sud-Est,0,0
-60,1/16/20,Europe,0,0
-61,1/16/20,Méditerranée orientale,0,0
-62,1/16/20,Other,0,0
-63,1/16/20,Pacifique occidental,0,0
-64,1/17/20,Afrique,0,0
-65,1/17/20,Amérique du Nord,0,0
-66,1/17/20,Amérique latine,0,0
-67,1/17/20,Asie du Sud-Est,1,0
-68,1/17/20,Europe,0,0
-69,1/17/20,Méditerranée orientale,0,0
-70,1/17/20,Other,0,0
-71,1/17/20,Pacifique occidental,4,0
-72,1/18/20,Afrique,0,0
-73,1/18/20,Amérique du Nord,0,0
-74,1/18/20,Amérique latine,0,0
-75,1/18/20,Asie du Sud-Est,0,0
-76,1/18/20,Europe,0,0
-77,1/18/20,Méditerranée orientale,0,0
-78,1/18/20,Other,0,0
-79,1/18/20,Pacifique occidental,17,0
-80,1/19/20,Afrique,0,0
-81,1/19/20,Amérique du Nord,0,0
-82,1/19/20,Amérique latine,0,0
-83,1/19/20,Asie du Sud-Est,0,0
-84,1/19/20,Europe,0,0
-85,1/19/20,Méditerranée orientale,0,0
-86,1/19/20,Other,0,0
-87,1/19/20,Pacifique occidental,136,1
-88,1/2/20,Afrique,0,0
-89,1/2/20,Amérique du Nord,0,0
-90,1/2/20,Amérique latine,0,0
-91,1/2/20,Asie du Sud-Est,0,0
-92,1/2/20,Europe,0,0
-93,1/2/20,Méditerranée orientale,0,0
-94,1/2/20,Other,0,0
-95,1/2/20,Pacifique occidental,0,0
-96,1/20/20,Afrique,0,0
-97,1/20/20,Amérique du Nord,0,0
-98,1/20/20,Amérique latine,0,0
-99,1/20/20,Asie du Sud-Est,0,0
-100,1/20/20,Europe,0,0
-101,1/20/20,Méditerranée orientale,0,0
-102,1/20/20,Other,0,0
-103,1/20/20,Pacifique occidental,20,0
-104,1/21/20,Afrique,0,0
-105,1/21/20,Amérique du Nord,1,0
-106,1/21/20,Amérique latine,0,0
-107,1/21/20,Asie du Sud-Est,0,0
-108,1/21/20,Europe,0,0
-109,1/21/20,Méditerranée orientale,0,0
-110,1/21/20,Other,0,0
-111,1/21/20,Pacifique occidental,152,3
-112,1/22/20,Afrique,0,0
-113,1/22/20,Amérique du Nord,0,0
-114,1/22/20,Amérique latine,0,0
-115,1/22/20,Asie du Sud-Est,2,0
-116,1/22/20,Europe,0,0
-117,1/22/20,Méditerranée orientale,0,0
-118,1/22/20,Other,0,0
-119,1/22/20,Pacifique occidental,140,11
-120,1/23/20,Afrique,0,0
-121,1/23/20,Amérique du Nord,0,0
-122,1/23/20,Amérique latine,0,0
-123,1/23/20,Asie du Sud-Est,0,0
-124,1/23/20,Europe,0,0
-125,1/23/20,Méditerranée orientale,0,0
-126,1/23/20,Other,0,0
-127,1/23/20,Pacifique occidental,97,0
-128,1/24/20,Afrique,0,0
-129,1/24/20,Amérique du Nord,0,0
-130,1/24/20,Amérique latine,0,0
-131,1/24/20,Asie du Sud-Est,0,0
-132,1/24/20,Europe,0,0
-133,1/24/20,Méditerranée orientale,0,0
-134,1/24/20,Other,0,0
-135,1/24/20,Pacifique occidental,266,9
-136,1/25/20,Afrique,0,0
-137,1/25/20,Amérique du Nord,1,0
-138,1/25/20,Amérique latine,0,0
-139,1/25/20,Asie du Sud-Est,2,0
-140,1/25/20,Europe,3,0
-141,1/25/20,Méditerranée orientale,0,0
-142,1/25/20,Other,0,0
-143,1/25/20,Pacifique occidental,447,15
-144,1/26/20,Afrique,0,0
-145,1/26/20,Amérique du Nord,1,0
-146,1/26/20,Amérique latine,0,0
-147,1/26/20,Asie du Sud-Est,0,0
-148,1/26/20,Europe,0,0
-149,1/26/20,Méditerranée orientale,0,0
-150,1/26/20,Other,0,0
-151,1/26/20,Pacifique occidental,672,15
-152,1/27/20,Afrique,0,0
-153,1/27/20,Amérique du Nord,3,0
-154,1/27/20,Amérique latine,0,0
-155,1/27/20,Asie du Sud-Est,3,0
-156,1/27/20,Europe,0,0
-157,1/27/20,Méditerranée orientale,1,0
-158,1/27/20,Other,0,0
-159,1/27/20,Pacifique occidental,790,25
-160,1/28/20,Afrique,0,0
-161,1/28/20,Amérique du Nord,1,0
-162,1/28/20,Amérique latine,0,0
-163,1/28/20,Asie du Sud-Est,7,0
-164,1/28/20,Europe,1,0
-165,1/28/20,Méditerranée orientale,0,0
-166,1/28/20,Other,0,0
-167,1/28/20,Pacifique occidental,1758,25
-168,1/29/20,Afrique,0,0
-169,1/29/20,Amérique du Nord,1,0
-170,1/29/20,Amérique latine,0,0
-171,1/29/20,Asie du Sud-Est,0,0
-172,1/29/20,Europe,4,0
-173,1/29/20,Méditerranée orientale,0,0
-174,1/29/20,Other,0,0
-175,1/29/20,Pacifique occidental,1475,26
-176,1/3/20,Afrique,0,0
-177,1/3/20,Amérique du Nord,0,0
-178,1/3/20,Amérique latine,0,0
-179,1/3/20,Asie du Sud-Est,0,0
-180,1/3/20,Europe,0,0
-181,1/3/20,Méditerranée orientale,0,0
-182,1/3/20,Other,0,0
-183,1/3/20,Pacifique occidental,17,0
-184,1/30/20,Afrique,0,0
-185,1/30/20,Amérique du Nord,0,0
-186,1/30/20,Amérique latine,0,0
-187,1/30/20,Asie du Sud-Est,1,0
-188,1/30/20,Europe,2,0
-189,1/30/20,Méditerranée orientale,3,0
-190,1/30/20,Other,0,0
-191,1/30/20,Pacifique occidental,1750,38
-192,1/31/20,Afrique,0,0
-193,1/31/20,Amérique du Nord,1,0
-194,1/31/20,Amérique latine,0,0
-195,1/31/20,Asie du Sud-Est,0,0
-196,1/31/20,Europe,5,0
-197,1/31/20,Méditerranée orientale,0,0
-198,1/31/20,Other,0,0
-199,1/31/20,Pacifique occidental,1995,43
-200,1/4/20,Afrique,0,0
-201,1/4/20,Amérique du Nord,0,0
-202,1/4/20,Amérique latine,0,0
-203,1/4/20,Asie du Sud-Est,0,0
-204,1/4/20,Europe,0,0
-205,1/4/20,Méditerranée orientale,0,0
-206,1/4/20,Other,0,0
-207,1/4/20,Pacifique occidental,0,0
-208,1/5/20,Afrique,0,0
-209,1/5/20,Amérique du Nord,0,0
-210,1/5/20,Amérique latine,0,0
-211,1/5/20,Asie du Sud-Est,0,0
-212,1/5/20,Europe,0,0
-213,1/5/20,Méditerranée orientale,0,0
-214,1/5/20,Other,0,0
-215,1/5/20,Pacifique occidental,15,0
-216,1/6/20,Afrique,0,0
-217,1/6/20,Amérique du Nord,0,0
-218,1/6/20,Amérique latine,0,0
-219,1/6/20,Asie du Sud-Est,0,0
-220,1/6/20,Europe,0,0
-221,1/6/20,Méditerranée orientale,0,0
-222,1/6/20,Other,0,0
-223,1/6/20,Pacifique occidental,0,0
-224,1/7/20,Afrique,0,0
-225,1/7/20,Amérique du Nord,0,0
-226,1/7/20,Amérique latine,0,0
-227,1/7/20,Asie du Sud-Est,0,0
-228,1/7/20,Europe,0,0
-229,1/7/20,Méditerranée orientale,0,0
-230,1/7/20,Other,0,0
-231,1/7/20,Pacifique occidental,0,0
-232,1/8/20,Afrique,0,0
-233,1/8/20,Amérique du Nord,0,0
-234,1/8/20,Amérique latine,0,0
-235,1/8/20,Asie du Sud-Est,0,0
-236,1/8/20,Europe,0,0
-237,1/8/20,Méditerranée orientale,0,0
-238,1/8/20,Other,0,0
-239,1/8/20,Pacifique occidental,0,0
-240,1/9/20,Afrique,0,0
-241,1/9/20,Amérique du Nord,0,0
-242,1/9/20,Amérique latine,0,0
-243,1/9/20,Asie du Sud-Est,0,0
-244,1/9/20,Europe,0,0
-245,1/9/20,Méditerranée orientale,0,0
-246,1/9/20,Other,0,0
-247,1/9/20,Pacifique occidental,0,0
-248,12/31/19,Afrique,0,0
-249,12/31/19,Amérique du Nord,0,0
-250,12/31/19,Amérique latine,0,0
-251,12/31/19,Asie du Sud-Est,0,0
-252,12/31/19,Europe,0,0
-253,12/31/19,Méditerranée orientale,0,0
-254,12/31/19,Other,0,0
-255,12/31/19,Pacifique occidental,27,0
-256,2/1/20,Afrique,0,0
-257,2/1/20,Amérique du Nord,2,0
-258,2/1/20,Amérique latine,0,0
-259,2/1/20,Asie du Sud-Est,5,0
-260,2/1/20,Europe,8,0
-261,2/1/20,Méditerranée orientale,0,0
-262,2/1/20,Other,0,0
-263,2/1/20,Pacifique occidental,2107,46
-264,2/10/20,Afrique,0,0
-265,2/10/20,Amérique du Nord,0,0
-266,2/10/20,Amérique latine,0,0
-267,2/10/20,Asie du Sud-Est,0,0
-268,2/10/20,Europe,5,0
-269,2/10/20,Méditerranée orientale,0,0
-270,2/10/20,Other,6,0
-271,2/10/20,Pacifique occidental,2981,97
-272,2/11/20,Afrique,0,0
-273,2/11/20,Amérique du Nord,1,0
-274,2/11/20,Amérique latine,0,0
-275,2/11/20,Asie du Sud-Est,0,0
-276,2/11/20,Europe,1,0
-277,2/11/20,Méditerranée orientale,1,0
-278,2/11/20,Other,65,0
-279,2/11/20,Pacifique occidental,2494,108
-280,2/12/20,Afrique,0,0
-281,2/12/20,Amérique du Nord,0,0
-282,2/12/20,Amérique latine,0,0
-283,2/12/20,Asie du Sud-Est,1,0
-284,2/12/20,Europe,2,0
-285,2/12/20,Méditerranée orientale,0,0
-286,2/12/20,Other,39,0
-287,2/12/20,Pacifique occidental,2030,97
-288,2/13/20,Afrique,0,0
-289,2/13/20,Amérique du Nord,1,0
-290,2/13/20,Amérique latine,0,0
-291,2/13/20,Asie du Sud-Est,0,0
-292,2/13/20,Europe,1,0
-293,2/13/20,Méditerranée orientale,0,0
-294,2/13/20,Other,0,0
-295,2/13/20,Pacifique occidental,15149,255
-296,2/14/20,Afrique,0,0
-297,2/14/20,Amérique du Nord,1,0
-298,2/14/20,Amérique latine,0,0
-299,2/14/20,Asie du Sud-Est,0,0
-300,2/14/20,Europe,0,0
-301,2/14/20,Méditerranée orientale,0,0
-302,2/14/20,Other,47,0
-303,2/14/20,Pacifique occidental,4167,13
-304,2/15/20,Afrique,0,0
-305,2/15/20,Amérique du Nord,1,0
-306,2/15/20,Amérique latine,0,0
-307,2/15/20,Asie du Sud-Est,1,0
-308,2/15/20,Europe,0,1
-309,2/15/20,Méditerranée orientale,1,0
-310,2/15/20,Other,0,0
-311,2/15/20,Pacifique occidental,2557,143
-312,2/16/20,Afrique,0,0
-313,2/16/20,Amérique du Nord,0,0
-314,2/16/20,Amérique latine,0,0
-315,2/16/20,Asie du Sud-Est,0,0
-316,2/16/20,Europe,0,0
-317,2/16/20,Méditerranée orientale,0,0
-318,2/16/20,Other,134,0
-319,2/16/20,Pacifique occidental,2028,142
-320,2/17/20,Afrique,0,0
-321,2/17/20,Amérique du Nord,0,0
-322,2/17/20,Amérique latine,0,0
-323,2/17/20,Asie du Sud-Est,0,0
-324,2/17/20,Europe,1,0
-325,2/17/20,Méditerranée orientale,1,0
-326,2/17/20,Other,0,0
-327,2/17/20,Pacifique occidental,2065,106
-328,2/18/20,Afrique,0,0
-329,2/18/20,Amérique du Nord,0,0
-330,2/18/20,Amérique latine,0,0
-331,2/18/20,Asie du Sud-Est,1,0
-332,2/18/20,Europe,0,0
-333,2/18/20,Méditerranée orientale,0,0
-334,2/18/20,Other,99,0
-335,2/18/20,Pacifique occidental,1895,98
-336,2/19/20,Afrique,0,0
-337,2/19/20,Amérique du Nord,0,0
-338,2/19/20,Amérique latine,0,0
-339,2/19/20,Asie du Sud-Est,0,0
-340,2/19/20,Europe,0,0
-341,2/19/20,Méditerranée orientale,0,0
-342,2/19/20,Other,88,0
-343,2/19/20,Pacifique occidental,1776,139
-344,2/2/20,Afrique,0,0
-345,2/2/20,Amérique du Nord,1,0
-346,2/2/20,Amérique latine,0,0
-347,2/2/20,Asie du Sud-Est,1,0
-348,2/2/20,Europe,1,0
-349,2/2/20,Méditerranée orientale,1,0
-350,2/2/20,Other,0,0
-351,2/2/20,Pacifique occidental,2604,46
-352,2/20/20,Afrique,0,0
-353,2/20/20,Amérique du Nord,0,0
-354,2/20/20,Amérique latine,0,0
-355,2/20/20,Asie du Sud-Est,0,0
-356,2/20/20,Europe,0,0
-357,2/20/20,Méditerranée orientale,2,2
-358,2/20/20,Other,79,2
-359,2/20/20,Pacifique occidental,451,112
-360,2/21/20,Afrique,0,0
-361,2/21/20,Amérique du Nord,2,0
-362,2/21/20,Amérique latine,0,0
-363,2/21/20,Asie du Sud-Est,0,0
-364,2/21/20,Europe,0,0
-365,2/21/20,Méditerranée orientale,3,0
-366,2/21/20,Other,13,0
-367,2/21/20,Pacifique occidental,978,119
-368,2/22/20,Afrique,0,0
-369,2/22/20,Amérique du Nord,19,0
-370,2/22/20,Amérique latine,0,0
-371,2/22/20,Asie du Sud-Est,0,0
-372,2/22/20,Europe,15,0
-373,2/22/20,Méditerranée orientale,16,2
-374,2/22/20,Other,0,0
-375,2/22/20,Pacifique occidental,1035,110
-376,2/23/20,Afrique,0,0
-377,2/23/20,Amérique du Nord,0,0
-378,2/23/20,Amérique latine,0,0
-379,2/23/20,Asie du Sud-Est,0,0
-380,2/23/20,Europe,63,2
-381,2/23/20,Méditerranée orientale,12,1
-382,2/23/20,Other,0,0
-383,2/23/20,Pacifique occidental,934,101
-384,2/24/20,Afrique,0,0
-385,2/24/20,Amérique du Nord,0,0
-386,2/24/20,Amérique latine,0,0
-387,2/24/20,Asie du Sud-Est,0,0
-388,2/24/20,Europe,54,0
-389,2/24/20,Méditerranée orientale,19,3
-390,2/24/20,Other,57,1
-391,2/24/20,Pacifique occidental,393,152
-392,2/25/20,Afrique,0,0
-393,2/25/20,Amérique du Nord,20,0
-394,2/25/20,Amérique latine,0,0
-395,2/25/20,Asie du Sud-Est,2,0
-396,2/25/20,Europe,98,4
-397,2/25/20,Méditerranée orientale,25,4
-398,2/25/20,Other,0,0
-399,2/25/20,Pacifique occidental,648,71
-400,2/26/20,Afrique,1,0
-401,2/26/20,Amérique du Nord,0,0
-402,2/26/20,Amérique latine,1,0
-403,2/26/20,Asie du Sud-Est,3,0
-404,2/26/20,Europe,109,5
-405,2/26/20,Méditerranée orientale,67,3
-406,2/26/20,Other,0,1
-407,2/26/20,Pacifique occidental,686,55
-408,2/27/20,Afrique,0,0
-409,2/27/20,Amérique du Nord,7,0
-410,2/27/20,Amérique latine,0,0
-411,2/27/20,Asie du Sud-Est,0,0
-412,2/27/20,Europe,107,2
-413,2/27/20,Méditerranée orientale,72,4
-414,2/27/20,Other,14,0
-415,2/27/20,Pacifique occidental,914,32
-416,2/28/20,Afrique,1,0
-417,2/28/20,Amérique du Nord,3,0
-418,2/28/20,Amérique latine,0,0
-419,2/28/20,Asie du Sud-Est,0,0
-420,2/28/20,Europe,342,5
-421,2/28/20,Méditerranée orientale,133,7
-422,2/28/20,Other,0,0
-423,2/28/20,Pacifique occidental,787,45
-424,2/29/20,Afrique,0,0
-425,2/29/20,Amérique du Nord,10,0
-426,2/29/20,Amérique latine,0,0
-427,2/29/20,Asie du Sud-Est,2,0
-428,2/29/20,Europe,326,4
-429,2/29/20,Méditerranée orientale,153,8
-430,2/29/20,Other,0,2
-431,2/29/20,Pacifique occidental,1368,50
-432,2/3/20,Afrique,0,0
-433,2/3/20,Amérique du Nord,3,0
-434,2/3/20,Amérique latine,0,0
-435,2/3/20,Asie du Sud-Est,0,0
-436,2/3/20,Europe,1,0
-437,2/3/20,Méditerranée orientale,0,0
-438,2/3/20,Other,0,0
-439,2/3/20,Pacifique occidental,2814,57
-440,2/4/20,Afrique,0,0
-441,2/4/20,Amérique du Nord,0,0
-442,2/4/20,Amérique latine,0,0
-443,2/4/20,Asie du Sud-Est,1,0
-444,2/4/20,Europe,3,0
-445,2/4/20,Méditerranée orientale,0,0
-446,2/4/20,Other,0,0
-447,2/4/20,Pacifique occidental,3239,65
-448,2/5/20,Afrique,0,0
-449,2/5/20,Amérique du Nord,1,0
-450,2/5/20,Amérique latine,0,0
-451,2/5/20,Asie du Sud-Est,6,0
-452,2/5/20,Europe,1,0
-453,2/5/20,Méditerranée orientale,0,0
-454,2/5/20,Other,10,0
-455,2/5/20,Pacifique occidental,3890,66
-456,2/6/20,Afrique,0,0
-457,2/6/20,Amérique du Nord,1,0
-458,2/6/20,Amérique latine,0,0
-459,2/6/20,Asie du Sud-Est,0,0
-460,2/6/20,Europe,0,0
-461,2/6/20,Méditerranée orientale,0,0
-462,2/6/20,Other,10,0
-463,2/6/20,Pacifique occidental,3740,72
-464,2/7/20,Afrique,0,0
-465,2/7/20,Amérique du Nord,2,0
-466,2/7/20,Amérique latine,0,0
-467,2/7/20,Asie du Sud-Est,0,0
-468,2/7/20,Europe,2,0
-469,2/7/20,Méditerranée orientale,0,0
-470,2/7/20,Other,41,0
-471,2/7/20,Pacifique occidental,3173,73
-472,2/8/20,Afrique,0,0
-473,2/8/20,Amérique du Nord,0,0
-474,2/8/20,Amérique latine,0,0
-475,2/8/20,Asie du Sud-Est,7,0
-476,2/8/20,Europe,6,0
-477,2/8/20,Méditerranée orientale,2,0
-478,2/8/20,Other,3,0
-479,2/8/20,Pacifique occidental,3424,86
-480,2/9/20,Afrique,0,0
-481,2/9/20,Amérique du Nord,0,0
-482,2/9/20,Amérique latine,0,0
-483,2/9/20,Asie du Sud-Est,0,0
-484,2/9/20,Europe,0,0
-485,2/9/20,Méditerranée orientale,0,0
-486,2/9/20,Other,0,0
-487,2/9/20,Pacifique occidental,2618,89
-488,3/1/20,Afrique,2,0
-489,3/1/20,Amérique du Nord,9,1
-490,3/1/20,Amérique latine,2,0
-491,3/1/20,Asie du Sud-Est,0,1
-492,3/1/20,Europe,411,8
-493,3/1/20,Méditerranée orientale,218,9
-494,3/1/20,Other,0,0
-495,3/1/20,Pacifique occidental,1184,39
-496,3/10/20,Afrique,5,0
-497,3/10/20,Amérique du Nord,215,6
-498,3/10/20,Amérique latine,16,0
-499,3/10/20,Asie du Sud-Est,10,0
-500,3/10/20,Europe,3649,136
-501,3/10/20,Méditerranée orientale,676,43
-502,3/10/20,Other,-9,1
-503,3/10/20,Pacifique occidental,254,22
-504,3/11/20,Afrique,3,0
-505,3/11/20,Amérique du Nord,287,2
-506,3/11/20,Amérique latine,38,1
-507,3/11/20,Asie du Sud-Est,30,0
-508,3/11/20,Europe,3456,184
-509,3/11/20,Méditerranée orientale,931,55
-510,3/11/20,Pacifique occidental,362,31
-511,3/12/20,Afrique,7,0
-512,3/12/20,Amérique du Nord,301,2
-513,3/12/20,Amérique latine,61,0
-514,3/12/20,Asie du Sud-Est,52,1
-515,3/12/20,Europe,5898,240
-516,3/12/20,Méditerranée orientale,1316,67
-517,3/12/20,Pacifique occidental,263,21
-518,3/13/20,Afrique,14,1
-519,3/13/20,Amérique du Nord,391,10
-520,3/13/20,Amérique latine,78,1
-521,3/13/20,Asie du Sud-Est,3,1
-522,3/13/20,Europe,7556,249
-523,3/13/20,Méditerranée orientale,1148,76
-524,3/13/20,Pacifique occidental,261,12
-525,3/14/20,Afrique,25,1
-526,3/14/20,Amérique du Nord,559,7
-527,3/14/20,Amérique latine,94,2
-528,3/14/20,Asie du Sud-Est,59,4
-529,3/14/20,Europe,7873,317
-530,3/14/20,Méditerranée orientale,1475,86
-531,3/14/20,Pacifique occidental,319,26
-532,3/15/20,Afrique,26,0
-533,3/15/20,Amérique du Nord,860,10
-534,3/15/20,Amérique latine,109,1
-535,3/15/20,Asie du Sud-Est,39,0
-536,3/15/20,Europe,9382,244
-537,3/15/20,Méditerranée orientale,1441,99
-538,3/15/20,Pacifique occidental,308,13
-539,3/16/20,Afrique,56,2
-540,3/16/20,Amérique du Nord,895,12
-541,3/16/20,Amérique latine,179,1
-542,3/16/20,Asie du Sud-Est,68,1
-543,3/16/20,Europe,9400,599
-544,3/16/20,Méditerranée orientale,1425,113
-545,3/16/20,Pacifique occidental,432,23
-546,3/17/20,Afrique,50,0
-547,3/17/20,Amérique du Nord,1036,19
-548,3/17/20,Amérique latine,253,0
-549,3/17/20,Asie du Sud-Est,124,1
-550,3/17/20,Europe,11014,437
-551,3/17/20,Méditerranée orientale,1338,130
-552,3/17/20,Pacifique occidental,386,19
-553,3/18/20,Afrique,41,1
-554,3/18/20,Amérique du Nord,1922,27
-555,3/18/20,Amérique latine,268,1
-556,3/18/20,Asie du Sud-Est,66,0
-557,3/18/20,Europe,12965,617
-558,3/18/20,Méditerranée orientale,1322,140
-559,3/18/20,Pacifique occidental,422,25
-560,3/19/20,Afrique,92,2
-561,3/19/20,Amérique du Nord,3134,43
-562,3/19/20,Amérique latine,411,6
-563,3/19/20,Asie du Sud-Est,30,0
-564,3/19/20,Europe,14460,743
-565,3/19/20,Méditerranée orientale,1491,151
-566,3/19/20,Pacifique occidental,596,18
-567,3/2/20,Afrique,0,0
-568,3/2/20,Amérique du Nord,25,1
-569,3/2/20,Amérique latine,6,0
-570,3/2/20,Asie du Sud-Est,3,0
-571,3/2/20,Europe,729,7
-572,3/2/20,Méditerranée orientale,407,11
-573,3/2/20,Other,0,0
-574,3/2/20,Pacifique occidental,917,48
-575,3/20/20,Afrique,78,1
-576,3/20/20,Amérique du Nord,5037,1
-577,3/20/20,Amérique latine,571,5
-578,3/20/20,Asie du Sud-Est,127,15
-579,3/20/20,Europe,23255,884
-580,3/20/20,Méditerranée orientale,1412,151
-581,3/20/20,Pacifique occidental,614,18
-582,3/21/20,Afrique,147,4
-583,3/21/20,Amérique du Nord,5538,114
-584,3/21/20,Amérique latine,844,15
-585,3/21/20,Asie du Sud-Est,297,6
-586,3/21/20,Europe,22938,1080
-587,3/21/20,Méditerranée orientale,1466,155
-588,3/21/20,Pacifique occidental,679,13
-589,3/22/20,Afrique,156,10
-590,3/22/20,Amérique du Nord,7502,86
-591,3/22/20,Amérique latine,826,14
-592,3/22/20,Asie du Sud-Est,483,15
-593,3/22/20,Europe,22954,1442
-594,3/22/20,Méditerranée orientale,1453,129
-595,3/22/20,Pacifique occidental,833,20
-596,3/23/20,Afrique,170,4
-597,3/23/20,Amérique du Nord,8652,133
-598,3/23/20,Amérique latine,1109,16
-599,3/23/20,Asie du Sud-Est,317,14
-600,3/23/20,Europe,21524,1355
-601,3/23/20,Méditerranée orientale,1454,140
-602,3/23/20,Pacifique occidental,1131,29
-603,3/24/20,Afrique,281,4
-604,3/24/20,Amérique du Nord,11503,125
-605,3/24/20,Amérique latine,991,18
-606,3/24/20,Asie du Sud-Est,243,6
-607,3/24/20,Europe,28883,1538
-608,3/24/20,Méditerranée orientale,1773,136
-609,3/24/20,Pacifique occidental,741,27
-610,3/25/20,Afrique,363,6
-611,3/25/20,Amérique du Nord,9140,215
-612,3/25/20,Amérique latine,1039,31
-613,3/25/20,Asie du Sud-Est,297,7
-614,3/25/20,Europe,27935,1906
-615,3/25/20,Méditerranée orientale,2424,135
-616,3/25/20,Pacifique occidental,1188,15
-617,3/26/20,Afrique,288,3
-618,3/26/20,Amérique du Nord,15459,257
-619,3/26/20,Amérique latine,1286,24
-620,3/26/20,Asie du Sud-Est,303,8
-621,3/26/20,Europe,32497,2178
-622,3/26/20,Méditerranée orientale,2868,152
-623,3/26/20,Pacifique occidental,1049,23
-624,3/27/20,Afrique,523,8
-625,3/27/20,Amérique du Nord,17540,253
-626,3/27/20,Amérique latine,1322,39
-627,3/27/20,Asie du Sud-Est,284,25
-628,3/27/20,Europe,37336,2288
-629,3/27/20,Méditerranée orientale,2896,174
-630,3/27/20,Pacifique occidental,1115,27
-631,3/28/20,Afrique,361,2
-632,3/28/20,Amérique du Nord,19484,429
-633,3/28/20,Amérique latine,1621,49
-634,3/28/20,Asie du Sud-Est,303,11
-635,3/28/20,Europe,38764,2811
-636,3/28/20,Méditerranée orientale,3477,167
-637,3/28/20,Pacifique occidental,1084,23
-638,3/29/20,Afrique,262,15
-639,3/29/20,Amérique du Nord,20821,495
-640,3/29/20,Amérique latine,1605,51
-641,3/29/20,Asie du Sud-Est,341,23
-642,3/29/20,Europe,34646,2817
-643,3/29/20,Méditerranée orientale,3686,154
-644,3/29/20,Pacifique occidental,1453,35
-645,3/3/20,Afrique,1,0
-646,3/3/20,Amérique du Nord,17,4
-647,3/3/20,Amérique latine,2,0
-648,3/3/20,Asie du Sud-Est,2,0
-649,3/3/20,Europe,558,18
-650,3/3/20,Méditerranée orientale,543,12
-651,3/3/20,Pacifique occidental,734,38
-652,3/30/20,Afrique,282,8
-653,3/30/20,Amérique du Nord,19374,323
-654,3/30/20,Amérique latine,1443,66
-655,3/30/20,Asie du Sud-Est,372,17
-656,3/30/20,Europe,31011,2647
-657,3/30/20,Méditerranée orientale,3588,145
-658,3/30/20,Pacifique occidental,1293,25
-659,3/31/20,Afrique,356,11
-660,3/31/20,Amérique du Nord,22865,697
-661,3/31/20,Amérique latine,1355,58
-662,3/31/20,Asie du Sud-Est,578,14
-663,3/31/20,Europe,33704,3034
-664,3/31/20,Méditerranée orientale,3936,146
-665,3/31/20,Pacifique occidental,1694,33
-666,3/4/20,Afrique,2,0
-667,3/4/20,Amérique du Nord,25,3
-668,3/4/20,Amérique latine,2,0
-669,3/4/20,Asie du Sud-Est,1,0
-670,3/4/20,Europe,760,29
-671,3/4/20,Méditerranée orientale,854,11
-672,3/4/20,Pacifique occidental,668,41
-673,3/5/20,Afrique,9,0
-674,3/5/20,Amérique du Nord,37,2
-675,3/5/20,Amérique latine,6,0
-676,3/5/20,Asie du Sud-Est,26,0
-677,3/5/20,Europe,1042,28
-678,3/5/20,Méditerranée orientale,602,15
-679,3/5/20,Pacifique occidental,632,35
-680,3/6/20,Afrique,7,0
-681,3/6/20,Amérique du Nord,86,1
-682,3/6/20,Amérique latine,10,0
-683,3/6/20,Asie du Sud-Est,2,0
-684,3/6/20,Europe,1599,47
-685,3/6/20,Méditerranée orientale,619,17
-686,3/6/20,Pacifique occidental,735,37
-687,3/7/20,Afrique,2,0
-688,3/7/20,Amérique du Nord,111,2
-689,3/7/20,Amérique latine,16,0
-690,3/7/20,Asie du Sud-Est,7,0
-691,3/7/20,Europe,2017,55
-692,3/7/20,Méditerranée orientale,1269,17
-693,3/7/20,Pacifique occidental,698,30
-694,3/8/20,Afrique,1,0
-695,3/8/20,Amérique du Nord,101,3
-696,3/8/20,Amérique latine,2,1
-697,3/8/20,Asie du Sud-Est,5,0
-698,3/8/20,Europe,2246,38
-699,3/8/20,Méditerranée orientale,1127,21
-700,3/8/20,Pacifique occidental,495,34
-701,3/9/20,Afrique,5,0
-702,3/9/20,Amérique du Nord,128,4
-703,3/9/20,Amérique latine,31,0
-704,3/9/20,Asie du Sud-Est,7,0
-705,3/9/20,Europe,2823,145
-706,3/9/20,Méditerranée orientale,820,54
-707,3/9/20,Pacifique occidental,363,25
-708,4/1/20,Afrique,323,18
-709,4/1/20,Amérique du Nord,26231,917
-710,4/1/20,Amérique latine,2480,94
-711,4/1/20,Asie du Sud-Est,266,19
-712,4/1/20,Europe,40813,3455
-713,4/1/20,Méditerranée orientale,4144,164
-714,4/1/20,Pacifique occidental,417,10
-715,4/10/20,Afrique,564,34
-716,4/10/20,Amérique du Nord,35635,1967
-717,4/10/20,Amérique latine,4833,260
-718,4/10/20,Asie du Sud-Est,1184,75
-719,4/10/20,Europe,40368,4903
-720,4/10/20,Méditerranée orientale,3287,151
-721,4/10/20,Pacifique occidental,1393,34
-722,4/11/20,Afrique,455,34
-723,4/11/20,Amérique du Nord,37315,2186
-724,4/11/20,Amérique latine,6153,220
-725,4/11/20,Asie du Sud-Est,1401,74
-726,4/11/20,Europe,39660,4323
-727,4/11/20,Méditerranée orientale,3561,163
-728,4/11/20,Pacifique occidental,967,16
-729,4/12/20,Afrique,416,33
-730,4/12/20,Amérique du Nord,29934,1955
-731,4/12/20,Amérique latine,3585,156
-732,4/12/20,Asie du Sud-Est,1335,61
-733,4/12/20,Europe,34435,3623
-734,4/12/20,Méditerranée orientale,3704,173
-735,4/12/20,Pacifique occidental,1905,64
-736,4/13/20,Afrique,561,22
-737,4/13/20,Amérique du Nord,29126,1587
-738,4/13/20,Amérique latine,3387,208
-739,4/13/20,Asie du Sud-Est,1387,88
-740,4/13/20,Europe,29093,3200
-741,4/13/20,Méditerranée orientale,3668,163
-742,4/13/20,Pacifique occidental,1306,67
-743,4/14/20,Afrique,428,28
-744,4/14/20,Amérique du Nord,26674,1640
-745,4/14/20,Amérique latine,2252,153
-746,4/14/20,Asie du Sud-Est,1776,63
-747,4/14/20,Europe,28218,3323
-748,4/14/20,Méditerranée orientale,3994,148
-749,4/14/20,Pacifique occidental,1378,36
-750,4/15/20,Afrique,572,26
-751,4/15/20,Amérique du Nord,28690,2605
-752,4/15/20,Amérique latine,5794,289
-753,4/15/20,Asie du Sud-Est,1628,107
-754,4/15/20,Europe,34696,4412
-755,4/15/20,Méditerranée orientale,3714,139
-756,4/15/20,Pacifique occidental,1402,40
-757,4/16/20,Afrique,533,25
-758,4/16/20,Amérique du Nord,31914,5078
-759,4/16/20,Amérique latine,5745,302
-760,4/16/20,Asie du Sud-Est,1491,54
-761,4/16/20,Europe,33349,4859
-762,4/16/20,Méditerranée orientale,3952,135
-763,4/16/20,Pacifique occidental,1364,38
-764,4/17/20,Afrique,460,36
-765,4/17/20,Amérique du Nord,33834,2519
-766,4/17/20,Amérique latine,4924,285
-767,4/17/20,Asie du Sud-Est,1784,61
-768,4/17/20,Europe,36497,4175
-769,4/17/20,Méditerranée orientale,4390,132
-770,4/17/20,Pacifique occidental,2052,1319
-771,4/18/20,Afrique,897,37
-772,4/18/20,Amérique du Nord,33202,3946
-773,4/18/20,Amérique latine,6050,313
-774,4/18/20,Asie du Sud-Est,1697,83
-775,4/18/20,Europe,33545,3920
-776,4/18/20,Méditerranée orientale,4755,123
-777,4/18/20,Pacifique occidental,1633,40
-778,4/19/20,Afrique,796,13
-779,4/19/20,Amérique du Nord,35013,2118
-780,4/19/20,Amérique latine,5752,349
-781,4/19/20,Asie du Sud-Est,2028,51
-782,4/19/20,Europe,29631,3694
-783,4/19/20,Méditerranée orientale,4485,124
-784,4/19/20,Pacifique occidental,1858,24
-785,4/2/20,Afrique,494,26
-786,4/2/20,Amérique du Nord,28325,1080
-787,4/2/20,Amérique latine,3012,136
-788,4/2/20,Asie du Sud-Est,864,39
-789,4/2/20,Europe,39535,3548
-790,4/2/20,Méditerranée orientale,3839,160
-791,4/2/20,Pacifique occidental,1404,26
-792,4/20/20,Afrique,808,43
-793,4/20/20,Amérique du Nord,26801,1921
-794,4/20/20,Amérique latine,5201,230
-795,4/20/20,Asie du Sud-Est,2287,90
-796,4/20/20,Europe,29443,2539
-797,4/20/20,Méditerranée orientale,4696,140
-798,4/20/20,Pacifique occidental,1326,26
-799,4/21/20,Afrique,478,19
-800,4/21/20,Amérique du Nord,30622,1993
-801,4/21/20,Amérique latine,4678,243
-802,4/21/20,Asie du Sud-Est,2077,65
-803,4/21/20,Europe,28619,2955
-804,4/21/20,Méditerranée orientale,5170,137
-805,4/21/20,Pacifique occidental,2091,37
-806,4/22/20,Afrique,850,18
-807,4/22/20,Amérique du Nord,39608,2813
-808,4/22/20,Amérique latine,5317,268
-809,4/22/20,Asie du Sud-Est,2248,86
-810,4/22/20,Europe,32196,3907
-811,4/22/20,Méditerranée orientale,4702,134
-812,4/22/20,Pacifique occidental,1744,17
-813,4/23/20,Afrique,831,32
-814,4/23/20,Amérique du Nord,20397,1974
-815,4/23/20,Amérique latine,6008,290
-816,4/23/20,Asie du Sud-Est,2140,72
-817,4/23/20,Europe,31441,3327
-818,4/23/20,Méditerranée orientale,4044,124
-819,4/23/20,Pacifique occidental,1483,116
-820,4/24/20,Afrique,1081,35
-821,4/24/20,Amérique du Nord,29552,3450
-822,4/24/20,Amérique latine,7195,517
-823,4/24/20,Asie du Sud-Est,2526,56
-824,4/24/20,Europe,30428,3074
-825,4/24/20,Méditerranée orientale,5820,153
-826,4/24/20,Pacifique occidental,1883,50
-827,4/25/20,Afrique,1201,22
-828,4/25/20,Amérique du Nord,24369,1362
-829,4/25/20,Amérique latine,5810,481
-830,4/25/20,Asie du Sud-Est,2467,103
-831,4/25/20,Europe,31304,3198
-832,4/25/20,Méditerranée orientale,5743,155
-833,4/25/20,Pacifique occidental,1898,38
-834,4/26/20,Afrique,742,27
-835,4/26/20,Amérique du Nord,50963,2419
-836,4/26/20,Amérique latine,11074,484
-837,4/26/20,Asie du Sud-Est,2816,90
-838,4/26/20,Europe,27489,2968
-839,4/26/20,Méditerranée orientale,5594,135
-840,4/26/20,Pacifique occidental,1104,37
-841,4/27/20,Afrique,1169,26
-842,4/27/20,Amérique du Nord,29235,1828
-843,4/27/20,Amérique latine,18576,261
-844,4/27/20,Asie du Sud-Est,2230,76
-845,4/27/20,Europe,23657,1605
-846,4/27/20,Méditerranée orientale,5328,103
-847,4/27/20,Pacifique occidental,1482,15
-848,4/28/20,Afrique,784,19
-849,4/28/20,Amérique du Nord,24998,1599
-850,4/28/20,Amérique latine,7719,518
-851,4/28/20,Asie du Sud-Est,2335,94
-852,4/28/20,Europe,23047,2462
-853,4/28/20,Méditerranée orientale,5652,166
-854,4/28/20,Pacifique occidental,1285,40
-855,4/29/20,Afrique,1242,23
-856,4/29/20,Amérique du Nord,26881,2397
-857,4/29/20,Amérique latine,10615,819
-858,4/29/20,Asie du Sud-Est,2929,84
-859,4/29/20,Europe,24161,3055
-860,4/29/20,Méditerranée orientale,5383,148
-861,4/29/20,Pacifique occidental,1043,39
-862,4/3/20,Afrique,443,17
-863,4/3/20,Amérique du Nord,30624,957
-864,4/3/20,Amérique latine,2453,88
-865,4/3/20,Asie du Sud-Est,564,23
-866,4/3/20,Europe,38027,3748
-867,4/3/20,Méditerranée orientale,3860,153
-868,4/3/20,Pacifique occidental,1487,40
-869,4/30/20,Afrique,1387,40
-870,4/30/20,Amérique du Nord,29945,2911
-871,4/30/20,Amérique latine,11061,595
-872,4/30/20,Asie du Sud-Est,2700,87
-873,4/30/20,Europe,26682,2728
-874,4/30/20,Méditerranée orientale,5734,145
-875,4/30/20,Pacifique occidental,1293,57
-876,4/4/20,Afrique,625,49
-877,4/4/20,Amérique du Nord,33854,1163
-878,4/4/20,Amérique latine,2661,124
-879,4/4/20,Asie du Sud-Est,909,28
-880,4/4/20,Europe,41990,5368
-881,4/4/20,Méditerranée orientale,240,1
-882,4/4/20,Pacifique occidental,1551,53
-883,4/5/20,Afrique,453,40
-884,4/5/20,Amérique du Nord,35837,1407
-885,4/5/20,Amérique latine,2647,159
-886,4/5/20,Asie du Sud-Est,787,26
-887,4/5/20,Europe,37305,4294
-888,4/5/20,Méditerranée orientale,7243,345
-889,4/5/20,Pacifique occidental,971,27
-890,4/6/20,Afrique,480,38
-891,4/6/20,Amérique du Nord,27265,1210
-892,4/6/20,Amérique latine,2615,115
-893,4/6/20,Asie du Sud-Est,953,43
-894,4/6/20,Europe,29250,3146
-895,4/6/20,Méditerranée orientale,4644,197
-896,4/6/20,Pacifique occidental,1069,22
-897,4/7/20,Afrique,473,23
-898,4/7/20,Amérique du Nord,32014,1416
-899,4/7/20,Amérique latine,2175,125
-900,4/7/20,Asie du Sud-Est,658,19
-901,4/7/20,Europe,32506,3561
-902,4/7/20,Méditerranée orientale,4043,170
-903,4/7/20,Pacifique occidental,1119,31
-904,4/8/20,Afrique,352,28
-905,4/8/20,Amérique du Nord,32189,1979
-906,4/8/20,Amérique latine,3380,205
-907,4/8/20,Asie du Sud-Est,1179,57
-908,4/8/20,Europe,35480,5112
-909,4/8/20,Méditerranée orientale,3657,165
-910,4/8/20,Pacifique occidental,1030,30
-911,4/9/20,Afrique,550,29
-912,4/9/20,Amérique du Nord,35110,2010
-913,4/9/20,Amérique latine,5552,210
-914,4/9/20,Asie du Sud-Est,870,44
-915,4/9/20,Europe,38073,4099
-916,4/9/20,Méditerranée orientale,3583,156
-917,4/9/20,Pacifique occidental,1182,22
-918,5/1/20,Afrique,1632,26
-919,5/1/20,Amérique du Nord,32991,2355
-920,5/1/20,Amérique latine,12942,632
-921,5/1/20,Asie du Sud-Est,3118,87
-922,5/1/20,Europe,27496,2365
-923,5/1/20,Méditerranée orientale,6059,152
-924,5/1/20,Pacifique occidental,1095,33
-925,5/10/20,Afrique,1936,48
-926,5/10/20,Amérique du Nord,28818,1931
-927,5/10/20,Amérique latine,17211,899
-928,5/10/20,Asie du Sud-Est,4617,153
-929,5/10/20,Europe,26063,1231
-930,5/10/20,Méditerranée orientale,9058,124
-931,5/10/20,Pacifique occidental,1140,21
-932,5/11/20,Afrique,1888,45
-933,5/11/20,Amérique du Nord,22966,1024
-934,5/11/20,Amérique latine,12946,1033
-935,5/11/20,Asie du Sud-Est,5574,125
-936,5/11/20,Europe,20531,1038
-937,5/11/20,Méditerranée orientale,9542,139
-938,5/11/20,Pacifique occidental,1247,23
-939,5/12/20,Afrique,2340,44
-940,5/12/20,Amérique du Nord,20555,1386
-941,5/12/20,Amérique latine,10102,547
-942,5/12/20,Asie du Sud-Est,4955,116
-943,5/12/20,Europe,22058,1342
-944,5/12/20,Méditerranée orientale,8796,120
-945,5/12/20,Pacifique occidental,928,34
-946,5/13/20,Afrique,2265,39
-947,5/13/20,Amérique du Nord,25221,2232
-948,5/13/20,Amérique latine,17132,1232
-949,5/13/20,Asie du Sud-Est,5090,149
-950,5/13/20,Europe,24613,1927
-951,5/13/20,Méditerranée orientale,10529,127
-952,5/13/20,Pacifique occidental,1363,51
-953,5/14/20,Afrique,2379,65
-954,5/14/20,Amérique du Nord,23765,2175
-955,5/14/20,Amérique latine,20454,938
-956,5/14/20,Asie du Sud-Est,5657,175
-957,5/14/20,Europe,23091,1489
-958,5/14/20,Méditerranée orientale,9811,132
-959,5/14/20,Pacifique occidental,1100,44
-960,5/15/20,Afrique,2426,54
-961,5/15/20,Amérique du Nord,30675,2198
-962,5/15/20,Amérique latine,22929,1044
-963,5/15/20,Asie du Sud-Est,5658,129
-964,5/15/20,Europe,23286,1639
-965,5/15/20,Méditerranée orientale,10332,150
-966,5/15/20,Pacifique occidental,1237,42
-967,5/16/20,Afrique,2281,49
-968,5/16/20,Amérique du Nord,29146,2042
-969,5/16/20,Amérique latine,24909,1295
-970,5/16/20,Asie du Sud-Est,5748,151
-971,5/16/20,Europe,22843,1331
-972,5/16/20,Méditerranée orientale,11071,158
-973,5/16/20,Pacifique occidental,1221,33
-974,5/17/20,Afrique,2327,41
-975,5/17/20,Amérique du Nord,27850,1581
-976,5/17/20,Amérique latine,24206,1104
-977,5/17/20,Asie du Sud-Est,6536,150
-978,5/17/20,Europe,20641,1182
-979,5/17/20,Méditerranée orientale,10586,134
-980,5/17/20,Pacifique occidental,789,33
-981,5/18/20,Afrique,2281,35
-982,5/18/20,Amérique du Nord,22086,1043
-983,5/18/20,Amérique latine,16446,728
-984,5/18/20,Asie du Sud-Est,7059,231
-985,5/18/20,Europe,18828,716
-986,5/18/20,Méditerranée orientale,11831,132
-987,5/18/20,Pacifique occidental,972,13
-988,5/19/20,Afrique,2193,44
-989,5/19/20,Amérique du Nord,25325,1006
-990,5/19/20,Amérique latine,21032,964
-991,5/19/20,Asie du Sud-Est,7169,198
-992,5/19/20,Europe,18120,903
-993,5/19/20,Méditerranée orientale,11866,163
-994,5/19/20,Pacifique occidental,662,22
-995,5/2/20,Afrique,1389,39
-996,5/2/20,Amérique du Nord,37295,2382
-997,5/2/20,Amérique latine,13579,724
-998,5/2/20,Asie du Sud-Est,3347,81
-999,5/2/20,Europe,25247,2173
-1000,5/2/20,Méditerranée orientale,6245,135
-1001,5/2/20,Pacifique occidental,1565,43
-1002,5/20/20,Afrique,2438,54
-1003,5/20/20,Amérique du Nord,23723,1972
-1004,5/20/20,Amérique latine,28729,1439
-1005,5/20/20,Asie du Sud-Est,7452,191
-1006,5/20/20,Europe,20090,1354
-1007,5/20/20,Méditerranée orientale,12338,159
-1008,5/20/20,Pacifique occidental,774,15
-1009,5/21/20,Afrique,2245,57
-1010,5/21/20,Amérique du Nord,26523,2060
-1011,5/21/20,Amérique latine,31794,1138
-1012,5/21/20,Asie du Sud-Est,8011,169
-1013,5/21/20,Europe,20573,1118
-1014,5/21/20,Méditerranée orientale,13224,164
-1015,5/21/20,Pacifique occidental,957,13
-1016,5/22/20,Afrique,3365,79
-1017,5/22/20,Amérique du Nord,29629,1805
-1018,5/22/20,Amérique latine,30241,1479
-1019,5/22/20,Asie du Sud-Est,8937,207
-1020,5/22/20,Europe,20840,1612
-1021,5/22/20,Méditerranée orientale,13931,184
-1022,5/22/20,Pacifique occidental,837,24
-1023,5/23/20,Afrique,2487,55
-1024,5/23/20,Amérique du Nord,28263,1882
-1025,5/23/20,Amérique latine,32069,1353
-1026,5/23/20,Asie du Sud-Est,9122,209
-1027,5/23/20,Europe,19714,958
-1028,5/23/20,Méditerranée orientale,13227,162
-1029,5/23/20,Pacifique occidental,918,27
-1030,5/24/20,Afrique,3285,35
-1031,5/24/20,Amérique du Nord,25706,1375
-1032,5/24/20,Amérique latine,28222,1245
-1033,5/24/20,Asie du Sud-Est,9675,192
-1034,5/24/20,Europe,19168,863
-1035,5/24/20,Méditerranée orientale,13047,188
-1036,5/24/20,Pacifique occidental,924,19
-1037,5/25/20,Afrique,3070,52
-1038,5/25/20,Amérique du Nord,24410,917
-1039,5/25/20,Amérique latine,27726,850
-1040,5/25/20,Asie du Sud-Est,9179,204
-1041,5/25/20,Europe,16030,-1092
-1042,5/25/20,Méditerranée orientale,11812,159
-1043,5/25/20,Pacifique occidental,928,16
-1044,5/26/20,Afrique,2569,91
-1045,5/26/20,Amérique du Nord,22561,860
-1046,5/26/20,Amérique latine,24800,1184
-1047,5/26/20,Asie du Sud-Est,9135,188
-1048,5/26/20,Europe,17932,879
-1049,5/26/20,Méditerranée orientale,10968,143
-1050,5/26/20,Pacifique occidental,878,23
-1051,5/27/20,Afrique,2909,90
-1052,5/27/20,Amérique du Nord,23301,1291
-1053,5/27/20,Amérique latine,29821,1341
-1054,5/27/20,Asie du Sud-Est,8244,219
-1055,5/27/20,Europe,17715,761
-1056,5/27/20,Méditerranée orientale,10776,144
-1057,5/27/20,Pacifique occidental,1015,25
-1058,5/28/20,Afrique,3476,63
-1059,5/28/20,Amérique du Nord,23056,2115
-1060,5/28/20,Amérique latine,35826,1460
-1061,5/28/20,Asie du Sud-Est,9086,271
-1062,5/28/20,Europe,18212,1045
-1063,5/28/20,Méditerranée orientale,12132,169
-1064,5/28/20,Pacifique occidental,1031,20
-1065,5/29/20,Afrique,3043,50
-1066,5/29/20,Amérique du Nord,26187,1734
-1067,5/29/20,Amérique latine,41475,1432
-1068,5/29/20,Asie du Sud-Est,10469,214
-1069,5/29/20,Europe,22462,961
-1070,5/29/20,Méditerranée orientale,13791,218
-1071,5/29/20,Pacifique occidental,1079,33
-1072,5/3/20,Afrique,1315,45
-1073,5/3/20,Amérique du Nord,32290,1581
-1074,5/3/20,Amérique latine,11432,870
-1075,5/3/20,Asie du Sud-Est,3537,119
-1076,5/3/20,Europe,25219,1995
-1077,5/3/20,Méditerranée orientale,5794,139
-1078,5/3/20,Pacifique occidental,1041,59
-1079,5/30/20,Afrique,4300,61
-1080,5/30/20,Amérique du Nord,29470,1692
-1081,5/30/20,Amérique latine,41371,1410
-1082,5/30/20,Asie du Sud-Est,11472,313
-1083,5/30/20,Europe,19167,886
-1084,5/30/20,Méditerranée orientale,14363,258
-1085,5/30/20,Pacifique occidental,1926,33
-1086,5/31/20,Afrique,4376,80
-1087,5/31/20,Amérique du Nord,26954,1403
-1088,5/31/20,Amérique latine,50077,1245
-1089,5/31/20,Asie du Sud-Est,11048,274
-1090,5/31/20,Europe,18974,720
-1091,5/31/20,Méditerranée orientale,15291,276
-1092,5/31/20,Pacifique occidental,1218,14
-1093,5/4/20,Afrique,1072,23
-1094,5/4/20,Amérique du Nord,29115,1506
-1095,5/4/20,Amérique latine,12691,619
-1096,5/4/20,Asie du Sud-Est,3611,88
-1097,5/4/20,Europe,23036,1321
-1098,5/4/20,Méditerranée orientale,6311,120
-1099,5/4/20,Pacifique occidental,1329,29
-1100,5/5/20,Afrique,2156,30
-1101,5/5/20,Amérique du Nord,25325,1541
-1102,5/5/20,Amérique latine,12661,431
-1103,5/5/20,Asie du Sud-Est,5075,220
-1104,5/5/20,Europe,23537,1595
-1105,5/5/20,Méditerranée orientale,6686,140
-1106,5/5/20,Pacifique occidental,1096,29
-1107,5/6/20,Afrique,1335,44
-1108,5/6/20,Amérique du Nord,26235,2569
-1109,5/6/20,Amérique latine,13682,765
-1110,5/6/20,Asie du Sud-Est,4267,136
-1111,5/6/20,Europe,24762,2247
-1112,5/6/20,Méditerranée orientale,7387,156
-1113,5/6/20,Pacifique occidental,1015,40
-1114,5/7/20,Afrique,1777,72
-1115,5/7/20,Amérique du Nord,27187,2739
-1116,5/7/20,Amérique latine,14303,817
-1117,5/7/20,Asie du Sud-Est,4807,117
-1118,5/7/20,Europe,30117,2170
-1119,5/7/20,Méditerranée orientale,8066,175
-1120,5/7/20,Pacifique occidental,1300,34
-1121,5/8/20,Afrique,1749,45
-1122,5/8/20,Amérique du Nord,31777,2672
-1123,5/8/20,Amérique latine,17705,808
-1124,5/8/20,Asie du Sud-Est,4505,152
-1125,5/8/20,Europe,27392,1788
-1126,5/8/20,Méditerranée orientale,8031,144
-1127,5/8/20,Pacifique occidental,1265,33
-1128,5/9/20,Afrique,2885,45
-1129,5/9/20,Amérique du Nord,30375,1870
-1130,5/9/20,Amérique latine,15489,958
-1131,5/9/20,Asie du Sud-Est,4387,115
-1132,5/9/20,Europe,26047,1928
-1133,5/9/20,Méditerranée orientale,8954,141
-1134,5/9/20,Pacifique occidental,1074,55
-1135,6/1/20,Afrique,3338,73
-1136,6/1/20,Amérique du Nord,23716,975
-1137,6/1/20,Amérique latine,34459,792
-1138,6/1/20,Asie du Sud-Est,11926,312
-1139,6/1/20,Europe,16574,488
-1140,6/1/20,Méditerranée orientale,15160,264
-1141,6/1/20,Pacifique occidental,1543,9
-1142,6/10/20,Afrique,4889,130
-1143,6/10/20,Amérique du Nord,23273,1657
-1144,6/10/20,Amérique latine,45906,1653
-1145,6/10/20,Asie du Sud-Est,14558,365
-1146,6/10/20,Europe,17543,735
-1147,6/10/20,Méditerranée orientale,18225,302
-1148,6/10/20,Pacifique occidental,843,11
-1149,6/11/20,Afrique,4699,101
-1150,6/11/20,Amérique du Nord,25969,1689
-1151,6/11/20,Amérique latine,50308,1844
-1152,6/11/20,Asie du Sud-Est,14741,430
-1153,6/11/20,Europe,18420,716
-1154,6/11/20,Méditerranée orientale,19416,339
-1155,6/11/20,Pacifique occidental,1301,12
-1156,6/12/20,Afrique,5319,110
-1157,6/12/20,Amérique du Nord,28078,1517
-1158,6/12/20,Amérique latine,46809,1719
-1159,6/12/20,Asie du Sud-Est,15406,474
-1160,6/12/20,Europe,19511,502
-1161,6/12/20,Méditerranée orientale,20021,362
-1162,6/12/20,Pacifique occidental,1011,12
-1163,6/13/20,Afrique,6755,188
-1164,6/13/20,Amérique du Nord,31274,1408
-1165,6/13/20,Amérique latine,48029,1642
-1166,6/13/20,Asie du Sud-Est,16522,481
-1167,6/13/20,Europe,19640,564
-1168,6/13/20,Méditerranée orientale,21179,346
-1169,6/13/20,Pacifique occidental,1227,19
-1170,6/14/20,Afrique,6491,128
-1171,6/14/20,Amérique du Nord,29501,1249
-1172,6/14/20,Amérique latine,40349,1506
-1173,6/14/20,Asie du Sud-Est,16095,400
-1174,6/14/20,Europe,19153,480
-1175,6/14/20,Méditerranée orientale,20673,351
-1176,6/14/20,Pacifique occidental,1150,25
-1177,6/15/20,Afrique,7259,106
-1178,6/15/20,Amérique du Nord,24067,604
-1179,6/15/20,Amérique latine,35483,1214
-1180,6/15/20,Asie du Sud-Est,15954,401
-1181,6/15/20,Europe,17679,351
-1182,6/15/20,Méditerranée orientale,19626,466
-1183,6/15/20,Pacifique occidental,1128,15
-1184,6/16/20,Afrique,6219,138
-1185,6/16/20,Amérique du Nord,23744,863
-1186,6/16/20,Amérique latine,35826,1030
-1187,6/16/20,Asie du Sud-Est,15281,482
-1188,6/16/20,Europe,17495,381
-1189,6/16/20,Méditerranée orientale,19003,471
-1190,6/16/20,Pacifique occidental,927,13
-1191,6/17/20,Afrique,5221,126
-1192,6/17/20,Amérique du Nord,28624,1604
-1193,6/17/20,Amérique latine,51251,1731
-1194,6/17/20,Asie du Sud-Est,16361,2089
-1195,6/17/20,Europe,18858,656
-1196,6/17/20,Méditerranée orientale,20495,502
-1197,6/17/20,Pacifique occidental,666,11
-1198,6/18/20,Afrique,6739,103
-1199,6/18/20,Amérique du Nord,30875,1565
-1200,6/18/20,Amérique latine,79873,1914
-1201,6/18/20,Asie du Sud-Est,18548,423
-1202,6/18/20,Europe,19855,597
-1203,6/18/20,Méditerranée orientale,20092,488
-1204,6/18/20,Pacifique occidental,882,10
-1205,6/19/20,Afrique,7012,116
-1206,6/19/20,Amérique du Nord,33791,1430
-1207,6/19/20,Amérique latine,38601,1908
-1208,6/19/20,Asie du Sud-Est,19454,439
-1209,6/19/20,Europe,19247,1868
-1210,6/19/20,Méditerranée orientale,19316,506
-1211,6/19/20,Pacifique occidental,1029,8
-1212,6/2/20,Afrique,3636,63
-1213,6/2/20,Amérique du Nord,24615,1032
-1214,6/2/20,Amérique latine,27351,949
-1215,6/2/20,Asie du Sud-Est,11316,256
-1216,6/2/20,Europe,16529,561
-1217,6/2/20,Méditerranée orientale,15747,278
-1218,6/2/20,Pacifique occidental,1100,7
-1219,6/20/20,Afrique,7384,187
-1220,6/20/20,Amérique du Nord,35348,1371
-1221,6/20/20,Amérique latine,76277,1964
-1222,6/20/20,Asie du Sud-Est,19248,454
-1223,6/20/20,Europe,19465,510
-1224,6/20/20,Méditerranée orientale,21598,514
-1225,6/20/20,Pacifique occidental,991,31
-1226,6/21/20,Afrique,8850,128
-1227,6/21/20,Amérique du Nord,39265,1058
-1228,6/21/20,Amérique latine,52873,1653
-1229,6/21/20,Asie du Sud-Est,20249,399
-1230,6/21/20,Europe,18724,347
-1231,6/21/20,Méditerranée orientale,19046,510
-1232,6/21/20,Pacifique occidental,1310,21
-1233,6/22/20,Afrique,7797,101
-1234,6/22/20,Amérique du Nord,31454,1320
-1235,6/22/20,Amérique latine,35679,1244
-1236,6/22/20,Asie du Sud-Est,19655,521
-1237,6/22/20,Europe,16253,309
-1238,6/22/20,Méditerranée orientale,17242,451
-1239,6/22/20,Pacifique occidental,1118,20
-1240,6/23/20,Afrique,7226,118
-1241,6/23/20,Amérique du Nord,36278,1192
-1242,6/23/20,Amérique latine,34918,906
-1243,6/23/20,Asie du Sud-Est,19387,385
-1244,6/23/20,Europe,16857,321
-1245,6/23/20,Méditerranée orientale,18539,463
-1246,6/23/20,Pacifique occidental,1034,11
-1247,6/24/20,Afrique,7407,174
-1248,6/24/20,Amérique du Nord,41334,1637
-1249,6/24/20,Amérique latine,56715,1997
-1250,6/24/20,Asie du Sud-Est,20499,543
-1251,6/24/20,Europe,18638,532
-1252,6/24/20,Méditerranée orientale,17875,449
-1253,6/24/20,Pacifique occidental,1424,18
-1254,6/25/20,Afrique,8622,144
-1255,6/25/20,Amérique du Nord,40055,1746
-1256,6/25/20,Amérique latine,63782,1860
-1257,6/25/20,Asie du Sud-Est,23235,493
-1258,6/25/20,Europe,19853,406
-1259,6/25/20,Méditerranée orientale,18607,541
-1260,6/25/20,Pacifique occidental,840,25
-1261,6/26/20,Afrique,10484,129
-1262,6/26/20,Amérique du Nord,47422,3175
-1263,6/26/20,Amérique latine,59887,1830
-1264,6/26/20,Asie du Sud-Est,22879,496
-1265,6/26/20,Europe,18712,445
-1266,6/26/20,Méditerranée orientale,18253,492
-1267,6/26/20,Pacifique occidental,1104,11
-1268,6/27/20,Afrique,9096,103
-1269,6/27/20,Amérique du Nord,51140,1346
-1270,6/27/20,Amérique latine,63677,1750
-1271,6/27/20,Asie du Sud-Est,24272,488
-1272,6/27/20,Europe,20381,477
-1273,6/27/20,Méditerranée orientale,18650,382
-1274,6/27/20,Pacifique occidental,1456,14
-1275,6/28/20,Afrique,10755,114
-1276,6/28/20,Amérique du Nord,47134,1110
-1277,6/28/20,Amérique latine,62677,1887
-1278,6/28/20,Asie du Sud-Est,24840,481
-1279,6/28/20,Europe,17424,406
-1280,6/28/20,Méditerranée orientale,17941,581
-1281,6/28/20,Pacifique occidental,1257,12
-1282,6/29/20,Afrique,9776,95
-1283,6/29/20,Amérique du Nord,42941,538
-1284,6/29/20,Amérique latine,47041,1187
-1285,6/29/20,Asie du Sud-Est,25508,458
-1286,6/29/20,Europe,16212,327
-1287,6/29/20,Méditerranée orientale,17646,455
-1288,6/29/20,Pacifique occidental,1079,9
-1289,6/3/20,Afrique,3351,93
-1290,6/3/20,Amérique du Nord,25140,1573
-1291,6/3/20,Amérique latine,37432,1523
-1292,6/3/20,Asie du Sud-Est,12788,278
-1293,6/3/20,Europe,16223,802
-1294,6/3/20,Méditerranée orientale,16400,263
-1295,6/3/20,Pacifique occidental,1053,13
-1296,6/30/20,Afrique,8884,130
-1297,6/30/20,Amérique du Nord,46029,853
-1298,6/30/20,Amérique latine,43454,1311
-1299,6/30/20,Asie du Sud-Est,24122,515
-1300,6/30/20,Europe,17661,340
-1301,6/30/20,Méditerranée orientale,16552,546
-1302,6/30/20,Pacifique occidental,1456,11
-1303,6/4/20,Afrique,3362,50
-1304,6/4/20,Amérique du Nord,24286,2188
-1305,6/4/20,Amérique latine,47816,1861
-1306,6/4/20,Asie du Sud-Est,12978,333
-1307,6/4/20,Europe,18116,789
-1308,6/4/20,Méditerranée orientale,17457,282
-1309,6/4/20,Pacifique occidental,1497,11
-1310,6/5/20,Afrique,6049,113
-1311,6/5/20,Amérique du Nord,26223,1992
-1312,6/5/20,Amérique latine,44316,1789
-1313,6/5/20,Asie du Sud-Est,13267,332
-1314,6/5/20,Europe,19033,639
-1315,6/5/20,Méditerranée orientale,16771,253
-1316,6/5/20,Pacifique occidental,1265,14
-1317,6/6/20,Afrique,5643,102
-1318,6/6/20,Amérique du Nord,30133,1623
-1319,6/6/20,Amérique latine,45435,1467
-1320,6/6/20,Asie du Sud-Est,13713,374
-1321,6/6/20,Europe,19031,762
-1322,6/6/20,Méditerranée orientale,18326,301
-1323,6/6/20,Pacifique occidental,909,11
-1324,6/7/20,Afrique,4561,80
-1325,6/7/20,Amérique du Nord,26538,1070
-1326,6/7/20,Amérique latine,43347,1359
-1327,6/7/20,Asie du Sud-Est,13642,353
-1328,6/7/20,Europe,18348,624
-1329,6/7/20,Méditerranée orientale,18355,292
-1330,6/7/20,Pacifique occidental,1206,11
-1331,6/8/20,Afrique,4111,84
-1332,6/8/20,Amérique du Nord,26428,927
-1333,6/8/20,Amérique latine,34620,1474
-1334,6/8/20,Asie du Sud-Est,13978,301
-1335,6/8/20,Europe,16434,411
-1336,6/8/20,Méditerranée orientale,18216,305
-1337,6/8/20,Pacifique occidental,1042,9
-1338,6/9/20,Afrique,5251,124
-1339,6/9/20,Amérique du Nord,22366,882
-1340,6/9/20,Amérique latine,28440,1000
-1341,6/9/20,Asie du Sud-Est,13919,406
-1342,6/9/20,Europe,17207,477
-1343,6/9/20,Méditerranée orientale,17381,316
-1344,6/9/20,Pacifique occidental,1057,9
-1345,7/1/20,Afrique,9550,181
-1346,7/1/20,Amérique du Nord,49598,1943
-1347,7/1/20,Amérique latine,51396,1870
-1348,7/1/20,Asie du Sud-Est,23976,643
-1349,7/1/20,Europe,36681,457
-1350,7/1/20,Méditerranée orientale,19298,517
-1351,7/1/20,Pacifique occidental,1586,13
-1352,7/10/20,Afrique,17392,166
-1353,7/10/20,Amérique du Nord,70655,1724
-1354,7/10/20,Amérique latine,65399,1946
-1355,7/10/20,Asie du Sud-Est,32926,574
-1356,7/10/20,Europe,20419,421
-1357,7/10/20,Méditerranée orientale,16214,546
-1358,7/10/20,Pacifique occidental,2142,6
-1359,7/11/20,Afrique,16065,211
-1360,7/11/20,Amérique du Nord,73837,1481
-1361,7/11/20,Amérique latine,69599,2022
-1362,7/11/20,Asie du Sud-Est,31981,608
-1363,7/11/20,Europe,20208,420
-1364,7/11/20,Méditerranée orientale,17618,493
-1365,7/11/20,Pacifique occidental,2153,42
-1366,7/12/20,Afrique,17446,151
-1367,7/12/20,Amérique du Nord,69366,1270
-1368,7/12/20,Amérique latine,61076,1833
-1369,7/12/20,Asie du Sud-Est,33173,650
-1370,7/12/20,Europe,19338,390
-1371,7/12/20,Méditerranée orientale,15442,484
-1372,7/12/20,Pacifique occidental,2153,15
-1373,7/13/20,Afrique,15799,159
-1374,7/13/20,Amérique du Nord,61984,677
-1375,7/13/20,Amérique latine,47035,1286
-1376,7/13/20,Asie du Sud-Est,33309,618
-1377,7/13/20,Europe,19104,413
-1378,7/13/20,Méditerranée orientale,15314,574
-1379,7/13/20,Pacifique occidental,2954,163
-1380,7/14/20,Afrique,14692,127
-1381,7/14/20,Amérique du Nord,63364,850
-1382,7/14/20,Amérique latine,39473,1360
-1383,7/14/20,Asie du Sud-Est,33095,642
-1384,7/14/20,Europe,20510,305
-1385,7/14/20,Méditerranée orientale,15589,491
-1386,7/14/20,Pacifique occidental,1723,66
-1387,7/15/20,Afrique,13751,262
-1388,7/15/20,Amérique du Nord,75900,1747
-1389,7/15/20,Amérique latine,64054,1943
-1390,7/15/20,Asie du Sud-Est,34363,670
-1391,7/15/20,Europe,19290,423
-1392,7/15/20,Méditerranée orientale,14769,526
-1393,7/15/20,Pacifique occidental,1566,7
-1394,7/16/20,Afrique,16833,171
-1395,7/16/20,Amérique du Nord,74207,1544
-1396,7/16/20,Amérique latine,62987,2063
-1397,7/16/20,Asie du Sud-Est,37909,727
-1398,7/16/20,Europe,22438,464
-1399,7/16/20,Méditerranée orientale,15055,513
-1400,7/16/20,Pacifique occidental,2270,19
-1401,7/17/20,Afrique,18604,288
-1402,7/17/20,Amérique du Nord,83773,1624
-1403,7/17/20,Amérique latine,72701,2107
-1404,7/17/20,Asie du Sud-Est,39518,803
-1405,7/17/20,Europe,21238,404
-1406,7/17/20,Méditerranée orientale,14832,486
-1407,7/17/20,Pacifique occidental,3712,33
-1408,7/18/20,Afrique,18194,207
-1409,7/18/20,Amérique du Nord,79156,1656
-1410,7/18/20,Amérique latine,62498,2924
-1411,7/18/20,Asie du Sud-Est,39513,807
-1412,7/18/20,Europe,37610,1248
-1413,7/18/20,Méditerranée orientale,14142,493
-1414,7/18/20,Pacifique occidental,3314,22
-1415,7/19/20,Afrique,17903,201
-1416,7/19/20,Amérique du Nord,71364,1431
-1417,7/19/20,Amérique latine,60268,1722
-1418,7/19/20,Asie du Sud-Est,43449,636
-1419,7/19/20,Europe,20377,380
-1420,7/19/20,Méditerranée orientale,13457,462
-1421,7/19/20,Pacifique occidental,3348,117
-1422,7/2/20,Afrique,11179,141
-1423,7/2/20,Amérique du Nord,57729,1393
-1424,7/2/20,Amérique latine,66688,1721
-1425,7/2/20,Asie du Sud-Est,24829,534
-1426,7/2/20,Europe,19088,503
-1427,7/2/20,Méditerranée orientale,19312,544
-1428,7/2/20,Pacifique occidental,1551,5
-1429,7/20/20,Afrique,17743,142
-1430,7/20/20,Amérique du Nord,67787,724
-1431,7/20/20,Amérique latine,47909,1414
-1432,7/20/20,Asie du Sud-Est,44738,845
-1433,7/20/20,Europe,15080,181
-1434,7/20/20,Méditerranée orientale,12782,471
-1435,7/20/20,Pacifique occidental,3402,64
-1436,7/21/20,Afrique,14193,203
-1437,7/21/20,Amérique du Nord,62697,679
-1438,7/21/20,Amérique latine,44394,1466
-1439,7/21/20,Asie du Sud-Est,41967,733
-1440,7/21/20,Europe,21360,526
-1441,7/21/20,Méditerranée orientale,13493,478
-1442,7/21/20,Pacifique occidental,2660,8
-1443,7/22/20,Afrique,11858,249
-1444,7/22/20,Amérique du Nord,79478,2079
-1445,7/22/20,Amérique latine,66717,2103
-1446,7/22/20,Asie du Sud-Est,42622,770
-1447,7/22/20,Europe,21945,432
-1448,7/22/20,Méditerranée orientale,13782,481
-1449,7/22/20,Pacifique occidental,3383,9
-1450,7/23/20,Afrique,18565,647
-1451,7/23/20,Amérique du Nord,75410,1922
-1452,7/23/20,Amérique latine,94647,2061
-1453,7/23/20,Asie du Sud-Est,50587,1312
-1454,7/23/20,Europe,24680,440
-1455,7/23/20,Méditerranée orientale,14512,486
-1456,7/23/20,Pacifique occidental,3232,9
-1457,7/24/20,Afrique,18657,223
-1458,7/24/20,Amérique du Nord,72066,1774
-1459,7/24/20,Amérique latine,89683,5966
-1460,7/24/20,Asie du Sud-Est,54230,908
-1461,7/24/20,Europe,24374,406
-1462,7/24/20,Méditerranée orientale,13261,465
-1463,7/24/20,Pacifique occidental,4020,37
-1464,7/25/20,Afrique,19283,335
-1465,7/25/20,Amérique du Nord,86534,2048
-1466,7/25/20,Amérique latine,85547,2104
-1467,7/25/20,Asie du Sud-Est,53392,882
-1468,7/25/20,Europe,21373,409
-1469,7/25/20,Méditerranée orientale,14036,462
-1470,7/25/20,Pacifique occidental,3746,16
-1471,7/26/20,Afrique,16845,357
-1472,7/26/20,Amérique du Nord,72599,1647
-1473,7/26/20,Amérique latine,79908,2128
-1474,7/26/20,Asie du Sud-Est,53309,793
-1475,7/26/20,Europe,19604,344
-1476,7/26/20,Méditerranée orientale,13639,435
-1477,7/26/20,Pacifique occidental,3724,29
-1478,7/27/20,Afrique,17589,209
-1479,7/27/20,Amérique du Nord,61828,786
-1480,7/27/20,Amérique latine,58638,1394
-1481,7/27/20,Asie du Sud-Est,53897,829
-1482,7/27/20,Europe,23657,249
-1483,7/27/20,Méditerranée orientale,12404,449
-1484,7/27/20,Pacifique occidental,3845,47
-1485,7/28/20,Afrique,11811,351
-1486,7/28/20,Amérique du Nord,61915,1429
-1487,7/28/20,Amérique latine,46328,1346
-1488,7/28/20,Asie du Sud-Est,52235,751
-1489,7/28/20,Europe,24307,315
-1490,7/28/20,Méditerranée orientale,12449,440
-1491,7/28/20,Pacifique occidental,2862,24
-1492,7/29/20,Afrique,12065,255
-1493,7/29/20,Amérique du Nord,69325,2110
-1494,7/29/20,Amérique latine,69291,1879
-1495,7/29/20,Asie du Sud-Est,53676,867
-1496,7/29/20,Europe,22523,590
-1497,7/29/20,Méditerranée orientale,12913,447
-1498,7/29/20,Pacifique occidental,4009,14
-1499,7/3/20,Afrique,12501,155
-1500,7/3/20,Amérique du Nord,60707,1408
-1501,7/3/20,Amérique latine,67955,2066
-1502,7/3/20,Asie du Sud-Est,27050,472
-1503,7/3/20,Europe,20810,441
-1504,7/3/20,Méditerranée orientale,18757,530
-1505,7/3/20,Pacifique occidental,845,5
-1506,7/30/20,Afrique,16651,327
-1507,7/30/20,Amérique du Nord,81213,1947
-1508,7/30/20,Amérique latine,100293,2655
-1509,7/30/20,Asie du Sud-Est,57795,884
-1510,7/30/20,Europe,25160,409
-1511,7/30/20,Méditerranée orientale,13154,390
-1512,7/30/20,Pacifique occidental,3845,30
-1513,7/31/20,Afrique,15941,392
-1514,7/31/20,Amérique du Nord,76091,2008
-1515,7/31/20,Amérique latine,92616,2183
-1516,7/31/20,Asie du Sud-Est,60112,914
-1517,7/31/20,Europe,26122,391
-1518,7/31/20,Méditerranée orientale,12966,458
-1519,7/31/20,Pacifique occidental,6583,37
-1520,7/4/20,Afrique,12882,149
-1521,7/4/20,Amérique du Nord,61501,1369
-1522,7/4/20,Amérique latine,63134,2015
-1523,7/4/20,Asie du Sud-Est,27947,534
-1524,7/4/20,Europe,18583,439
-1525,7/4/20,Méditerranée orientale,19230,498
-1526,7/4/20,Pacifique occidental,2247,8
-1527,7/5/20,Afrique,13958,118
-1528,7/5/20,Amérique du Nord,52361,776
-1529,7/5/20,Amérique latine,56123,1832
-1530,7/5/20,Asie du Sud-Est,29859,697
-1531,7/5/20,Europe,18136,388
-1532,7/5/20,Méditerranée orientale,18509,518
-1533,7/5/20,Pacifique occidental,2118,10
-1534,7/6/20,Afrique,12841,223
-1535,7/6/20,Amérique du Nord,53995,554
-1536,7/6/20,Amérique latine,46929,1205
-1537,7/6/20,Asie du Sud-Est,28928,563
-1538,7/6/20,Europe,17726,320
-1539,7/6/20,Méditerranée orientale,17493,513
-1540,7/6/20,Pacifique occidental,367,0
-1541,7/7/20,Afrique,13509,174
-1542,7/7/20,Amérique du Nord,55291,848
-1543,7/7/20,Amérique latine,38340,1240
-1544,7/7/20,Asie du Sud-Est,26870,583
-1545,7/7/20,Europe,17859,430
-1546,7/7/20,Méditerranée orientale,17100,549
-1547,7/7/20,Pacifique occidental,5310,18
-1548,7/8/20,Afrique,14739,274
-1549,7/8/20,Amérique du Nord,63963,2087
-1550,7/8/20,Amérique latine,64338,1931
-1551,7/8/20,Asie du Sud-Est,27062,605
-1552,7/8/20,Europe,17719,524
-1553,7/8/20,Méditerranée orientale,16971,567
-1554,7/8/20,Pacifique occidental,2150,8
-1555,7/9/20,Afrique,12949,151
-1556,7/9/20,Amérique du Nord,66168,1637
-1557,7/9/20,Amérique latine,64424,1953
-1558,7/9/20,Asie du Sud-Est,30716,584
-1559,7/9/20,Europe,20524,473
-1560,7/9/20,Méditerranée orientale,17650,471
-1561,7/9/20,Pacifique occidental,3075,8
-1562,8/1/20,Afrique,15633,274
-1563,8/1/20,Amérique du Nord,75994,1938
-1564,8/1/20,Amérique latine,87097,2218
-1565,8/1/20,Asie du Sud-Est,62231,869
-1566,8/1/20,Europe,21320,414
-1567,8/1/20,Méditerranée orientale,10936,355
-1568,8/1/20,Pacifique occidental,5851,55
-1569,8/10/20,Afrique,10968,307
-1570,8/10/20,Amérique du Nord,51468,810
-1571,8/10/20,Amérique latine,57836,1476
-1572,8/10/20,Asie du Sud-Est,66973,1108
-1573,8/10/20,Europe,26561,677
-1574,8/10/20,Méditerranée orientale,10584,353
-1575,8/10/20,Pacifique occidental,5024,93
-1576,8/11/20,Afrique,7434,271
-1577,8/11/20,Amérique du Nord,55754,1234
-1578,8/11/20,Amérique latine,50748,1531
-1579,8/11/20,Asie du Sud-Est,58679,956
-1580,8/11/20,Europe,28101,378
-1581,8/11/20,Méditerranée orientale,11380,398
-1582,8/11/20,Pacifique occidental,7670,49
-1583,8/12/20,Afrique,6108,216
-1584,8/12/20,Amérique du Nord,53788,2006
-1585,8/12/20,Amérique latine,90919,2191
-1586,8/12/20,Asie du Sud-Est,66370,931
-1587,8/12/20,Europe,26587,322
-1588,8/12/20,Méditerranée orientale,12914,420
-1589,8/12/20,Pacifique occidental,4781,51
-1590,8/13/20,Afrique,7394,364
-1591,8/13/20,Amérique du Nord,62222,2242
-1592,8/13/20,Amérique latine,95240,2314
-1593,8/13/20,Asie du Sud-Est,72580,1072
-1594,8/13/20,Europe,32787,403
-1595,8/13/20,Méditerranée orientale,13274,383
-1596,8/13/20,Pacifique occidental,5851,122
-1597,8/14/20,Afrique,8379,346
-1598,8/14/20,Amérique du Nord,58870,1719
-1599,8/14/20,Amérique latine,99221,5912
-1600,8/14/20,Asie du Sud-Est,69953,1120
-1601,8/14/20,Europe,31046,408
-1602,8/14/20,Méditerranée orientale,13722,358
-1603,8/14/20,Pacifique occidental,5479,47
-1604,8/15/20,Afrique,10859,373
-1605,8/15/20,Amérique du Nord,70874,1956
-1606,8/15/20,Amérique latine,90062,2046
-1607,8/15/20,Asie du Sud-Est,70758,1088
-1608,8/15/20,Europe,24106,385
-1609,8/15/20,Méditerranée orientale,13267,349
-1610,8/15/20,Pacifique occidental,8992,44
-1611,8/16/20,Afrique,9058,185
-1612,8/16/20,Amérique du Nord,54667,1674
-1613,8/16/20,Amérique latine,82327,1743
-1614,8/16/20,Asie du Sud-Est,69059,1031
-1615,8/16/20,Europe,24411,501
-1616,8/16/20,Méditerranée orientale,13940,355
-1617,8/16/20,Pacifique occidental,6171,168
-1618,8/17/20,Afrique,7805,242
-1619,8/17/20,Amérique du Nord,46750,787
-1620,8/17/20,Amérique latine,61767,1419
-1621,8/17/20,Asie du Sud-Est,62846,1054
-1622,8/17/20,Europe,36657,284
-1623,8/17/20,Méditerranée orientale,12145,353
-1624,8/17/20,Pacifique occidental,4391,94
-1625,8/18/20,Afrique,6910,213
-1626,8/18/20,Amérique du Nord,39412,717
-1627,8/18/20,Amérique latine,46599,1497
-1628,8/18/20,Asie du Sud-Est,60213,974
-1629,8/18/20,Europe,25761,450
-1630,8/18/20,Méditerranée orientale,12614,360
-1631,8/18/20,Pacifique occidental,5037,59
-1632,8/19/20,Afrique,6526,362
-1633,8/19/20,Amérique du Nord,49879,2088
-1634,8/19/20,Amérique latine,83075,2152
-1635,8/19/20,Asie du Sud-Est,70600,1216
-1636,8/19/20,Europe,27327,505
-1637,8/19/20,Méditerranée orientale,10606,329
-1638,8/19/20,Pacifique occidental,7011,39
-1639,8/2/20,Afrique,17567,265
-1640,8/2/20,Amérique du Nord,68250,1923
-1641,8/2/20,Amérique latine,81817,1938
-1642,8/2/20,Asie du Sud-Est,58971,937
-1643,8/2/20,Europe,24488,327
-1644,8/2/20,Méditerranée orientale,9252,337
-1645,8/2/20,Pacifique occidental,7512,32
-1646,8/20/20,Afrique,8786,272
-1647,8/20/20,Amérique du Nord,53554,2067
-1648,8/20/20,Amérique latine,90292,2252
-1649,8/20/20,Asie du Sud-Est,75155,1093
-1650,8/20/20,Europe,33674,447
-1651,8/20/20,Méditerranée orientale,13852,277
-1652,8/20/20,Pacifique occidental,6205,138
-1653,8/21/20,Afrique,8762,280
-1654,8/21/20,Amérique du Nord,51163,1708
-1655,8/21/20,Amérique latine,81911,2234
-1656,8/21/20,Asie du Sud-Est,74918,1102
-1657,8/21/20,Europe,37064,390
-1658,8/21/20,Méditerranée orientale,16220,520
-1659,8/21/20,Pacifique occidental,6280,119
-1660,8/22/20,Afrique,8037,282
-1661,8/22/20,Amérique du Nord,56307,1665
-1662,8/22/20,Amérique latine,67376,2109
-1663,8/22/20,Asie du Sud-Est,75557,1078
-1664,8/22/20,Europe,26733,342
-1665,8/22/20,Méditerranée orientale,13110,310
-1666,8/22/20,Pacifique occidental,6111,83
-1667,8/23/20,Afrique,7805,203
-1668,8/23/20,Amérique du Nord,51117,1607
-1669,8/23/20,Amérique latine,88612,2039
-1670,8/23/20,Asie du Sud-Est,74346,1063
-1671,8/23/20,Europe,24961,357
-1672,8/23/20,Méditerranée orientale,13242,327
-1673,8/23/20,Pacifique occidental,6647,47
-1674,8/24/20,Afrique,7378,129
-1675,8/24/20,Amérique du Nord,38721,672
-1676,8/24/20,Amérique latine,57181,1372
-1677,8/24/20,Asie du Sud-Est,66382,959
-1678,8/24/20,Europe,43063,-146
-1679,8/24/20,Méditerranée orientale,8600,270
-1680,8/24/20,Pacifique occidental,3023,54
-1681,8/25/20,Afrique,5893,160
-1682,8/25/20,Amérique du Nord,42590,803
-1683,8/25/20,Amérique latine,47981,1510
-1684,8/25/20,Asie du Sud-Est,66236,978
-1685,8/25/20,Europe,29146,447
-1686,8/25/20,Méditerranée orientale,12955,335
-1687,8/25/20,Pacifique occidental,6657,44
-1688,8/26/20,Afrique,5868,225
-1689,8/26/20,Amérique du Nord,43357,1864
-1690,8/26/20,Amérique latine,82246,2335
-1691,8/26/20,Asie du Sud-Est,73193,1211
-1692,8/26/20,Europe,33076,447
-1693,8/26/20,Méditerranée orientale,13077,342
-1694,8/26/20,Pacifique occidental,4256,54
-1695,8/27/20,Afrique,6638,266
-1696,8/27/20,Amérique du Nord,48563,1858
-1697,8/27/20,Amérique latine,81693,2078
-1698,8/27/20,Asie du Sud-Est,81755,1174
-1699,8/27/20,Europe,38070,458
-1700,8/27/20,Méditerranée orientale,13030,315
-1701,8/27/20,Pacifique occidental,6926,145
-1702,8/28/20,Afrique,6427,186
-1703,8/28/20,Amérique du Nord,52366,1636
-1704,8/28/20,Amérique latine,84623,2089
-1705,8/28/20,Asie du Sud-Est,83687,1230
-1706,8/28/20,Europe,36459,363
-1707,8/28/20,Méditerranée orientale,14992,440
-1708,8/28/20,Pacifique occidental,4856,138
-1709,8/29/20,Afrique,5842,162
-1710,8/29/20,Amérique du Nord,55988,1507
-1711,8/29/20,Amérique latine,81474,1819
-1712,8/29/20,Asie du Sud-Est,82796,1185
-1713,8/29/20,Europe,32007,355
-1714,8/29/20,Méditerranée orientale,12935,299
-1715,8/29/20,Pacifique occidental,5557,130
-1716,8/3/20,Afrique,11053,256
-1717,8/3/20,Amérique du Nord,52649,691
-1718,8/3/20,Amérique latine,58551,1398
-1719,8/3/20,Asie du Sud-Est,55850,837
-1720,8/3/20,Europe,26149,591
-1721,8/3/20,Méditerranée orientale,10854,428
-1722,8/3/20,Pacifique occidental,8186,32
-1723,8/30/20,Afrique,6231,282
-1724,8/30/20,Amérique du Nord,50432,1684
-1725,8/30/20,Amérique latine,82761,1884
-1726,8/30/20,Asie du Sud-Est,85292,1084
-1727,8/30/20,Europe,27183,352
-1728,8/30/20,Méditerranée orientale,12127,285
-1729,8/30/20,Pacifique occidental,4985,126
-1730,8/31/20,Afrique,6229,104
-1731,8/31/20,Amérique du Nord,39977,633
-1732,8/31/20,Amérique latine,49034,1135
-1733,8/31/20,Asie du Sud-Est,84662,1109
-1734,8/31/20,Europe,48245,355
-1735,8/31/20,Méditerranée orientale,11727,307
-1736,8/31/20,Pacifique occidental,5350,130
-1737,8/4/20,Afrique,10087,294
-1738,8/4/20,Amérique du Nord,50521,811
-1739,8/4/20,Amérique latine,44608,1459
-1740,8/4/20,Asie du Sud-Est,55640,900
-1741,8/4/20,Europe,28186,293
-1742,8/4/20,Méditerranée orientale,9873,401
-1743,8/4/20,Pacifique occidental,5742,68
-1744,8/5/20,Afrique,8346,418
-1745,8/5/20,Amérique du Nord,64433,2271
-1746,8/5/20,Amérique latine,80991,2159
-1747,8/5/20,Asie du Sud-Est,56778,995
-1748,8/5/20,Europe,25959,440
-1749,8/5/20,Méditerranée orientale,10742,414
-1750,8/5/20,Pacifique occidental,8423,33
-1751,8/6/20,Afrique,13994,503
-1752,8/6/20,Amérique du Nord,59338,2283
-1753,8/6/20,Amérique latine,93675,2419
-1754,8/6/20,Asie du Sud-Est,61288,1003
-1755,8/6/20,Europe,30053,414
-1756,8/6/20,Méditerranée orientale,12833,449
-1757,8/6/20,Pacifique occidental,6423,29
-1758,8/7/20,Afrique,13101,411
-1759,8/7/20,Amérique du Nord,66719,2671
-1760,8/7/20,Amérique latine,91566,2248
-1761,8/7/20,Asie du Sud-Est,67863,999
-1762,8/7/20,Europe,28557,335
-1763,8/7/20,Méditerranée orientale,12143,183
-1764,8/7/20,Pacifique occidental,5976,48
-1765,8/8/20,Afrique,11467,374
-1766,8/8/20,Amérique du Nord,65291,2050
-1767,8/8/20,Amérique latine,88309,2065
-1768,8/8/20,Asie du Sud-Est,67417,1037
-1769,8/8/20,Europe,24436,377
-1770,8/8/20,Méditerranée orientale,13153,528
-1771,8/8/20,Pacifique occidental,5830,37
-1772,8/9/20,Afrique,12288,368
-1773,8/9/20,Amérique du Nord,62952,1770
-1774,8/9/20,Amérique latine,84780,1799
-1775,8/9/20,Asie du Sud-Est,69799,961
-1776,8/9/20,Europe,21170,346
-1777,8/9/20,Méditerranée orientale,11536,335
-1778,8/9/20,Pacifique occidental,6193,55
-1779,9/1/20,Afrique,4815,167
-1780,9/1/20,Amérique du Nord,38577,794
-1781,9/1/20,Amérique latine,73013,1336
-1782,9/1/20,Asie du Sud-Est,76021,873
-1783,9/1/20,Europe,34053,462
-1784,9/1/20,Méditerranée orientale,11524,316
-1785,9/1/20,Pacifique occidental,4503,105
-1786,9/10/20,Afrique,5293,142
-1787,9/10/20,Amérique du Nord,37120,1749
-1788,9/10/20,Amérique latine,72646,1955
-1789,9/10/20,Asie du Sud-Est,102259,1329
-1790,9/10/20,Europe,46055,341
-1791,9/10/20,Méditerranée orientale,15207,318
-1792,9/10/20,Pacifique occidental,4150,97
-1793,9/11/20,Afrique,4981,145
-1794,9/11/20,Amérique du Nord,42994,1536
-1795,9/11/20,Amérique latine,78227,1867
-1796,9/11/20,Asie du Sud-Est,103891,1375
-1797,9/11/20,Europe,59703,679
-1798,9/11/20,Méditerranée orientale,15555,352
-1799,9/11/20,Pacifique occidental,4936,99
-1800,9/12/20,Afrique,4776,166
-1801,9/12/20,Amérique du Nord,54698,1761
-1802,9/12/20,Amérique latine,80191,1851
-1803,9/12/20,Asie du Sud-Est,104845,1329
-1804,9/12/20,Europe,39713,401
-1805,9/12/20,Méditerranée orientale,15848,308
-1806,9/12/20,Pacifique occidental,5253,70
-1807,9/13/20,Afrique,4312,93
-1808,9/13/20,Amérique du Nord,47009,1113
-1809,9/13/20,Amérique latine,70621,1599
-1810,9/13/20,Asie du Sud-Est,101122,1269
-1811,9/13/20,Europe,43357,354
-1812,9/13/20,Méditerranée orientale,14782,287
-1813,9/13/20,Pacifique occidental,5894,213
-1814,9/14/20,Afrique,3823,65
-1815,9/14/20,Amérique du Nord,38797,596
-1816,9/14/20,Amérique latine,49091,1043
-1817,9/14/20,Asie du Sud-Est,98592,1258
-1818,9/14/20,Europe,63041,494
-1819,9/14/20,Méditerranée orientale,15175,328
-1820,9/14/20,Pacifique occidental,4075,94
-1821,9/15/20,Afrique,3107,102
-1822,9/15/20,Amérique du Nord,39527,687
-1823,9/15/20,Amérique latine,43277,1037
-1824,9/15/20,Asie du Sud-Est,90320,1223
-1825,9/15/20,Europe,45592,531
-1826,9/15/20,Méditerranée orientale,15632,374
-1827,9/15/20,Pacifique occidental,5408,281
-1828,9/16/20,Afrique,3364,194
-1829,9/16/20,Amérique du Nord,57037,2045
-1830,9/16/20,Amérique latine,66127,1910
-1831,9/16/20,Asie du Sud-Est,97254,1475
-1832,9/16/20,Europe,59864,916
-1833,9/16/20,Méditerranée orientale,16195,370
-1834,9/16/20,Pacifique occidental,4323,45
-1835,9/17/20,Afrique,4365,118
-1836,9/17/20,Amérique du Nord,29986,1170
-1837,9/17/20,Amérique latine,73953,1711
-1838,9/17/20,Asie du Sud-Est,105368,1303
-1839,9/17/20,Europe,57254,627
-1840,9/17/20,Méditerranée orientale,16454,410
-1841,9/17/20,Pacifique occidental,4457,96
-1842,9/18/20,Afrique,4764,118
-1843,9/18/20,Amérique du Nord,47869,1039
-1844,9/18/20,Amérique latine,70564,1729
-1845,9/18/20,Asie du Sud-Est,103388,1351
-1846,9/18/20,Europe,66361,612
-1847,9/18/20,Méditerranée orientale,17696,392
-1848,9/18/20,Pacifique occidental,4221,77
-1849,9/19/20,Afrique,4607,121
-1850,9/19/20,Amérique du Nord,56094,1585
-1851,9/19/20,Amérique latine,77213,1735
-1852,9/19/20,Asie du Sud-Est,101199,1405
-1853,9/19/20,Europe,50837,664
-1854,9/19/20,Méditerranée orientale,16325,373
-1855,9/19/20,Pacifique occidental,4120,69
-1856,9/2/20,Afrique,5494,176
-1857,9/2/20,Amérique du Nord,51592,1924
-1858,9/2/20,Amérique latine,75722,2230
-1859,9/2/20,Asie du Sud-Est,84450,1240
-1860,9/2/20,Europe,34934,557
-1861,9/2/20,Méditerranée orientale,11777,328
-1862,9/2/20,Pacifique occidental,4577,57
-1863,9/20/20,Afrique,4674,121
-1864,9/20/20,Amérique du Nord,46325,1130
-1865,9/20/20,Amérique latine,71266,1511
-1866,9/20/20,Asie du Sud-Est,100276,1294
-1867,9/20/20,Europe,50972,511
-1868,9/20/20,Méditerranée orientale,16750,384
-1869,9/20/20,Pacifique occidental,4830,118
-1870,9/21/20,Afrique,4058,52
-1871,9/21/20,Amérique du Nord,44269,492
-1872,9/21/20,Amérique latine,45781,899
-1873,9/21/20,Asie du Sud-Est,94442,1284
-1874,9/21/20,Europe,76517,545
-1875,9/21/20,Méditerranée orientale,17020,402
-1876,9/21/20,Pacifique occidental,3523,62
-1877,9/22/20,Afrique,3255,75
-1878,9/22/20,Amérique du Nord,57836,587
-1879,9/22/20,Amérique latine,48434,1419
-1880,9/22/20,Asie du Sud-Est,82847,1240
-1881,9/22/20,Europe,40372,415
-1882,9/22/20,Méditerranée orientale,15314,379
-1883,9/22/20,Pacifique occidental,4456,31
-1884,9/3/20,Afrique,5485,174
-1885,9/3/20,Amérique du Nord,44173,1633
-1886,9/3/20,Amérique latine,83434,2225
-1887,9/3/20,Asie du Sud-Est,90928,1201
-1888,9/3/20,Europe,42463,467
-1889,9/3/20,Méditerranée orientale,13513,328
-1890,9/3/20,Pacifique occidental,3144,51
-1891,9/4/20,Afrique,5354,240
-1892,9/4/20,Amérique du Nord,42756,1572
-1893,9/4/20,Amérique latine,79281,1691
-1894,9/4/20,Asie du Sud-Est,90579,1269
-1895,9/4/20,Europe,44181,595
-1896,9/4/20,Méditerranée orientale,13528,331
-1897,9/4/20,Pacifique occidental,3175,94
-1898,9/5/20,Afrique,5758,168
-1899,9/5/20,Amérique du Nord,57898,1490
-1900,9/5/20,Amérique latine,88424,2015
-1901,9/5/20,Asie du Sud-Est,93157,1214
-1902,9/5/20,Europe,34428,340
-1903,9/5/20,Méditerranée orientale,12979,279
-1904,9/5/20,Pacifique occidental,813,79
-1905,9/6/20,Afrique,4724,147
-1906,9/6/20,Amérique du Nord,50830,1478
-1907,9/6/20,Amérique latine,68219,1616
-1908,9/6/20,Asie du Sud-Est,96998,1218
-1909,9/6/20,Europe,35021,443
-1910,9/6/20,Méditerranée orientale,16611,335
-1911,9/6/20,Pacifique occidental,7322,126
-1912,9/7/20,Afrique,4507,164
-1913,9/7/20,Amérique du Nord,35569,409
-1914,9/7/20,Amérique latine,37180,6517
-1915,9/7/20,Asie du Sud-Est,97066,1112
-1916,9/7/20,Europe,56393,343
-1917,9/7/20,Méditerranée orientale,14403,388
-1918,9/7/20,Pacifique occidental,3515,100
-1919,9/8/20,Afrique,4191,158
-1920,9/8/20,Amérique du Nord,27983,491
-1921,9/8/20,Amérique latine,33538,1041
-1922,9/8/20,Asie du Sud-Est,82103,1316
-1923,9/8/20,Europe,41372,453
-1924,9/8/20,Méditerranée orientale,15093,316
-1925,9/8/20,Pacifique occidental,2101,46
-1926,9/9/20,Afrique,4082,140
-1927,9/9/20,Amérique du Nord,34079,1181
-1928,9/9/20,Amérique latine,45031,1380
-1929,9/9/20,Asie du Sud-Est,95836,1261
-1930,9/9/20,Europe,46607,593
-1931,9/9/20,Méditerranée orientale,14836,351
-1932,9/9/20,Pacifique occidental,4175,58
+dateRep;continentExp;cases;deaths
+1/1/20;Afrique;0;0
+1/1/20;Amérique du Nord;0;0
+1/1/20;Amérique latine;0;0
+1/1/20;Asie du Sud-Est;0;0
+1/1/20;Europe;0;0
+1/1/20;Méditerranée orientale;0;0
+1/1/20;Other;0;0
+1/1/20;Pacifique occidental;0;0
+1/10/20;Afrique;0;0
+1/10/20;Amérique du Nord;0;0
+1/10/20;Amérique latine;0;0
+1/10/20;Asie du Sud-Est;0;0
+1/10/20;Europe;0;0
+1/10/20;Méditerranée orientale;0;0
+1/10/20;Other;0;0
+1/10/20;Pacifique occidental;0;0
+1/11/20;Afrique;0;0
+1/11/20;Amérique du Nord;0;0
+1/11/20;Amérique latine;0;0
+1/11/20;Asie du Sud-Est;0;0
+1/11/20;Europe;0;0
+1/11/20;Méditerranée orientale;0;0
+1/11/20;Other;0;0
+1/11/20;Pacifique occidental;0;1
+1/12/20;Afrique;0;0
+1/12/20;Amérique du Nord;0;0
+1/12/20;Amérique latine;0;0
+1/12/20;Asie du Sud-Est;0;0
+1/12/20;Europe;0;0
+1/12/20;Méditerranée orientale;0;0
+1/12/20;Other;0;0
+1/12/20;Pacifique occidental;0;0
+1/13/20;Afrique;0;0
+1/13/20;Amérique du Nord;0;0
+1/13/20;Amérique latine;0;0
+1/13/20;Asie du Sud-Est;1;0
+1/13/20;Europe;0;0
+1/13/20;Méditerranée orientale;0;0
+1/13/20;Other;0;0
+1/13/20;Pacifique occidental;0;0
+1/14/20;Afrique;0;0
+1/14/20;Amérique du Nord;0;0
+1/14/20;Amérique latine;0;0
+1/14/20;Asie du Sud-Est;0;0
+1/14/20;Europe;0;0
+1/14/20;Méditerranée orientale;0;0
+1/14/20;Other;0;0
+1/14/20;Pacifique occidental;0;0
+1/15/20;Afrique;0;0
+1/15/20;Amérique du Nord;0;0
+1/15/20;Amérique latine;0;0
+1/15/20;Asie du Sud-Est;0;0
+1/15/20;Europe;0;0
+1/15/20;Méditerranée orientale;0;0
+1/15/20;Other;0;0
+1/15/20;Pacifique occidental;1;1
+1/16/20;Afrique;0;0
+1/16/20;Amérique du Nord;0;0
+1/16/20;Amérique latine;0;0
+1/16/20;Asie du Sud-Est;0;0
+1/16/20;Europe;0;0
+1/16/20;Méditerranée orientale;0;0
+1/16/20;Other;0;0
+1/16/20;Pacifique occidental;0;0
+1/17/20;Afrique;0;0
+1/17/20;Amérique du Nord;0;0
+1/17/20;Amérique latine;0;0
+1/17/20;Asie du Sud-Est;1;0
+1/17/20;Europe;0;0
+1/17/20;Méditerranée orientale;0;0
+1/17/20;Other;0;0
+1/17/20;Pacifique occidental;4;0
+1/18/20;Afrique;0;0
+1/18/20;Amérique du Nord;0;0
+1/18/20;Amérique latine;0;0
+1/18/20;Asie du Sud-Est;0;0
+1/18/20;Europe;0;0
+1/18/20;Méditerranée orientale;0;0
+1/18/20;Other;0;0
+1/18/20;Pacifique occidental;17;0
+1/19/20;Afrique;0;0
+1/19/20;Amérique du Nord;0;0
+1/19/20;Amérique latine;0;0
+1/19/20;Asie du Sud-Est;0;0
+1/19/20;Europe;0;0
+1/19/20;Méditerranée orientale;0;0
+1/19/20;Other;0;0
+1/19/20;Pacifique occidental;136;1
+1/2/20;Afrique;0;0
+1/2/20;Amérique du Nord;0;0
+1/2/20;Amérique latine;0;0
+1/2/20;Asie du Sud-Est;0;0
+1/2/20;Europe;0;0
+1/2/20;Méditerranée orientale;0;0
+1/2/20;Other;0;0
+1/2/20;Pacifique occidental;0;0
+1/20/20;Afrique;0;0
+1/20/20;Amérique du Nord;0;0
+1/20/20;Amérique latine;0;0
+1/20/20;Asie du Sud-Est;0;0
+1/20/20;Europe;0;0
+1/20/20;Méditerranée orientale;0;0
+1/20/20;Other;0;0
+1/20/20;Pacifique occidental;20;0
+1/21/20;Afrique;0;0
+1/21/20;Amérique du Nord;1;0
+1/21/20;Amérique latine;0;0
+1/21/20;Asie du Sud-Est;0;0
+1/21/20;Europe;0;0
+1/21/20;Méditerranée orientale;0;0
+1/21/20;Other;0;0
+1/21/20;Pacifique occidental;152;3
+1/22/20;Afrique;0;0
+1/22/20;Amérique du Nord;0;0
+1/22/20;Amérique latine;0;0
+1/22/20;Asie du Sud-Est;2;0
+1/22/20;Europe;0;0
+1/22/20;Méditerranée orientale;0;0
+1/22/20;Other;0;0
+1/22/20;Pacifique occidental;140;11
+1/23/20;Afrique;0;0
+1/23/20;Amérique du Nord;0;0
+1/23/20;Amérique latine;0;0
+1/23/20;Asie du Sud-Est;0;0
+1/23/20;Europe;0;0
+1/23/20;Méditerranée orientale;0;0
+1/23/20;Other;0;0
+1/23/20;Pacifique occidental;97;0
+1/24/20;Afrique;0;0
+1/24/20;Amérique du Nord;0;0
+1/24/20;Amérique latine;0;0
+1/24/20;Asie du Sud-Est;0;0
+1/24/20;Europe;0;0
+1/24/20;Méditerranée orientale;0;0
+1/24/20;Other;0;0
+1/24/20;Pacifique occidental;266;9
+1/25/20;Afrique;0;0
+1/25/20;Amérique du Nord;1;0
+1/25/20;Amérique latine;0;0
+1/25/20;Asie du Sud-Est;2;0
+1/25/20;Europe;3;0
+1/25/20;Méditerranée orientale;0;0
+1/25/20;Other;0;0
+1/25/20;Pacifique occidental;447;15
+1/26/20;Afrique;0;0
+1/26/20;Amérique du Nord;1;0
+1/26/20;Amérique latine;0;0
+1/26/20;Asie du Sud-Est;0;0
+1/26/20;Europe;0;0
+1/26/20;Méditerranée orientale;0;0
+1/26/20;Other;0;0
+1/26/20;Pacifique occidental;672;15
+1/27/20;Afrique;0;0
+1/27/20;Amérique du Nord;3;0
+1/27/20;Amérique latine;0;0
+1/27/20;Asie du Sud-Est;3;0
+1/27/20;Europe;0;0
+1/27/20;Méditerranée orientale;1;0
+1/27/20;Other;0;0
+1/27/20;Pacifique occidental;790;25
+1/28/20;Afrique;0;0
+1/28/20;Amérique du Nord;1;0
+1/28/20;Amérique latine;0;0
+1/28/20;Asie du Sud-Est;7;0
+1/28/20;Europe;1;0
+1/28/20;Méditerranée orientale;0;0
+1/28/20;Other;0;0
+1/28/20;Pacifique occidental;1758;25
+1/29/20;Afrique;0;0
+1/29/20;Amérique du Nord;1;0
+1/29/20;Amérique latine;0;0
+1/29/20;Asie du Sud-Est;0;0
+1/29/20;Europe;4;0
+1/29/20;Méditerranée orientale;0;0
+1/29/20;Other;0;0
+1/29/20;Pacifique occidental;1475;26
+1/3/20;Afrique;0;0
+1/3/20;Amérique du Nord;0;0
+1/3/20;Amérique latine;0;0
+1/3/20;Asie du Sud-Est;0;0
+1/3/20;Europe;0;0
+1/3/20;Méditerranée orientale;0;0
+1/3/20;Other;0;0
+1/3/20;Pacifique occidental;17;0
+1/30/20;Afrique;0;0
+1/30/20;Amérique du Nord;0;0
+1/30/20;Amérique latine;0;0
+1/30/20;Asie du Sud-Est;1;0
+1/30/20;Europe;2;0
+1/30/20;Méditerranée orientale;3;0
+1/30/20;Other;0;0
+1/30/20;Pacifique occidental;1750;38
+1/31/20;Afrique;0;0
+1/31/20;Amérique du Nord;1;0
+1/31/20;Amérique latine;0;0
+1/31/20;Asie du Sud-Est;0;0
+1/31/20;Europe;5;0
+1/31/20;Méditerranée orientale;0;0
+1/31/20;Other;0;0
+1/31/20;Pacifique occidental;1995;43
+1/4/20;Afrique;0;0
+1/4/20;Amérique du Nord;0;0
+1/4/20;Amérique latine;0;0
+1/4/20;Asie du Sud-Est;0;0
+1/4/20;Europe;0;0
+1/4/20;Méditerranée orientale;0;0
+1/4/20;Other;0;0
+1/4/20;Pacifique occidental;0;0
+1/5/20;Afrique;0;0
+1/5/20;Amérique du Nord;0;0
+1/5/20;Amérique latine;0;0
+1/5/20;Asie du Sud-Est;0;0
+1/5/20;Europe;0;0
+1/5/20;Méditerranée orientale;0;0
+1/5/20;Other;0;0
+1/5/20;Pacifique occidental;15;0
+1/6/20;Afrique;0;0
+1/6/20;Amérique du Nord;0;0
+1/6/20;Amérique latine;0;0
+1/6/20;Asie du Sud-Est;0;0
+1/6/20;Europe;0;0
+1/6/20;Méditerranée orientale;0;0
+1/6/20;Other;0;0
+1/6/20;Pacifique occidental;0;0
+1/7/20;Afrique;0;0
+1/7/20;Amérique du Nord;0;0
+1/7/20;Amérique latine;0;0
+1/7/20;Asie du Sud-Est;0;0
+1/7/20;Europe;0;0
+1/7/20;Méditerranée orientale;0;0
+1/7/20;Other;0;0
+1/7/20;Pacifique occidental;0;0
+1/8/20;Afrique;0;0
+1/8/20;Amérique du Nord;0;0
+1/8/20;Amérique latine;0;0
+1/8/20;Asie du Sud-Est;0;0
+1/8/20;Europe;0;0
+1/8/20;Méditerranée orientale;0;0
+1/8/20;Other;0;0
+1/8/20;Pacifique occidental;0;0
+1/9/20;Afrique;0;0
+1/9/20;Amérique du Nord;0;0
+1/9/20;Amérique latine;0;0
+1/9/20;Asie du Sud-Est;0;0
+1/9/20;Europe;0;0
+1/9/20;Méditerranée orientale;0;0
+1/9/20;Other;0;0
+1/9/20;Pacifique occidental;0;0
+12/31/19;Afrique;0;0
+12/31/19;Amérique du Nord;0;0
+12/31/19;Amérique latine;0;0
+12/31/19;Asie du Sud-Est;0;0
+12/31/19;Europe;0;0
+12/31/19;Méditerranée orientale;0;0
+12/31/19;Other;0;0
+12/31/19;Pacifique occidental;27;0
+2/1/20;Afrique;0;0
+2/1/20;Amérique du Nord;2;0
+2/1/20;Amérique latine;0;0
+2/1/20;Asie du Sud-Est;5;0
+2/1/20;Europe;8;0
+2/1/20;Méditerranée orientale;0;0
+2/1/20;Other;0;0
+2/1/20;Pacifique occidental;2107;46
+2/10/20;Afrique;0;0
+2/10/20;Amérique du Nord;0;0
+2/10/20;Amérique latine;0;0
+2/10/20;Asie du Sud-Est;0;0
+2/10/20;Europe;5;0
+2/10/20;Méditerranée orientale;0;0
+2/10/20;Other;6;0
+2/10/20;Pacifique occidental;2981;97
+2/11/20;Afrique;0;0
+2/11/20;Amérique du Nord;1;0
+2/11/20;Amérique latine;0;0
+2/11/20;Asie du Sud-Est;0;0
+2/11/20;Europe;1;0
+2/11/20;Méditerranée orientale;1;0
+2/11/20;Other;65;0
+2/11/20;Pacifique occidental;2494;108
+2/12/20;Afrique;0;0
+2/12/20;Amérique du Nord;0;0
+2/12/20;Amérique latine;0;0
+2/12/20;Asie du Sud-Est;1;0
+2/12/20;Europe;2;0
+2/12/20;Méditerranée orientale;0;0
+2/12/20;Other;39;0
+2/12/20;Pacifique occidental;2030;97
+2/13/20;Afrique;0;0
+2/13/20;Amérique du Nord;1;0
+2/13/20;Amérique latine;0;0
+2/13/20;Asie du Sud-Est;0;0
+2/13/20;Europe;1;0
+2/13/20;Méditerranée orientale;0;0
+2/13/20;Other;0;0
+2/13/20;Pacifique occidental;15149;255
+2/14/20;Afrique;0;0
+2/14/20;Amérique du Nord;1;0
+2/14/20;Amérique latine;0;0
+2/14/20;Asie du Sud-Est;0;0
+2/14/20;Europe;0;0
+2/14/20;Méditerranée orientale;0;0
+2/14/20;Other;47;0
+2/14/20;Pacifique occidental;4167;13
+2/15/20;Afrique;0;0
+2/15/20;Amérique du Nord;1;0
+2/15/20;Amérique latine;0;0
+2/15/20;Asie du Sud-Est;1;0
+2/15/20;Europe;0;1
+2/15/20;Méditerranée orientale;1;0
+2/15/20;Other;0;0
+2/15/20;Pacifique occidental;2557;143
+2/16/20;Afrique;0;0
+2/16/20;Amérique du Nord;0;0
+2/16/20;Amérique latine;0;0
+2/16/20;Asie du Sud-Est;0;0
+2/16/20;Europe;0;0
+2/16/20;Méditerranée orientale;0;0
+2/16/20;Other;134;0
+2/16/20;Pacifique occidental;2028;142
+2/17/20;Afrique;0;0
+2/17/20;Amérique du Nord;0;0
+2/17/20;Amérique latine;0;0
+2/17/20;Asie du Sud-Est;0;0
+2/17/20;Europe;1;0
+2/17/20;Méditerranée orientale;1;0
+2/17/20;Other;0;0
+2/17/20;Pacifique occidental;2065;106
+2/18/20;Afrique;0;0
+2/18/20;Amérique du Nord;0;0
+2/18/20;Amérique latine;0;0
+2/18/20;Asie du Sud-Est;1;0
+2/18/20;Europe;0;0
+2/18/20;Méditerranée orientale;0;0
+2/18/20;Other;99;0
+2/18/20;Pacifique occidental;1895;98
+2/19/20;Afrique;0;0
+2/19/20;Amérique du Nord;0;0
+2/19/20;Amérique latine;0;0
+2/19/20;Asie du Sud-Est;0;0
+2/19/20;Europe;0;0
+2/19/20;Méditerranée orientale;0;0
+2/19/20;Other;88;0
+2/19/20;Pacifique occidental;1776;139
+2/2/20;Afrique;0;0
+2/2/20;Amérique du Nord;1;0
+2/2/20;Amérique latine;0;0
+2/2/20;Asie du Sud-Est;1;0
+2/2/20;Europe;1;0
+2/2/20;Méditerranée orientale;1;0
+2/2/20;Other;0;0
+2/2/20;Pacifique occidental;2604;46
+2/20/20;Afrique;0;0
+2/20/20;Amérique du Nord;0;0
+2/20/20;Amérique latine;0;0
+2/20/20;Asie du Sud-Est;0;0
+2/20/20;Europe;0;0
+2/20/20;Méditerranée orientale;2;2
+2/20/20;Other;79;2
+2/20/20;Pacifique occidental;451;112
+2/21/20;Afrique;0;0
+2/21/20;Amérique du Nord;2;0
+2/21/20;Amérique latine;0;0
+2/21/20;Asie du Sud-Est;0;0
+2/21/20;Europe;0;0
+2/21/20;Méditerranée orientale;3;0
+2/21/20;Other;13;0
+2/21/20;Pacifique occidental;978;119
+2/22/20;Afrique;0;0
+2/22/20;Amérique du Nord;19;0
+2/22/20;Amérique latine;0;0
+2/22/20;Asie du Sud-Est;0;0
+2/22/20;Europe;15;0
+2/22/20;Méditerranée orientale;16;2
+2/22/20;Other;0;0
+2/22/20;Pacifique occidental;1035;110
+2/23/20;Afrique;0;0
+2/23/20;Amérique du Nord;0;0
+2/23/20;Amérique latine;0;0
+2/23/20;Asie du Sud-Est;0;0
+2/23/20;Europe;63;2
+2/23/20;Méditerranée orientale;12;1
+2/23/20;Other;0;0
+2/23/20;Pacifique occidental;934;101
+2/24/20;Afrique;0;0
+2/24/20;Amérique du Nord;0;0
+2/24/20;Amérique latine;0;0
+2/24/20;Asie du Sud-Est;0;0
+2/24/20;Europe;54;0
+2/24/20;Méditerranée orientale;19;3
+2/24/20;Other;57;1
+2/24/20;Pacifique occidental;393;152
+2/25/20;Afrique;0;0
+2/25/20;Amérique du Nord;20;0
+2/25/20;Amérique latine;0;0
+2/25/20;Asie du Sud-Est;2;0
+2/25/20;Europe;98;4
+2/25/20;Méditerranée orientale;25;4
+2/25/20;Other;0;0
+2/25/20;Pacifique occidental;648;71
+2/26/20;Afrique;1;0
+2/26/20;Amérique du Nord;0;0
+2/26/20;Amérique latine;1;0
+2/26/20;Asie du Sud-Est;3;0
+2/26/20;Europe;109;5
+2/26/20;Méditerranée orientale;67;3
+2/26/20;Other;0;1
+2/26/20;Pacifique occidental;686;55
+2/27/20;Afrique;0;0
+2/27/20;Amérique du Nord;7;0
+2/27/20;Amérique latine;0;0
+2/27/20;Asie du Sud-Est;0;0
+2/27/20;Europe;107;2
+2/27/20;Méditerranée orientale;72;4
+2/27/20;Other;14;0
+2/27/20;Pacifique occidental;914;32
+2/28/20;Afrique;1;0
+2/28/20;Amérique du Nord;3;0
+2/28/20;Amérique latine;0;0
+2/28/20;Asie du Sud-Est;0;0
+2/28/20;Europe;342;5
+2/28/20;Méditerranée orientale;133;7
+2/28/20;Other;0;0
+2/28/20;Pacifique occidental;787;45
+2/29/20;Afrique;0;0
+2/29/20;Amérique du Nord;10;0
+2/29/20;Amérique latine;0;0
+2/29/20;Asie du Sud-Est;2;0
+2/29/20;Europe;326;4
+2/29/20;Méditerranée orientale;153;8
+2/29/20;Other;0;2
+2/29/20;Pacifique occidental;1368;50
+2/3/20;Afrique;0;0
+2/3/20;Amérique du Nord;3;0
+2/3/20;Amérique latine;0;0
+2/3/20;Asie du Sud-Est;0;0
+2/3/20;Europe;1;0
+2/3/20;Méditerranée orientale;0;0
+2/3/20;Other;0;0
+2/3/20;Pacifique occidental;2814;57
+2/4/20;Afrique;0;0
+2/4/20;Amérique du Nord;0;0
+2/4/20;Amérique latine;0;0
+2/4/20;Asie du Sud-Est;1;0
+2/4/20;Europe;3;0
+2/4/20;Méditerranée orientale;0;0
+2/4/20;Other;0;0
+2/4/20;Pacifique occidental;3239;65
+2/5/20;Afrique;0;0
+2/5/20;Amérique du Nord;1;0
+2/5/20;Amérique latine;0;0
+2/5/20;Asie du Sud-Est;6;0
+2/5/20;Europe;1;0
+2/5/20;Méditerranée orientale;0;0
+2/5/20;Other;10;0
+2/5/20;Pacifique occidental;3890;66
+2/6/20;Afrique;0;0
+2/6/20;Amérique du Nord;1;0
+2/6/20;Amérique latine;0;0
+2/6/20;Asie du Sud-Est;0;0
+2/6/20;Europe;0;0
+2/6/20;Méditerranée orientale;0;0
+2/6/20;Other;10;0
+2/6/20;Pacifique occidental;3740;72
+2/7/20;Afrique;0;0
+2/7/20;Amérique du Nord;2;0
+2/7/20;Amérique latine;0;0
+2/7/20;Asie du Sud-Est;0;0
+2/7/20;Europe;2;0
+2/7/20;Méditerranée orientale;0;0
+2/7/20;Other;41;0
+2/7/20;Pacifique occidental;3173;73
+2/8/20;Afrique;0;0
+2/8/20;Amérique du Nord;0;0
+2/8/20;Amérique latine;0;0
+2/8/20;Asie du Sud-Est;7;0
+2/8/20;Europe;6;0
+2/8/20;Méditerranée orientale;2;0
+2/8/20;Other;3;0
+2/8/20;Pacifique occidental;3424;86
+2/9/20;Afrique;0;0
+2/9/20;Amérique du Nord;0;0
+2/9/20;Amérique latine;0;0
+2/9/20;Asie du Sud-Est;0;0
+2/9/20;Europe;0;0
+2/9/20;Méditerranée orientale;0;0
+2/9/20;Other;0;0
+2/9/20;Pacifique occidental;2618;89
+3/1/20;Afrique;2;0
+3/1/20;Amérique du Nord;9;1
+3/1/20;Amérique latine;2;0
+3/1/20;Asie du Sud-Est;0;1
+3/1/20;Europe;411;8
+3/1/20;Méditerranée orientale;218;9
+3/1/20;Other;0;0
+3/1/20;Pacifique occidental;1184;39
+3/10/20;Afrique;5;0
+3/10/20;Amérique du Nord;215;6
+3/10/20;Amérique latine;16;0
+3/10/20;Asie du Sud-Est;10;0
+3/10/20;Europe;3649;136
+3/10/20;Méditerranée orientale;676;43
+3/10/20;Other;-9;1
+3/10/20;Pacifique occidental;254;22
+3/11/20;Afrique;3;0
+3/11/20;Amérique du Nord;287;2
+3/11/20;Amérique latine;38;1
+3/11/20;Asie du Sud-Est;30;0
+3/11/20;Europe;3456;184
+3/11/20;Méditerranée orientale;931;55
+3/11/20;Pacifique occidental;362;31
+3/12/20;Afrique;7;0
+3/12/20;Amérique du Nord;301;2
+3/12/20;Amérique latine;61;0
+3/12/20;Asie du Sud-Est;52;1
+3/12/20;Europe;5898;240
+3/12/20;Méditerranée orientale;1316;67
+3/12/20;Pacifique occidental;263;21
+3/13/20;Afrique;14;1
+3/13/20;Amérique du Nord;391;10
+3/13/20;Amérique latine;78;1
+3/13/20;Asie du Sud-Est;3;1
+3/13/20;Europe;7556;249
+3/13/20;Méditerranée orientale;1148;76
+3/13/20;Pacifique occidental;261;12
+3/14/20;Afrique;25;1
+3/14/20;Amérique du Nord;559;7
+3/14/20;Amérique latine;94;2
+3/14/20;Asie du Sud-Est;59;4
+3/14/20;Europe;7873;317
+3/14/20;Méditerranée orientale;1475;86
+3/14/20;Pacifique occidental;319;26
+3/15/20;Afrique;26;0
+3/15/20;Amérique du Nord;860;10
+3/15/20;Amérique latine;109;1
+3/15/20;Asie du Sud-Est;39;0
+3/15/20;Europe;9382;244
+3/15/20;Méditerranée orientale;1441;99
+3/15/20;Pacifique occidental;308;13
+3/16/20;Afrique;56;2
+3/16/20;Amérique du Nord;895;12
+3/16/20;Amérique latine;179;1
+3/16/20;Asie du Sud-Est;68;1
+3/16/20;Europe;9400;599
+3/16/20;Méditerranée orientale;1425;113
+3/16/20;Pacifique occidental;432;23
+3/17/20;Afrique;50;0
+3/17/20;Amérique du Nord;1036;19
+3/17/20;Amérique latine;253;0
+3/17/20;Asie du Sud-Est;124;1
+3/17/20;Europe;11014;437
+3/17/20;Méditerranée orientale;1338;130
+3/17/20;Pacifique occidental;386;19
+3/18/20;Afrique;41;1
+3/18/20;Amérique du Nord;1922;27
+3/18/20;Amérique latine;268;1
+3/18/20;Asie du Sud-Est;66;0
+3/18/20;Europe;12965;617
+3/18/20;Méditerranée orientale;1322;140
+3/18/20;Pacifique occidental;422;25
+3/19/20;Afrique;92;2
+3/19/20;Amérique du Nord;3134;43
+3/19/20;Amérique latine;411;6
+3/19/20;Asie du Sud-Est;30;0
+3/19/20;Europe;14460;743
+3/19/20;Méditerranée orientale;1491;151
+3/19/20;Pacifique occidental;596;18
+3/2/20;Afrique;0;0
+3/2/20;Amérique du Nord;25;1
+3/2/20;Amérique latine;6;0
+3/2/20;Asie du Sud-Est;3;0
+3/2/20;Europe;729;7
+3/2/20;Méditerranée orientale;407;11
+3/2/20;Other;0;0
+3/2/20;Pacifique occidental;917;48
+3/20/20;Afrique;78;1
+3/20/20;Amérique du Nord;5037;1
+3/20/20;Amérique latine;571;5
+3/20/20;Asie du Sud-Est;127;15
+3/20/20;Europe;23255;884
+3/20/20;Méditerranée orientale;1412;151
+3/20/20;Pacifique occidental;614;18
+3/21/20;Afrique;147;4
+3/21/20;Amérique du Nord;5538;114
+3/21/20;Amérique latine;844;15
+3/21/20;Asie du Sud-Est;297;6
+3/21/20;Europe;22938;1080
+3/21/20;Méditerranée orientale;1466;155
+3/21/20;Pacifique occidental;679;13
+3/22/20;Afrique;156;10
+3/22/20;Amérique du Nord;7502;86
+3/22/20;Amérique latine;826;14
+3/22/20;Asie du Sud-Est;483;15
+3/22/20;Europe;22954;1442
+3/22/20;Méditerranée orientale;1453;129
+3/22/20;Pacifique occidental;833;20
+3/23/20;Afrique;170;4
+3/23/20;Amérique du Nord;8652;133
+3/23/20;Amérique latine;1109;16
+3/23/20;Asie du Sud-Est;317;14
+3/23/20;Europe;21524;1355
+3/23/20;Méditerranée orientale;1454;140
+3/23/20;Pacifique occidental;1131;29
+3/24/20;Afrique;281;4
+3/24/20;Amérique du Nord;11503;125
+3/24/20;Amérique latine;991;18
+3/24/20;Asie du Sud-Est;243;6
+3/24/20;Europe;28883;1538
+3/24/20;Méditerranée orientale;1773;136
+3/24/20;Pacifique occidental;741;27
+3/25/20;Afrique;363;6
+3/25/20;Amérique du Nord;9140;215
+3/25/20;Amérique latine;1039;31
+3/25/20;Asie du Sud-Est;297;7
+3/25/20;Europe;27935;1906
+3/25/20;Méditerranée orientale;2424;135
+3/25/20;Pacifique occidental;1188;15
+3/26/20;Afrique;288;3
+3/26/20;Amérique du Nord;15459;257
+3/26/20;Amérique latine;1286;24
+3/26/20;Asie du Sud-Est;303;8
+3/26/20;Europe;32497;2178
+3/26/20;Méditerranée orientale;2868;152
+3/26/20;Pacifique occidental;1049;23
+3/27/20;Afrique;523;8
+3/27/20;Amérique du Nord;17540;253
+3/27/20;Amérique latine;1322;39
+3/27/20;Asie du Sud-Est;284;25
+3/27/20;Europe;37336;2288
+3/27/20;Méditerranée orientale;2896;174
+3/27/20;Pacifique occidental;1115;27
+3/28/20;Afrique;361;2
+3/28/20;Amérique du Nord;19484;429
+3/28/20;Amérique latine;1621;49
+3/28/20;Asie du Sud-Est;303;11
+3/28/20;Europe;38764;2811
+3/28/20;Méditerranée orientale;3477;167
+3/28/20;Pacifique occidental;1084;23
+3/29/20;Afrique;262;15
+3/29/20;Amérique du Nord;20821;495
+3/29/20;Amérique latine;1605;51
+3/29/20;Asie du Sud-Est;341;23
+3/29/20;Europe;34646;2817
+3/29/20;Méditerranée orientale;3686;154
+3/29/20;Pacifique occidental;1453;35
+3/3/20;Afrique;1;0
+3/3/20;Amérique du Nord;17;4
+3/3/20;Amérique latine;2;0
+3/3/20;Asie du Sud-Est;2;0
+3/3/20;Europe;558;18
+3/3/20;Méditerranée orientale;543;12
+3/3/20;Pacifique occidental;734;38
+3/30/20;Afrique;282;8
+3/30/20;Amérique du Nord;19374;323
+3/30/20;Amérique latine;1443;66
+3/30/20;Asie du Sud-Est;372;17
+3/30/20;Europe;31011;2647
+3/30/20;Méditerranée orientale;3588;145
+3/30/20;Pacifique occidental;1293;25
+3/31/20;Afrique;356;11
+3/31/20;Amérique du Nord;22865;697
+3/31/20;Amérique latine;1355;58
+3/31/20;Asie du Sud-Est;578;14
+3/31/20;Europe;33704;3034
+3/31/20;Méditerranée orientale;3936;146
+3/31/20;Pacifique occidental;1694;33
+3/4/20;Afrique;2;0
+3/4/20;Amérique du Nord;25;3
+3/4/20;Amérique latine;2;0
+3/4/20;Asie du Sud-Est;1;0
+3/4/20;Europe;760;29
+3/4/20;Méditerranée orientale;854;11
+3/4/20;Pacifique occidental;668;41
+3/5/20;Afrique;9;0
+3/5/20;Amérique du Nord;37;2
+3/5/20;Amérique latine;6;0
+3/5/20;Asie du Sud-Est;26;0
+3/5/20;Europe;1042;28
+3/5/20;Méditerranée orientale;602;15
+3/5/20;Pacifique occidental;632;35
+3/6/20;Afrique;7;0
+3/6/20;Amérique du Nord;86;1
+3/6/20;Amérique latine;10;0
+3/6/20;Asie du Sud-Est;2;0
+3/6/20;Europe;1599;47
+3/6/20;Méditerranée orientale;619;17
+3/6/20;Pacifique occidental;735;37
+3/7/20;Afrique;2;0
+3/7/20;Amérique du Nord;111;2
+3/7/20;Amérique latine;16;0
+3/7/20;Asie du Sud-Est;7;0
+3/7/20;Europe;2017;55
+3/7/20;Méditerranée orientale;1269;17
+3/7/20;Pacifique occidental;698;30
+3/8/20;Afrique;1;0
+3/8/20;Amérique du Nord;101;3
+3/8/20;Amérique latine;2;1
+3/8/20;Asie du Sud-Est;5;0
+3/8/20;Europe;2246;38
+3/8/20;Méditerranée orientale;1127;21
+3/8/20;Pacifique occidental;495;34
+3/9/20;Afrique;5;0
+3/9/20;Amérique du Nord;128;4
+3/9/20;Amérique latine;31;0
+3/9/20;Asie du Sud-Est;7;0
+3/9/20;Europe;2823;145
+3/9/20;Méditerranée orientale;820;54
+3/9/20;Pacifique occidental;363;25
+4/1/20;Afrique;323;18
+4/1/20;Amérique du Nord;26231;917
+4/1/20;Amérique latine;2480;94
+4/1/20;Asie du Sud-Est;266;19
+4/1/20;Europe;40813;3455
+4/1/20;Méditerranée orientale;4144;164
+4/1/20;Pacifique occidental;417;10
+4/10/20;Afrique;564;34
+4/10/20;Amérique du Nord;35635;1967
+4/10/20;Amérique latine;4833;260
+4/10/20;Asie du Sud-Est;1184;75
+4/10/20;Europe;40368;4903
+4/10/20;Méditerranée orientale;3287;151
+4/10/20;Pacifique occidental;1393;34
+4/11/20;Afrique;455;34
+4/11/20;Amérique du Nord;37315;2186
+4/11/20;Amérique latine;6153;220
+4/11/20;Asie du Sud-Est;1401;74
+4/11/20;Europe;39660;4323
+4/11/20;Méditerranée orientale;3561;163
+4/11/20;Pacifique occidental;967;16
+4/12/20;Afrique;416;33
+4/12/20;Amérique du Nord;29934;1955
+4/12/20;Amérique latine;3585;156
+4/12/20;Asie du Sud-Est;1335;61
+4/12/20;Europe;34435;3623
+4/12/20;Méditerranée orientale;3704;173
+4/12/20;Pacifique occidental;1905;64
+4/13/20;Afrique;561;22
+4/13/20;Amérique du Nord;29126;1587
+4/13/20;Amérique latine;3387;208
+4/13/20;Asie du Sud-Est;1387;88
+4/13/20;Europe;29093;3200
+4/13/20;Méditerranée orientale;3668;163
+4/13/20;Pacifique occidental;1306;67
+4/14/20;Afrique;428;28
+4/14/20;Amérique du Nord;26674;1640
+4/14/20;Amérique latine;2252;153
+4/14/20;Asie du Sud-Est;1776;63
+4/14/20;Europe;28218;3323
+4/14/20;Méditerranée orientale;3994;148
+4/14/20;Pacifique occidental;1378;36
+4/15/20;Afrique;572;26
+4/15/20;Amérique du Nord;28690;2605
+4/15/20;Amérique latine;5794;289
+4/15/20;Asie du Sud-Est;1628;107
+4/15/20;Europe;34696;4412
+4/15/20;Méditerranée orientale;3714;139
+4/15/20;Pacifique occidental;1402;40
+4/16/20;Afrique;533;25
+4/16/20;Amérique du Nord;31914;5078
+4/16/20;Amérique latine;5745;302
+4/16/20;Asie du Sud-Est;1491;54
+4/16/20;Europe;33349;4859
+4/16/20;Méditerranée orientale;3952;135
+4/16/20;Pacifique occidental;1364;38
+4/17/20;Afrique;460;36
+4/17/20;Amérique du Nord;33834;2519
+4/17/20;Amérique latine;4924;285
+4/17/20;Asie du Sud-Est;1784;61
+4/17/20;Europe;36497;4175
+4/17/20;Méditerranée orientale;4390;132
+4/17/20;Pacifique occidental;2052;1319
+4/18/20;Afrique;897;37
+4/18/20;Amérique du Nord;33202;3946
+4/18/20;Amérique latine;6050;313
+4/18/20;Asie du Sud-Est;1697;83
+4/18/20;Europe;33545;3920
+4/18/20;Méditerranée orientale;4755;123
+4/18/20;Pacifique occidental;1633;40
+4/19/20;Afrique;796;13
+4/19/20;Amérique du Nord;35013;2118
+4/19/20;Amérique latine;5752;349
+4/19/20;Asie du Sud-Est;2028;51
+4/19/20;Europe;29631;3694
+4/19/20;Méditerranée orientale;4485;124
+4/19/20;Pacifique occidental;1858;24
+4/2/20;Afrique;494;26
+4/2/20;Amérique du Nord;28325;1080
+4/2/20;Amérique latine;3012;136
+4/2/20;Asie du Sud-Est;864;39
+4/2/20;Europe;39535;3548
+4/2/20;Méditerranée orientale;3839;160
+4/2/20;Pacifique occidental;1404;26
+4/20/20;Afrique;808;43
+4/20/20;Amérique du Nord;26801;1921
+4/20/20;Amérique latine;5201;230
+4/20/20;Asie du Sud-Est;2287;90
+4/20/20;Europe;29443;2539
+4/20/20;Méditerranée orientale;4696;140
+4/20/20;Pacifique occidental;1326;26
+4/21/20;Afrique;478;19
+4/21/20;Amérique du Nord;30622;1993
+4/21/20;Amérique latine;4678;243
+4/21/20;Asie du Sud-Est;2077;65
+4/21/20;Europe;28619;2955
+4/21/20;Méditerranée orientale;5170;137
+4/21/20;Pacifique occidental;2091;37
+4/22/20;Afrique;850;18
+4/22/20;Amérique du Nord;39608;2813
+4/22/20;Amérique latine;5317;268
+4/22/20;Asie du Sud-Est;2248;86
+4/22/20;Europe;32196;3907
+4/22/20;Méditerranée orientale;4702;134
+4/22/20;Pacifique occidental;1744;17
+4/23/20;Afrique;831;32
+4/23/20;Amérique du Nord;20397;1974
+4/23/20;Amérique latine;6008;290
+4/23/20;Asie du Sud-Est;2140;72
+4/23/20;Europe;31441;3327
+4/23/20;Méditerranée orientale;4044;124
+4/23/20;Pacifique occidental;1483;116
+4/24/20;Afrique;1081;35
+4/24/20;Amérique du Nord;29552;3450
+4/24/20;Amérique latine;7195;517
+4/24/20;Asie du Sud-Est;2526;56
+4/24/20;Europe;30428;3074
+4/24/20;Méditerranée orientale;5820;153
+4/24/20;Pacifique occidental;1883;50
+4/25/20;Afrique;1201;22
+4/25/20;Amérique du Nord;24369;1362
+4/25/20;Amérique latine;5810;481
+4/25/20;Asie du Sud-Est;2467;103
+4/25/20;Europe;31304;3198
+4/25/20;Méditerranée orientale;5743;155
+4/25/20;Pacifique occidental;1898;38
+4/26/20;Afrique;742;27
+4/26/20;Amérique du Nord;50963;2419
+4/26/20;Amérique latine;11074;484
+4/26/20;Asie du Sud-Est;2816;90
+4/26/20;Europe;27489;2968
+4/26/20;Méditerranée orientale;5594;135
+4/26/20;Pacifique occidental;1104;37
+4/27/20;Afrique;1169;26
+4/27/20;Amérique du Nord;29235;1828
+4/27/20;Amérique latine;18576;261
+4/27/20;Asie du Sud-Est;2230;76
+4/27/20;Europe;23657;1605
+4/27/20;Méditerranée orientale;5328;103
+4/27/20;Pacifique occidental;1482;15
+4/28/20;Afrique;784;19
+4/28/20;Amérique du Nord;24998;1599
+4/28/20;Amérique latine;7719;518
+4/28/20;Asie du Sud-Est;2335;94
+4/28/20;Europe;23047;2462
+4/28/20;Méditerranée orientale;5652;166
+4/28/20;Pacifique occidental;1285;40
+4/29/20;Afrique;1242;23
+4/29/20;Amérique du Nord;26881;2397
+4/29/20;Amérique latine;10615;819
+4/29/20;Asie du Sud-Est;2929;84
+4/29/20;Europe;24161;3055
+4/29/20;Méditerranée orientale;5383;148
+4/29/20;Pacifique occidental;1043;39
+4/3/20;Afrique;443;17
+4/3/20;Amérique du Nord;30624;957
+4/3/20;Amérique latine;2453;88
+4/3/20;Asie du Sud-Est;564;23
+4/3/20;Europe;38027;3748
+4/3/20;Méditerranée orientale;3860;153
+4/3/20;Pacifique occidental;1487;40
+4/30/20;Afrique;1387;40
+4/30/20;Amérique du Nord;29945;2911
+4/30/20;Amérique latine;11061;595
+4/30/20;Asie du Sud-Est;2700;87
+4/30/20;Europe;26682;2728
+4/30/20;Méditerranée orientale;5734;145
+4/30/20;Pacifique occidental;1293;57
+4/4/20;Afrique;625;49
+4/4/20;Amérique du Nord;33854;1163
+4/4/20;Amérique latine;2661;124
+4/4/20;Asie du Sud-Est;909;28
+4/4/20;Europe;41990;5368
+4/4/20;Méditerranée orientale;240;1
+4/4/20;Pacifique occidental;1551;53
+4/5/20;Afrique;453;40
+4/5/20;Amérique du Nord;35837;1407
+4/5/20;Amérique latine;2647;159
+4/5/20;Asie du Sud-Est;787;26
+4/5/20;Europe;37305;4294
+4/5/20;Méditerranée orientale;7243;345
+4/5/20;Pacifique occidental;971;27
+4/6/20;Afrique;480;38
+4/6/20;Amérique du Nord;27265;1210
+4/6/20;Amérique latine;2615;115
+4/6/20;Asie du Sud-Est;953;43
+4/6/20;Europe;29250;3146
+4/6/20;Méditerranée orientale;4644;197
+4/6/20;Pacifique occidental;1069;22
+4/7/20;Afrique;473;23
+4/7/20;Amérique du Nord;32014;1416
+4/7/20;Amérique latine;2175;125
+4/7/20;Asie du Sud-Est;658;19
+4/7/20;Europe;32506;3561
+4/7/20;Méditerranée orientale;4043;170
+4/7/20;Pacifique occidental;1119;31
+4/8/20;Afrique;352;28
+4/8/20;Amérique du Nord;32189;1979
+4/8/20;Amérique latine;3380;205
+4/8/20;Asie du Sud-Est;1179;57
+4/8/20;Europe;35480;5112
+4/8/20;Méditerranée orientale;3657;165
+4/8/20;Pacifique occidental;1030;30
+4/9/20;Afrique;550;29
+4/9/20;Amérique du Nord;35110;2010
+4/9/20;Amérique latine;5552;210
+4/9/20;Asie du Sud-Est;870;44
+4/9/20;Europe;38073;4099
+4/9/20;Méditerranée orientale;3583;156
+4/9/20;Pacifique occidental;1182;22
+5/1/20;Afrique;1632;26
+5/1/20;Amérique du Nord;32991;2355
+5/1/20;Amérique latine;12942;632
+5/1/20;Asie du Sud-Est;3118;87
+5/1/20;Europe;27496;2365
+5/1/20;Méditerranée orientale;6059;152
+5/1/20;Pacifique occidental;1095;33
+5/10/20;Afrique;1936;48
+5/10/20;Amérique du Nord;28818;1931
+5/10/20;Amérique latine;17211;899
+5/10/20;Asie du Sud-Est;4617;153
+5/10/20;Europe;26063;1231
+5/10/20;Méditerranée orientale;9058;124
+5/10/20;Pacifique occidental;1140;21
+5/11/20;Afrique;1888;45
+5/11/20;Amérique du Nord;22966;1024
+5/11/20;Amérique latine;12946;1033
+5/11/20;Asie du Sud-Est;5574;125
+5/11/20;Europe;20531;1038
+5/11/20;Méditerranée orientale;9542;139
+5/11/20;Pacifique occidental;1247;23
+5/12/20;Afrique;2340;44
+5/12/20;Amérique du Nord;20555;1386
+5/12/20;Amérique latine;10102;547
+5/12/20;Asie du Sud-Est;4955;116
+5/12/20;Europe;22058;1342
+5/12/20;Méditerranée orientale;8796;120
+5/12/20;Pacifique occidental;928;34
+5/13/20;Afrique;2265;39
+5/13/20;Amérique du Nord;25221;2232
+5/13/20;Amérique latine;17132;1232
+5/13/20;Asie du Sud-Est;5090;149
+5/13/20;Europe;24613;1927
+5/13/20;Méditerranée orientale;10529;127
+5/13/20;Pacifique occidental;1363;51
+5/14/20;Afrique;2379;65
+5/14/20;Amérique du Nord;23765;2175
+5/14/20;Amérique latine;20454;938
+5/14/20;Asie du Sud-Est;5657;175
+5/14/20;Europe;23091;1489
+5/14/20;Méditerranée orientale;9811;132
+5/14/20;Pacifique occidental;1100;44
+5/15/20;Afrique;2426;54
+5/15/20;Amérique du Nord;30675;2198
+5/15/20;Amérique latine;22929;1044
+5/15/20;Asie du Sud-Est;5658;129
+5/15/20;Europe;23286;1639
+5/15/20;Méditerranée orientale;10332;150
+5/15/20;Pacifique occidental;1237;42
+5/16/20;Afrique;2281;49
+5/16/20;Amérique du Nord;29146;2042
+5/16/20;Amérique latine;24909;1295
+5/16/20;Asie du Sud-Est;5748;151
+5/16/20;Europe;22843;1331
+5/16/20;Méditerranée orientale;11071;158
+5/16/20;Pacifique occidental;1221;33
+5/17/20;Afrique;2327;41
+5/17/20;Amérique du Nord;27850;1581
+5/17/20;Amérique latine;24206;1104
+5/17/20;Asie du Sud-Est;6536;150
+5/17/20;Europe;20641;1182
+5/17/20;Méditerranée orientale;10586;134
+5/17/20;Pacifique occidental;789;33
+5/18/20;Afrique;2281;35
+5/18/20;Amérique du Nord;22086;1043
+5/18/20;Amérique latine;16446;728
+5/18/20;Asie du Sud-Est;7059;231
+5/18/20;Europe;18828;716
+5/18/20;Méditerranée orientale;11831;132
+5/18/20;Pacifique occidental;972;13
+5/19/20;Afrique;2193;44
+5/19/20;Amérique du Nord;25325;1006
+5/19/20;Amérique latine;21032;964
+5/19/20;Asie du Sud-Est;7169;198
+5/19/20;Europe;18120;903
+5/19/20;Méditerranée orientale;11866;163
+5/19/20;Pacifique occidental;662;22
+5/2/20;Afrique;1389;39
+5/2/20;Amérique du Nord;37295;2382
+5/2/20;Amérique latine;13579;724
+5/2/20;Asie du Sud-Est;3347;81
+5/2/20;Europe;25247;2173
+5/2/20;Méditerranée orientale;6245;135
+5/2/20;Pacifique occidental;1565;43
+5/20/20;Afrique;2438;54
+5/20/20;Amérique du Nord;23723;1972
+5/20/20;Amérique latine;28729;1439
+5/20/20;Asie du Sud-Est;7452;191
+5/20/20;Europe;20090;1354
+5/20/20;Méditerranée orientale;12338;159
+5/20/20;Pacifique occidental;774;15
+5/21/20;Afrique;2245;57
+5/21/20;Amérique du Nord;26523;2060
+5/21/20;Amérique latine;31794;1138
+5/21/20;Asie du Sud-Est;8011;169
+5/21/20;Europe;20573;1118
+5/21/20;Méditerranée orientale;13224;164
+5/21/20;Pacifique occidental;957;13
+5/22/20;Afrique;3365;79
+5/22/20;Amérique du Nord;29629;1805
+5/22/20;Amérique latine;30241;1479
+5/22/20;Asie du Sud-Est;8937;207
+5/22/20;Europe;20840;1612
+5/22/20;Méditerranée orientale;13931;184
+5/22/20;Pacifique occidental;837;24
+5/23/20;Afrique;2487;55
+5/23/20;Amérique du Nord;28263;1882
+5/23/20;Amérique latine;32069;1353
+5/23/20;Asie du Sud-Est;9122;209
+5/23/20;Europe;19714;958
+5/23/20;Méditerranée orientale;13227;162
+5/23/20;Pacifique occidental;918;27
+5/24/20;Afrique;3285;35
+5/24/20;Amérique du Nord;25706;1375
+5/24/20;Amérique latine;28222;1245
+5/24/20;Asie du Sud-Est;9675;192
+5/24/20;Europe;19168;863
+5/24/20;Méditerranée orientale;13047;188
+5/24/20;Pacifique occidental;924;19
+5/25/20;Afrique;3070;52
+5/25/20;Amérique du Nord;24410;917
+5/25/20;Amérique latine;27726;850
+5/25/20;Asie du Sud-Est;9179;204
+5/25/20;Europe;16030;-1092
+5/25/20;Méditerranée orientale;11812;159
+5/25/20;Pacifique occidental;928;16
+5/26/20;Afrique;2569;91
+5/26/20;Amérique du Nord;22561;860
+5/26/20;Amérique latine;24800;1184
+5/26/20;Asie du Sud-Est;9135;188
+5/26/20;Europe;17932;879
+5/26/20;Méditerranée orientale;10968;143
+5/26/20;Pacifique occidental;878;23
+5/27/20;Afrique;2909;90
+5/27/20;Amérique du Nord;23301;1291
+5/27/20;Amérique latine;29821;1341
+5/27/20;Asie du Sud-Est;8244;219
+5/27/20;Europe;17715;761
+5/27/20;Méditerranée orientale;10776;144
+5/27/20;Pacifique occidental;1015;25
+5/28/20;Afrique;3476;63
+5/28/20;Amérique du Nord;23056;2115
+5/28/20;Amérique latine;35826;1460
+5/28/20;Asie du Sud-Est;9086;271
+5/28/20;Europe;18212;1045
+5/28/20;Méditerranée orientale;12132;169
+5/28/20;Pacifique occidental;1031;20
+5/29/20;Afrique;3043;50
+5/29/20;Amérique du Nord;26187;1734
+5/29/20;Amérique latine;41475;1432
+5/29/20;Asie du Sud-Est;10469;214
+5/29/20;Europe;22462;961
+5/29/20;Méditerranée orientale;13791;218
+5/29/20;Pacifique occidental;1079;33
+5/3/20;Afrique;1315;45
+5/3/20;Amérique du Nord;32290;1581
+5/3/20;Amérique latine;11432;870
+5/3/20;Asie du Sud-Est;3537;119
+5/3/20;Europe;25219;1995
+5/3/20;Méditerranée orientale;5794;139
+5/3/20;Pacifique occidental;1041;59
+5/30/20;Afrique;4300;61
+5/30/20;Amérique du Nord;29470;1692
+5/30/20;Amérique latine;41371;1410
+5/30/20;Asie du Sud-Est;11472;313
+5/30/20;Europe;19167;886
+5/30/20;Méditerranée orientale;14363;258
+5/30/20;Pacifique occidental;1926;33
+5/31/20;Afrique;4376;80
+5/31/20;Amérique du Nord;26954;1403
+5/31/20;Amérique latine;50077;1245
+5/31/20;Asie du Sud-Est;11048;274
+5/31/20;Europe;18974;720
+5/31/20;Méditerranée orientale;15291;276
+5/31/20;Pacifique occidental;1218;14
+5/4/20;Afrique;1072;23
+5/4/20;Amérique du Nord;29115;1506
+5/4/20;Amérique latine;12691;619
+5/4/20;Asie du Sud-Est;3611;88
+5/4/20;Europe;23036;1321
+5/4/20;Méditerranée orientale;6311;120
+5/4/20;Pacifique occidental;1329;29
+5/5/20;Afrique;2156;30
+5/5/20;Amérique du Nord;25325;1541
+5/5/20;Amérique latine;12661;431
+5/5/20;Asie du Sud-Est;5075;220
+5/5/20;Europe;23537;1595
+5/5/20;Méditerranée orientale;6686;140
+5/5/20;Pacifique occidental;1096;29
+5/6/20;Afrique;1335;44
+5/6/20;Amérique du Nord;26235;2569
+5/6/20;Amérique latine;13682;765
+5/6/20;Asie du Sud-Est;4267;136
+5/6/20;Europe;24762;2247
+5/6/20;Méditerranée orientale;7387;156
+5/6/20;Pacifique occidental;1015;40
+5/7/20;Afrique;1777;72
+5/7/20;Amérique du Nord;27187;2739
+5/7/20;Amérique latine;14303;817
+5/7/20;Asie du Sud-Est;4807;117
+5/7/20;Europe;30117;2170
+5/7/20;Méditerranée orientale;8066;175
+5/7/20;Pacifique occidental;1300;34
+5/8/20;Afrique;1749;45
+5/8/20;Amérique du Nord;31777;2672
+5/8/20;Amérique latine;17705;808
+5/8/20;Asie du Sud-Est;4505;152
+5/8/20;Europe;27392;1788
+5/8/20;Méditerranée orientale;8031;144
+5/8/20;Pacifique occidental;1265;33
+5/9/20;Afrique;2885;45
+5/9/20;Amérique du Nord;30375;1870
+5/9/20;Amérique latine;15489;958
+5/9/20;Asie du Sud-Est;4387;115
+5/9/20;Europe;26047;1928
+5/9/20;Méditerranée orientale;8954;141
+5/9/20;Pacifique occidental;1074;55
+6/1/20;Afrique;3338;73
+6/1/20;Amérique du Nord;23716;975
+6/1/20;Amérique latine;34459;792
+6/1/20;Asie du Sud-Est;11926;312
+6/1/20;Europe;16574;488
+6/1/20;Méditerranée orientale;15160;264
+6/1/20;Pacifique occidental;1543;9
+6/10/20;Afrique;4889;130
+6/10/20;Amérique du Nord;23273;1657
+6/10/20;Amérique latine;45906;1653
+6/10/20;Asie du Sud-Est;14558;365
+6/10/20;Europe;17543;735
+6/10/20;Méditerranée orientale;18225;302
+6/10/20;Pacifique occidental;843;11
+6/11/20;Afrique;4699;101
+6/11/20;Amérique du Nord;25969;1689
+6/11/20;Amérique latine;50308;1844
+6/11/20;Asie du Sud-Est;14741;430
+6/11/20;Europe;18420;716
+6/11/20;Méditerranée orientale;19416;339
+6/11/20;Pacifique occidental;1301;12
+6/12/20;Afrique;5319;110
+6/12/20;Amérique du Nord;28078;1517
+6/12/20;Amérique latine;46809;1719
+6/12/20;Asie du Sud-Est;15406;474
+6/12/20;Europe;19511;502
+6/12/20;Méditerranée orientale;20021;362
+6/12/20;Pacifique occidental;1011;12
+6/13/20;Afrique;6755;188
+6/13/20;Amérique du Nord;31274;1408
+6/13/20;Amérique latine;48029;1642
+6/13/20;Asie du Sud-Est;16522;481
+6/13/20;Europe;19640;564
+6/13/20;Méditerranée orientale;21179;346
+6/13/20;Pacifique occidental;1227;19
+6/14/20;Afrique;6491;128
+6/14/20;Amérique du Nord;29501;1249
+6/14/20;Amérique latine;40349;1506
+6/14/20;Asie du Sud-Est;16095;400
+6/14/20;Europe;19153;480
+6/14/20;Méditerranée orientale;20673;351
+6/14/20;Pacifique occidental;1150;25
+6/15/20;Afrique;7259;106
+6/15/20;Amérique du Nord;24067;604
+6/15/20;Amérique latine;35483;1214
+6/15/20;Asie du Sud-Est;15954;401
+6/15/20;Europe;17679;351
+6/15/20;Méditerranée orientale;19626;466
+6/15/20;Pacifique occidental;1128;15
+6/16/20;Afrique;6219;138
+6/16/20;Amérique du Nord;23744;863
+6/16/20;Amérique latine;35826;1030
+6/16/20;Asie du Sud-Est;15281;482
+6/16/20;Europe;17495;381
+6/16/20;Méditerranée orientale;19003;471
+6/16/20;Pacifique occidental;927;13
+6/17/20;Afrique;5221;126
+6/17/20;Amérique du Nord;28624;1604
+6/17/20;Amérique latine;51251;1731
+6/17/20;Asie du Sud-Est;16361;2089
+6/17/20;Europe;18858;656
+6/17/20;Méditerranée orientale;20495;502
+6/17/20;Pacifique occidental;666;11
+6/18/20;Afrique;6739;103
+6/18/20;Amérique du Nord;30875;1565
+6/18/20;Amérique latine;79873;1914
+6/18/20;Asie du Sud-Est;18548;423
+6/18/20;Europe;19855;597
+6/18/20;Méditerranée orientale;20092;488
+6/18/20;Pacifique occidental;882;10
+6/19/20;Afrique;7012;116
+6/19/20;Amérique du Nord;33791;1430
+6/19/20;Amérique latine;38601;1908
+6/19/20;Asie du Sud-Est;19454;439
+6/19/20;Europe;19247;1868
+6/19/20;Méditerranée orientale;19316;506
+6/19/20;Pacifique occidental;1029;8
+6/2/20;Afrique;3636;63
+6/2/20;Amérique du Nord;24615;1032
+6/2/20;Amérique latine;27351;949
+6/2/20;Asie du Sud-Est;11316;256
+6/2/20;Europe;16529;561
+6/2/20;Méditerranée orientale;15747;278
+6/2/20;Pacifique occidental;1100;7
+6/20/20;Afrique;7384;187
+6/20/20;Amérique du Nord;35348;1371
+6/20/20;Amérique latine;76277;1964
+6/20/20;Asie du Sud-Est;19248;454
+6/20/20;Europe;19465;510
+6/20/20;Méditerranée orientale;21598;514
+6/20/20;Pacifique occidental;991;31
+6/21/20;Afrique;8850;128
+6/21/20;Amérique du Nord;39265;1058
+6/21/20;Amérique latine;52873;1653
+6/21/20;Asie du Sud-Est;20249;399
+6/21/20;Europe;18724;347
+6/21/20;Méditerranée orientale;19046;510
+6/21/20;Pacifique occidental;1310;21
+6/22/20;Afrique;7797;101
+6/22/20;Amérique du Nord;31454;1320
+6/22/20;Amérique latine;35679;1244
+6/22/20;Asie du Sud-Est;19655;521
+6/22/20;Europe;16253;309
+6/22/20;Méditerranée orientale;17242;451
+6/22/20;Pacifique occidental;1118;20
+6/23/20;Afrique;7226;118
+6/23/20;Amérique du Nord;36278;1192
+6/23/20;Amérique latine;34918;906
+6/23/20;Asie du Sud-Est;19387;385
+6/23/20;Europe;16857;321
+6/23/20;Méditerranée orientale;18539;463
+6/23/20;Pacifique occidental;1034;11
+6/24/20;Afrique;7407;174
+6/24/20;Amérique du Nord;41334;1637
+6/24/20;Amérique latine;56715;1997
+6/24/20;Asie du Sud-Est;20499;543
+6/24/20;Europe;18638;532
+6/24/20;Méditerranée orientale;17875;449
+6/24/20;Pacifique occidental;1424;18
+6/25/20;Afrique;8622;144
+6/25/20;Amérique du Nord;40055;1746
+6/25/20;Amérique latine;63782;1860
+6/25/20;Asie du Sud-Est;23235;493
+6/25/20;Europe;19853;406
+6/25/20;Méditerranée orientale;18607;541
+6/25/20;Pacifique occidental;840;25
+6/26/20;Afrique;10484;129
+6/26/20;Amérique du Nord;47422;3175
+6/26/20;Amérique latine;59887;1830
+6/26/20;Asie du Sud-Est;22879;496
+6/26/20;Europe;18712;445
+6/26/20;Méditerranée orientale;18253;492
+6/26/20;Pacifique occidental;1104;11
+6/27/20;Afrique;9096;103
+6/27/20;Amérique du Nord;51140;1346
+6/27/20;Amérique latine;63677;1750
+6/27/20;Asie du Sud-Est;24272;488
+6/27/20;Europe;20381;477
+6/27/20;Méditerranée orientale;18650;382
+6/27/20;Pacifique occidental;1456;14
+6/28/20;Afrique;10755;114
+6/28/20;Amérique du Nord;47134;1110
+6/28/20;Amérique latine;62677;1887
+6/28/20;Asie du Sud-Est;24840;481
+6/28/20;Europe;17424;406
+6/28/20;Méditerranée orientale;17941;581
+6/28/20;Pacifique occidental;1257;12
+6/29/20;Afrique;9776;95
+6/29/20;Amérique du Nord;42941;538
+6/29/20;Amérique latine;47041;1187
+6/29/20;Asie du Sud-Est;25508;458
+6/29/20;Europe;16212;327
+6/29/20;Méditerranée orientale;17646;455
+6/29/20;Pacifique occidental;1079;9
+6/3/20;Afrique;3351;93
+6/3/20;Amérique du Nord;25140;1573
+6/3/20;Amérique latine;37432;1523
+6/3/20;Asie du Sud-Est;12788;278
+6/3/20;Europe;16223;802
+6/3/20;Méditerranée orientale;16400;263
+6/3/20;Pacifique occidental;1053;13
+6/30/20;Afrique;8884;130
+6/30/20;Amérique du Nord;46029;853
+6/30/20;Amérique latine;43454;1311
+6/30/20;Asie du Sud-Est;24122;515
+6/30/20;Europe;17661;340
+6/30/20;Méditerranée orientale;16552;546
+6/30/20;Pacifique occidental;1456;11
+6/4/20;Afrique;3362;50
+6/4/20;Amérique du Nord;24286;2188
+6/4/20;Amérique latine;47816;1861
+6/4/20;Asie du Sud-Est;12978;333
+6/4/20;Europe;18116;789
+6/4/20;Méditerranée orientale;17457;282
+6/4/20;Pacifique occidental;1497;11
+6/5/20;Afrique;6049;113
+6/5/20;Amérique du Nord;26223;1992
+6/5/20;Amérique latine;44316;1789
+6/5/20;Asie du Sud-Est;13267;332
+6/5/20;Europe;19033;639
+6/5/20;Méditerranée orientale;16771;253
+6/5/20;Pacifique occidental;1265;14
+6/6/20;Afrique;5643;102
+6/6/20;Amérique du Nord;30133;1623
+6/6/20;Amérique latine;45435;1467
+6/6/20;Asie du Sud-Est;13713;374
+6/6/20;Europe;19031;762
+6/6/20;Méditerranée orientale;18326;301
+6/6/20;Pacifique occidental;909;11
+6/7/20;Afrique;4561;80
+6/7/20;Amérique du Nord;26538;1070
+6/7/20;Amérique latine;43347;1359
+6/7/20;Asie du Sud-Est;13642;353
+6/7/20;Europe;18348;624
+6/7/20;Méditerranée orientale;18355;292
+6/7/20;Pacifique occidental;1206;11
+6/8/20;Afrique;4111;84
+6/8/20;Amérique du Nord;26428;927
+6/8/20;Amérique latine;34620;1474
+6/8/20;Asie du Sud-Est;13978;301
+6/8/20;Europe;16434;411
+6/8/20;Méditerranée orientale;18216;305
+6/8/20;Pacifique occidental;1042;9
+6/9/20;Afrique;5251;124
+6/9/20;Amérique du Nord;22366;882
+6/9/20;Amérique latine;28440;1000
+6/9/20;Asie du Sud-Est;13919;406
+6/9/20;Europe;17207;477
+6/9/20;Méditerranée orientale;17381;316
+6/9/20;Pacifique occidental;1057;9
+7/1/20;Afrique;9550;181
+7/1/20;Amérique du Nord;49598;1943
+7/1/20;Amérique latine;51396;1870
+7/1/20;Asie du Sud-Est;23976;643
+7/1/20;Europe;36681;457
+7/1/20;Méditerranée orientale;19298;517
+7/1/20;Pacifique occidental;1586;13
+7/10/20;Afrique;17392;166
+7/10/20;Amérique du Nord;70655;1724
+7/10/20;Amérique latine;65399;1946
+7/10/20;Asie du Sud-Est;32926;574
+7/10/20;Europe;20419;421
+7/10/20;Méditerranée orientale;16214;546
+7/10/20;Pacifique occidental;2142;6
+7/11/20;Afrique;16065;211
+7/11/20;Amérique du Nord;73837;1481
+7/11/20;Amérique latine;69599;2022
+7/11/20;Asie du Sud-Est;31981;608
+7/11/20;Europe;20208;420
+7/11/20;Méditerranée orientale;17618;493
+7/11/20;Pacifique occidental;2153;42
+7/12/20;Afrique;17446;151
+7/12/20;Amérique du Nord;69366;1270
+7/12/20;Amérique latine;61076;1833
+7/12/20;Asie du Sud-Est;33173;650
+7/12/20;Europe;19338;390
+7/12/20;Méditerranée orientale;15442;484
+7/12/20;Pacifique occidental;2153;15
+7/13/20;Afrique;15799;159
+7/13/20;Amérique du Nord;61984;677
+7/13/20;Amérique latine;47035;1286
+7/13/20;Asie du Sud-Est;33309;618
+7/13/20;Europe;19104;413
+7/13/20;Méditerranée orientale;15314;574
+7/13/20;Pacifique occidental;2954;163
+7/14/20;Afrique;14692;127
+7/14/20;Amérique du Nord;63364;850
+7/14/20;Amérique latine;39473;1360
+7/14/20;Asie du Sud-Est;33095;642
+7/14/20;Europe;20510;305
+7/14/20;Méditerranée orientale;15589;491
+7/14/20;Pacifique occidental;1723;66
+7/15/20;Afrique;13751;262
+7/15/20;Amérique du Nord;75900;1747
+7/15/20;Amérique latine;64054;1943
+7/15/20;Asie du Sud-Est;34363;670
+7/15/20;Europe;19290;423
+7/15/20;Méditerranée orientale;14769;526
+7/15/20;Pacifique occidental;1566;7
+7/16/20;Afrique;16833;171
+7/16/20;Amérique du Nord;74207;1544
+7/16/20;Amérique latine;62987;2063
+7/16/20;Asie du Sud-Est;37909;727
+7/16/20;Europe;22438;464
+7/16/20;Méditerranée orientale;15055;513
+7/16/20;Pacifique occidental;2270;19
+7/17/20;Afrique;18604;288
+7/17/20;Amérique du Nord;83773;1624
+7/17/20;Amérique latine;72701;2107
+7/17/20;Asie du Sud-Est;39518;803
+7/17/20;Europe;21238;404
+7/17/20;Méditerranée orientale;14832;486
+7/17/20;Pacifique occidental;3712;33
+7/18/20;Afrique;18194;207
+7/18/20;Amérique du Nord;79156;1656
+7/18/20;Amérique latine;62498;2924
+7/18/20;Asie du Sud-Est;39513;807
+7/18/20;Europe;37610;1248
+7/18/20;Méditerranée orientale;14142;493
+7/18/20;Pacifique occidental;3314;22
+7/19/20;Afrique;17903;201
+7/19/20;Amérique du Nord;71364;1431
+7/19/20;Amérique latine;60268;1722
+7/19/20;Asie du Sud-Est;43449;636
+7/19/20;Europe;20377;380
+7/19/20;Méditerranée orientale;13457;462
+7/19/20;Pacifique occidental;3348;117
+7/2/20;Afrique;11179;141
+7/2/20;Amérique du Nord;57729;1393
+7/2/20;Amérique latine;66688;1721
+7/2/20;Asie du Sud-Est;24829;534
+7/2/20;Europe;19088;503
+7/2/20;Méditerranée orientale;19312;544
+7/2/20;Pacifique occidental;1551;5
+7/20/20;Afrique;17743;142
+7/20/20;Amérique du Nord;67787;724
+7/20/20;Amérique latine;47909;1414
+7/20/20;Asie du Sud-Est;44738;845
+7/20/20;Europe;15080;181
+7/20/20;Méditerranée orientale;12782;471
+7/20/20;Pacifique occidental;3402;64
+7/21/20;Afrique;14193;203
+7/21/20;Amérique du Nord;62697;679
+7/21/20;Amérique latine;44394;1466
+7/21/20;Asie du Sud-Est;41967;733
+7/21/20;Europe;21360;526
+7/21/20;Méditerranée orientale;13493;478
+7/21/20;Pacifique occidental;2660;8
+7/22/20;Afrique;11858;249
+7/22/20;Amérique du Nord;79478;2079
+7/22/20;Amérique latine;66717;2103
+7/22/20;Asie du Sud-Est;42622;770
+7/22/20;Europe;21945;432
+7/22/20;Méditerranée orientale;13782;481
+7/22/20;Pacifique occidental;3383;9
+7/23/20;Afrique;18565;647
+7/23/20;Amérique du Nord;75410;1922
+7/23/20;Amérique latine;94647;2061
+7/23/20;Asie du Sud-Est;50587;1312
+7/23/20;Europe;24680;440
+7/23/20;Méditerranée orientale;14512;486
+7/23/20;Pacifique occidental;3232;9
+7/24/20;Afrique;18657;223
+7/24/20;Amérique du Nord;72066;1774
+7/24/20;Amérique latine;89683;5966
+7/24/20;Asie du Sud-Est;54230;908
+7/24/20;Europe;24374;406
+7/24/20;Méditerranée orientale;13261;465
+7/24/20;Pacifique occidental;4020;37
+7/25/20;Afrique;19283;335
+7/25/20;Amérique du Nord;86534;2048
+7/25/20;Amérique latine;85547;2104
+7/25/20;Asie du Sud-Est;53392;882
+7/25/20;Europe;21373;409
+7/25/20;Méditerranée orientale;14036;462
+7/25/20;Pacifique occidental;3746;16
+7/26/20;Afrique;16845;357
+7/26/20;Amérique du Nord;72599;1647
+7/26/20;Amérique latine;79908;2128
+7/26/20;Asie du Sud-Est;53309;793
+7/26/20;Europe;19604;344
+7/26/20;Méditerranée orientale;13639;435
+7/26/20;Pacifique occidental;3724;29
+7/27/20;Afrique;17589;209
+7/27/20;Amérique du Nord;61828;786
+7/27/20;Amérique latine;58638;1394
+7/27/20;Asie du Sud-Est;53897;829
+7/27/20;Europe;23657;249
+7/27/20;Méditerranée orientale;12404;449
+7/27/20;Pacifique occidental;3845;47
+7/28/20;Afrique;11811;351
+7/28/20;Amérique du Nord;61915;1429
+7/28/20;Amérique latine;46328;1346
+7/28/20;Asie du Sud-Est;52235;751
+7/28/20;Europe;24307;315
+7/28/20;Méditerranée orientale;12449;440
+7/28/20;Pacifique occidental;2862;24
+7/29/20;Afrique;12065;255
+7/29/20;Amérique du Nord;69325;2110
+7/29/20;Amérique latine;69291;1879
+7/29/20;Asie du Sud-Est;53676;867
+7/29/20;Europe;22523;590
+7/29/20;Méditerranée orientale;12913;447
+7/29/20;Pacifique occidental;4009;14
+7/3/20;Afrique;12501;155
+7/3/20;Amérique du Nord;60707;1408
+7/3/20;Amérique latine;67955;2066
+7/3/20;Asie du Sud-Est;27050;472
+7/3/20;Europe;20810;441
+7/3/20;Méditerranée orientale;18757;530
+7/3/20;Pacifique occidental;845;5
+7/30/20;Afrique;16651;327
+7/30/20;Amérique du Nord;81213;1947
+7/30/20;Amérique latine;100293;2655
+7/30/20;Asie du Sud-Est;57795;884
+7/30/20;Europe;25160;409
+7/30/20;Méditerranée orientale;13154;390
+7/30/20;Pacifique occidental;3845;30
+7/31/20;Afrique;15941;392
+7/31/20;Amérique du Nord;76091;2008
+7/31/20;Amérique latine;92616;2183
+7/31/20;Asie du Sud-Est;60112;914
+7/31/20;Europe;26122;391
+7/31/20;Méditerranée orientale;12966;458
+7/31/20;Pacifique occidental;6583;37
+7/4/20;Afrique;12882;149
+7/4/20;Amérique du Nord;61501;1369
+7/4/20;Amérique latine;63134;2015
+7/4/20;Asie du Sud-Est;27947;534
+7/4/20;Europe;18583;439
+7/4/20;Méditerranée orientale;19230;498
+7/4/20;Pacifique occidental;2247;8
+7/5/20;Afrique;13958;118
+7/5/20;Amérique du Nord;52361;776
+7/5/20;Amérique latine;56123;1832
+7/5/20;Asie du Sud-Est;29859;697
+7/5/20;Europe;18136;388
+7/5/20;Méditerranée orientale;18509;518
+7/5/20;Pacifique occidental;2118;10
+7/6/20;Afrique;12841;223
+7/6/20;Amérique du Nord;53995;554
+7/6/20;Amérique latine;46929;1205
+7/6/20;Asie du Sud-Est;28928;563
+7/6/20;Europe;17726;320
+7/6/20;Méditerranée orientale;17493;513
+7/6/20;Pacifique occidental;367;0
+7/7/20;Afrique;13509;174
+7/7/20;Amérique du Nord;55291;848
+7/7/20;Amérique latine;38340;1240
+7/7/20;Asie du Sud-Est;26870;583
+7/7/20;Europe;17859;430
+7/7/20;Méditerranée orientale;17100;549
+7/7/20;Pacifique occidental;5310;18
+7/8/20;Afrique;14739;274
+7/8/20;Amérique du Nord;63963;2087
+7/8/20;Amérique latine;64338;1931
+7/8/20;Asie du Sud-Est;27062;605
+7/8/20;Europe;17719;524
+7/8/20;Méditerranée orientale;16971;567
+7/8/20;Pacifique occidental;2150;8
+7/9/20;Afrique;12949;151
+7/9/20;Amérique du Nord;66168;1637
+7/9/20;Amérique latine;64424;1953
+7/9/20;Asie du Sud-Est;30716;584
+7/9/20;Europe;20524;473
+7/9/20;Méditerranée orientale;17650;471
+7/9/20;Pacifique occidental;3075;8
+8/1/20;Afrique;15633;274
+8/1/20;Amérique du Nord;75994;1938
+8/1/20;Amérique latine;87097;2218
+8/1/20;Asie du Sud-Est;62231;869
+8/1/20;Europe;21320;414
+8/1/20;Méditerranée orientale;10936;355
+8/1/20;Pacifique occidental;5851;55
+8/10/20;Afrique;10968;307
+8/10/20;Amérique du Nord;51468;810
+8/10/20;Amérique latine;57836;1476
+8/10/20;Asie du Sud-Est;66973;1108
+8/10/20;Europe;26561;677
+8/10/20;Méditerranée orientale;10584;353
+8/10/20;Pacifique occidental;5024;93
+8/11/20;Afrique;7434;271
+8/11/20;Amérique du Nord;55754;1234
+8/11/20;Amérique latine;50748;1531
+8/11/20;Asie du Sud-Est;58679;956
+8/11/20;Europe;28101;378
+8/11/20;Méditerranée orientale;11380;398
+8/11/20;Pacifique occidental;7670;49
+8/12/20;Afrique;6108;216
+8/12/20;Amérique du Nord;53788;2006
+8/12/20;Amérique latine;90919;2191
+8/12/20;Asie du Sud-Est;66370;931
+8/12/20;Europe;26587;322
+8/12/20;Méditerranée orientale;12914;420
+8/12/20;Pacifique occidental;4781;51
+8/13/20;Afrique;7394;364
+8/13/20;Amérique du Nord;62222;2242
+8/13/20;Amérique latine;95240;2314
+8/13/20;Asie du Sud-Est;72580;1072
+8/13/20;Europe;32787;403
+8/13/20;Méditerranée orientale;13274;383
+8/13/20;Pacifique occidental;5851;122
+8/14/20;Afrique;8379;346
+8/14/20;Amérique du Nord;58870;1719
+8/14/20;Amérique latine;99221;5912
+8/14/20;Asie du Sud-Est;69953;1120
+8/14/20;Europe;31046;408
+8/14/20;Méditerranée orientale;13722;358
+8/14/20;Pacifique occidental;5479;47
+8/15/20;Afrique;10859;373
+8/15/20;Amérique du Nord;70874;1956
+8/15/20;Amérique latine;90062;2046
+8/15/20;Asie du Sud-Est;70758;1088
+8/15/20;Europe;24106;385
+8/15/20;Méditerranée orientale;13267;349
+8/15/20;Pacifique occidental;8992;44
+8/16/20;Afrique;9058;185
+8/16/20;Amérique du Nord;54667;1674
+8/16/20;Amérique latine;82327;1743
+8/16/20;Asie du Sud-Est;69059;1031
+8/16/20;Europe;24411;501
+8/16/20;Méditerranée orientale;13940;355
+8/16/20;Pacifique occidental;6171;168
+8/17/20;Afrique;7805;242
+8/17/20;Amérique du Nord;46750;787
+8/17/20;Amérique latine;61767;1419
+8/17/20;Asie du Sud-Est;62846;1054
+8/17/20;Europe;36657;284
+8/17/20;Méditerranée orientale;12145;353
+8/17/20;Pacifique occidental;4391;94
+8/18/20;Afrique;6910;213
+8/18/20;Amérique du Nord;39412;717
+8/18/20;Amérique latine;46599;1497
+8/18/20;Asie du Sud-Est;60213;974
+8/18/20;Europe;25761;450
+8/18/20;Méditerranée orientale;12614;360
+8/18/20;Pacifique occidental;5037;59
+8/19/20;Afrique;6526;362
+8/19/20;Amérique du Nord;49879;2088
+8/19/20;Amérique latine;83075;2152
+8/19/20;Asie du Sud-Est;70600;1216
+8/19/20;Europe;27327;505
+8/19/20;Méditerranée orientale;10606;329
+8/19/20;Pacifique occidental;7011;39
+8/2/20;Afrique;17567;265
+8/2/20;Amérique du Nord;68250;1923
+8/2/20;Amérique latine;81817;1938
+8/2/20;Asie du Sud-Est;58971;937
+8/2/20;Europe;24488;327
+8/2/20;Méditerranée orientale;9252;337
+8/2/20;Pacifique occidental;7512;32
+8/20/20;Afrique;8786;272
+8/20/20;Amérique du Nord;53554;2067
+8/20/20;Amérique latine;90292;2252
+8/20/20;Asie du Sud-Est;75155;1093
+8/20/20;Europe;33674;447
+8/20/20;Méditerranée orientale;13852;277
+8/20/20;Pacifique occidental;6205;138
+8/21/20;Afrique;8762;280
+8/21/20;Amérique du Nord;51163;1708
+8/21/20;Amérique latine;81911;2234
+8/21/20;Asie du Sud-Est;74918;1102
+8/21/20;Europe;37064;390
+8/21/20;Méditerranée orientale;16220;520
+8/21/20;Pacifique occidental;6280;119
+8/22/20;Afrique;8037;282
+8/22/20;Amérique du Nord;56307;1665
+8/22/20;Amérique latine;67376;2109
+8/22/20;Asie du Sud-Est;75557;1078
+8/22/20;Europe;26733;342
+8/22/20;Méditerranée orientale;13110;310
+8/22/20;Pacifique occidental;6111;83
+8/23/20;Afrique;7805;203
+8/23/20;Amérique du Nord;51117;1607
+8/23/20;Amérique latine;88612;2039
+8/23/20;Asie du Sud-Est;74346;1063
+8/23/20;Europe;24961;357
+8/23/20;Méditerranée orientale;13242;327
+8/23/20;Pacifique occidental;6647;47
+8/24/20;Afrique;7378;129
+8/24/20;Amérique du Nord;38721;672
+8/24/20;Amérique latine;57181;1372
+8/24/20;Asie du Sud-Est;66382;959
+8/24/20;Europe;43063;-146
+8/24/20;Méditerranée orientale;8600;270
+8/24/20;Pacifique occidental;3023;54
+8/25/20;Afrique;5893;160
+8/25/20;Amérique du Nord;42590;803
+8/25/20;Amérique latine;47981;1510
+8/25/20;Asie du Sud-Est;66236;978
+8/25/20;Europe;29146;447
+8/25/20;Méditerranée orientale;12955;335
+8/25/20;Pacifique occidental;6657;44
+8/26/20;Afrique;5868;225
+8/26/20;Amérique du Nord;43357;1864
+8/26/20;Amérique latine;82246;2335
+8/26/20;Asie du Sud-Est;73193;1211
+8/26/20;Europe;33076;447
+8/26/20;Méditerranée orientale;13077;342
+8/26/20;Pacifique occidental;4256;54
+8/27/20;Afrique;6638;266
+8/27/20;Amérique du Nord;48563;1858
+8/27/20;Amérique latine;81693;2078
+8/27/20;Asie du Sud-Est;81755;1174
+8/27/20;Europe;38070;458
+8/27/20;Méditerranée orientale;13030;315
+8/27/20;Pacifique occidental;6926;145
+8/28/20;Afrique;6427;186
+8/28/20;Amérique du Nord;52366;1636
+8/28/20;Amérique latine;84623;2089
+8/28/20;Asie du Sud-Est;83687;1230
+8/28/20;Europe;36459;363
+8/28/20;Méditerranée orientale;14992;440
+8/28/20;Pacifique occidental;4856;138
+8/29/20;Afrique;5842;162
+8/29/20;Amérique du Nord;55988;1507
+8/29/20;Amérique latine;81474;1819
+8/29/20;Asie du Sud-Est;82796;1185
+8/29/20;Europe;32007;355
+8/29/20;Méditerranée orientale;12935;299
+8/29/20;Pacifique occidental;5557;130
+8/3/20;Afrique;11053;256
+8/3/20;Amérique du Nord;52649;691
+8/3/20;Amérique latine;58551;1398
+8/3/20;Asie du Sud-Est;55850;837
+8/3/20;Europe;26149;591
+8/3/20;Méditerranée orientale;10854;428
+8/3/20;Pacifique occidental;8186;32
+8/30/20;Afrique;6231;282
+8/30/20;Amérique du Nord;50432;1684
+8/30/20;Amérique latine;82761;1884
+8/30/20;Asie du Sud-Est;85292;1084
+8/30/20;Europe;27183;352
+8/30/20;Méditerranée orientale;12127;285
+8/30/20;Pacifique occidental;4985;126
+8/31/20;Afrique;6229;104
+8/31/20;Amérique du Nord;39977;633
+8/31/20;Amérique latine;49034;1135
+8/31/20;Asie du Sud-Est;84662;1109
+8/31/20;Europe;48245;355
+8/31/20;Méditerranée orientale;11727;307
+8/31/20;Pacifique occidental;5350;130
+8/4/20;Afrique;10087;294
+8/4/20;Amérique du Nord;50521;811
+8/4/20;Amérique latine;44608;1459
+8/4/20;Asie du Sud-Est;55640;900
+8/4/20;Europe;28186;293
+8/4/20;Méditerranée orientale;9873;401
+8/4/20;Pacifique occidental;5742;68
+8/5/20;Afrique;8346;418
+8/5/20;Amérique du Nord;64433;2271
+8/5/20;Amérique latine;80991;2159
+8/5/20;Asie du Sud-Est;56778;995
+8/5/20;Europe;25959;440
+8/5/20;Méditerranée orientale;10742;414
+8/5/20;Pacifique occidental;8423;33
+8/6/20;Afrique;13994;503
+8/6/20;Amérique du Nord;59338;2283
+8/6/20;Amérique latine;93675;2419
+8/6/20;Asie du Sud-Est;61288;1003
+8/6/20;Europe;30053;414
+8/6/20;Méditerranée orientale;12833;449
+8/6/20;Pacifique occidental;6423;29
+8/7/20;Afrique;13101;411
+8/7/20;Amérique du Nord;66719;2671
+8/7/20;Amérique latine;91566;2248
+8/7/20;Asie du Sud-Est;67863;999
+8/7/20;Europe;28557;335
+8/7/20;Méditerranée orientale;12143;183
+8/7/20;Pacifique occidental;5976;48
+8/8/20;Afrique;11467;374
+8/8/20;Amérique du Nord;65291;2050
+8/8/20;Amérique latine;88309;2065
+8/8/20;Asie du Sud-Est;67417;1037
+8/8/20;Europe;24436;377
+8/8/20;Méditerranée orientale;13153;528
+8/8/20;Pacifique occidental;5830;37
+8/9/20;Afrique;12288;368
+8/9/20;Amérique du Nord;62952;1770
+8/9/20;Amérique latine;84780;1799
+8/9/20;Asie du Sud-Est;69799;961
+8/9/20;Europe;21170;346
+8/9/20;Méditerranée orientale;11536;335
+8/9/20;Pacifique occidental;6193;55
+9/1/20;Afrique;4815;167
+9/1/20;Amérique du Nord;38577;794
+9/1/20;Amérique latine;73013;1336
+9/1/20;Asie du Sud-Est;76021;873
+9/1/20;Europe;34053;462
+9/1/20;Méditerranée orientale;11524;316
+9/1/20;Pacifique occidental;4503;105
+9/10/20;Afrique;5293;142
+9/10/20;Amérique du Nord;37120;1749
+9/10/20;Amérique latine;72646;1955
+9/10/20;Asie du Sud-Est;102259;1329
+9/10/20;Europe;46055;341
+9/10/20;Méditerranée orientale;15207;318
+9/10/20;Pacifique occidental;4150;97
+9/11/20;Afrique;4981;145
+9/11/20;Amérique du Nord;42994;1536
+9/11/20;Amérique latine;78227;1867
+9/11/20;Asie du Sud-Est;103891;1375
+9/11/20;Europe;59703;679
+9/11/20;Méditerranée orientale;15555;352
+9/11/20;Pacifique occidental;4936;99
+9/12/20;Afrique;4776;166
+9/12/20;Amérique du Nord;54698;1761
+9/12/20;Amérique latine;80191;1851
+9/12/20;Asie du Sud-Est;104845;1329
+9/12/20;Europe;39713;401
+9/12/20;Méditerranée orientale;15848;308
+9/12/20;Pacifique occidental;5253;70
+9/13/20;Afrique;4312;93
+9/13/20;Amérique du Nord;47009;1113
+9/13/20;Amérique latine;70621;1599
+9/13/20;Asie du Sud-Est;101122;1269
+9/13/20;Europe;43357;354
+9/13/20;Méditerranée orientale;14782;287
+9/13/20;Pacifique occidental;5894;213
+9/14/20;Afrique;3823;65
+9/14/20;Amérique du Nord;38797;596
+9/14/20;Amérique latine;49091;1043
+9/14/20;Asie du Sud-Est;98592;1258
+9/14/20;Europe;63041;494
+9/14/20;Méditerranée orientale;15175;328
+9/14/20;Pacifique occidental;4075;94
+9/15/20;Afrique;3107;102
+9/15/20;Amérique du Nord;39527;687
+9/15/20;Amérique latine;43277;1037
+9/15/20;Asie du Sud-Est;90320;1223
+9/15/20;Europe;45592;531
+9/15/20;Méditerranée orientale;15632;374
+9/15/20;Pacifique occidental;5408;281
+9/16/20;Afrique;3364;194
+9/16/20;Amérique du Nord;57037;2045
+9/16/20;Amérique latine;66127;1910
+9/16/20;Asie du Sud-Est;97254;1475
+9/16/20;Europe;59864;916
+9/16/20;Méditerranée orientale;16195;370
+9/16/20;Pacifique occidental;4323;45
+9/17/20;Afrique;4365;118
+9/17/20;Amérique du Nord;29986;1170
+9/17/20;Amérique latine;73953;1711
+9/17/20;Asie du Sud-Est;105368;1303
+9/17/20;Europe;57254;627
+9/17/20;Méditerranée orientale;16454;410
+9/17/20;Pacifique occidental;4457;96
+9/18/20;Afrique;4764;118
+9/18/20;Amérique du Nord;47869;1039
+9/18/20;Amérique latine;70564;1729
+9/18/20;Asie du Sud-Est;103388;1351
+9/18/20;Europe;66361;612
+9/18/20;Méditerranée orientale;17696;392
+9/18/20;Pacifique occidental;4221;77
+9/19/20;Afrique;4607;121
+9/19/20;Amérique du Nord;56094;1585
+9/19/20;Amérique latine;77213;1735
+9/19/20;Asie du Sud-Est;101199;1405
+9/19/20;Europe;50837;664
+9/19/20;Méditerranée orientale;16325;373
+9/19/20;Pacifique occidental;4120;69
+9/2/20;Afrique;5494;176
+9/2/20;Amérique du Nord;51592;1924
+9/2/20;Amérique latine;75722;2230
+9/2/20;Asie du Sud-Est;84450;1240
+9/2/20;Europe;34934;557
+9/2/20;Méditerranée orientale;11777;328
+9/2/20;Pacifique occidental;4577;57
+9/20/20;Afrique;4674;121
+9/20/20;Amérique du Nord;46325;1130
+9/20/20;Amérique latine;71266;1511
+9/20/20;Asie du Sud-Est;100276;1294
+9/20/20;Europe;50972;511
+9/20/20;Méditerranée orientale;16750;384
+9/20/20;Pacifique occidental;4830;118
+9/21/20;Afrique;4058;52
+9/21/20;Amérique du Nord;44269;492
+9/21/20;Amérique latine;45781;899
+9/21/20;Asie du Sud-Est;94442;1284
+9/21/20;Europe;76517;545
+9/21/20;Méditerranée orientale;17020;402
+9/21/20;Pacifique occidental;3523;62
+9/22/20;Afrique;3255;75
+9/22/20;Amérique du Nord;57836;587
+9/22/20;Amérique latine;48434;1419
+9/22/20;Asie du Sud-Est;82847;1240
+9/22/20;Europe;40372;415
+9/22/20;Méditerranée orientale;15314;379
+9/22/20;Pacifique occidental;4456;31
+9/3/20;Afrique;5485;174
+9/3/20;Amérique du Nord;44173;1633
+9/3/20;Amérique latine;83434;2225
+9/3/20;Asie du Sud-Est;90928;1201
+9/3/20;Europe;42463;467
+9/3/20;Méditerranée orientale;13513;328
+9/3/20;Pacifique occidental;3144;51
+9/4/20;Afrique;5354;240
+9/4/20;Amérique du Nord;42756;1572
+9/4/20;Amérique latine;79281;1691
+9/4/20;Asie du Sud-Est;90579;1269
+9/4/20;Europe;44181;595
+9/4/20;Méditerranée orientale;13528;331
+9/4/20;Pacifique occidental;3175;94
+9/5/20;Afrique;5758;168
+9/5/20;Amérique du Nord;57898;1490
+9/5/20;Amérique latine;88424;2015
+9/5/20;Asie du Sud-Est;93157;1214
+9/5/20;Europe;34428;340
+9/5/20;Méditerranée orientale;12979;279
+9/5/20;Pacifique occidental;813;79
+9/6/20;Afrique;4724;147
+9/6/20;Amérique du Nord;50830;1478
+9/6/20;Amérique latine;68219;1616
+9/6/20;Asie du Sud-Est;96998;1218
+9/6/20;Europe;35021;443
+9/6/20;Méditerranée orientale;16611;335
+9/6/20;Pacifique occidental;7322;126
+9/7/20;Afrique;4507;164
+9/7/20;Amérique du Nord;35569;409
+9/7/20;Amérique latine;37180;6517
+9/7/20;Asie du Sud-Est;97066;1112
+9/7/20;Europe;56393;343
+9/7/20;Méditerranée orientale;14403;388
+9/7/20;Pacifique occidental;3515;100
+9/8/20;Afrique;4191;158
+9/8/20;Amérique du Nord;27983;491
+9/8/20;Amérique latine;33538;1041
+9/8/20;Asie du Sud-Est;82103;1316
+9/8/20;Europe;41372;453
+9/8/20;Méditerranée orientale;15093;316
+9/8/20;Pacifique occidental;2101;46
+9/9/20;Afrique;4082;140
+9/9/20;Amérique du Nord;34079;1181
+9/9/20;Amérique latine;45031;1380
+9/9/20;Asie du Sud-Est;95836;1261
+9/9/20;Europe;46607;593
+9/9/20;Méditerranée orientale;14836;351
+9/9/20;Pacifique occidental;4175;58
