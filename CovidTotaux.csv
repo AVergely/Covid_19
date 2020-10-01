@@ -1,210 +1,210 @@
 geoCode;geoId;Pays;Region;Latitude;Longitude;Cas;Deces
-AND;AD;Andorre;Europe;42.31;1.32;1966;53
-ARE;AE;Émirats arabes Unis;Méditerranée orientale;24.28;54.22;93090;416
-AFG;AF;Afghanistan;Méditerranée orientale;34.28;66.11;39254;1458
+AND;AD;Andorre;Europe;42.31;1.32;2050;53
+ARE;AE;Émirats arabes Unis;Méditerranée orientale;24.28;54.22;94190;419
+AFG;AF;Afghanistan;Méditerranée orientale;34.28;66.11;39268;1458
 ATG;AG;Antigua-et-Barbuda;Amérique latine & Caraïbes;17.2;-61.48;101;3
 AIA;AI;Anguilla;Amérique latine & Caraïbes;18.14;-63.03;3;0
-ALB;AL;Albanie;Europe;41.18;19.49;13518;384
-ARM;AM;Arménie;Europe;40.1;44.31;49901;958
-AGO;AO;Angola;Afrique;-12.5;17.15;4905;179
-ARG;AR;Argentine;Amérique latine & Caraïbes;-36.3;-63.0;736596;16519
-AUT;AT;Autriche;Europe;48.12;16.22;44607;796
+ALB;AL;Albanie;Europe;41.18;19.49;13649;387
+ARM;AM;Arménie;Europe;40.1;44.31;50359;959
+AGO;AO;Angola;Afrique;-12.5;17.15;5013;182
+ARG;AR;Argentine;Amérique latine & Caraïbes;-36.3;-63.0;750988;16937
+AUT;AT;Autriche;Europe;48.12;16.22;45753;799
 AUS;AU;Australie;Pacifique occidental;-25.0;130.0;27063;882
-ABW;AW;Aruba;Amérique latine & Caraïbes;12.3;-69.58;3934;26
-AZE;AZ;Azerbaïdjan;Europe;40.29;49.56;40119;590
-BIH;BA;Bosnie-Herzégovine;Europe;43.52;18.26;27222;836
+ABW;AW;Aruba;Amérique latine & Caraïbes;12.3;-69.58;3963;27
+AZE;AZ;Azerbaïdjan;Europe;40.29;49.56;40229;591
+BIH;BA;Bosnie-Herzégovine;Europe;43.52;18.26;27465;849
 BRB;BB;Barbade;Amérique latine & Caraïbes;13.05;-59.3;190;7
-BGD;BD;Bangladesh;Asie du Sud-Est;23.43;90.26;362043;5219
-BEL;BE;Belgique;Europe;50.51;4.21;117021;10001
-BFA;BF;Burkina Faso;Afrique;12.15;-1.3;2032;58
-BGR;BG;Bulgarie;Europe;42.45;23.2;20547;814
-BHR;BH;Bahreïn;Méditerranée orientale;26.1;50.3;70422;246
-BDI;BI;Burundi;Afrique;-3.26;29.54;506;1
-BEN;BJ;Bénin;Afrique;6.23;2.42;2340;40
+BGD;BD;Bangladesh;Asie du Sud-Est;23.43;90.26;363479;5251
+BEL;BE;Belgique;Europe;50.51;4.21;118358;10016
+BFA;BF;Burkina Faso;Afrique;12.15;-1.3;2056;58
+BGR;BG;Bulgarie;Europe;42.45;23.2;20833;825
+BHR;BH;Bahreïn;Méditerranée orientale;26.1;50.3;70864;252
+BDI;BI;Burundi;Afrique;-3.26;29.54;508;1
+BEN;BJ;Bénin;Afrique;6.23;2.42;2357;41
 BMU;BM;Bermudes;Amérique latine & Caraïbes;32.2;-64.45;181;9
 BRN;BN;Brunei;Pacifique occidental;4.52;115.0;146;3
-BOL;BO;Bolivie;Amérique latine & Caraïbes;-16.2;-68.1;134641;7931
+BOL;BO;Bolivie;Amérique latine & Caraïbes;-16.2;-68.1;135311;7965
 BES;BQ;Bonaire;Amérique latine & Caraïbes;12.1;-68.14;106;1
-BRA;BR;Brésil;Amérique latine & Caraïbes;-15.47;-47.55;4777522;142921
-BHS;BS;Bahamas;Amérique latine & Caraïbes;25.05;-77.2;3903;91
-BTN;BT;Bhoutan;Asie du Sud-Est;27.31;89.45;281;0
+BRA;BR;Brésil;Amérique latine & Caraïbes;-15.47;-47.55;4810935;143952
+BHS;BS;Bahamas;Amérique latine & Caraïbes;25.05;-77.2;4123;96
+BTN;BT;Bhoutan;Asie du Sud-Est;27.31;89.45;282;0
 BWA;BW;Botswana;Afrique;-24.38;25.54;3172;16
-BLR;BY;Biélorussie;Europe;53.52;27.3;78260;828
-BLZ;BZ;Belize;Amérique latine & Caraïbes;17.18;-88.3;1943;26
-CAN;CA;Canada;Amérique du Nord;60.0;-110.0;156961;9291
-COD;CD;République démocratique du Congo;Afrique;-4.2;23.15;10630;271
-CAF;CF;République centrafricaine;Afrique;4.23;18.35;4825;62
+BLR;BY;Biélorussie;Europe;53.52;27.3;78631;833
+BLZ;BZ;Belize;Amérique latine & Caraïbes;17.18;-88.3;1992;27
+CAN;CA;Canada;Amérique du Nord;60.0;-110.0;158758;9297
+COD;CD;République démocratique du Congo;Afrique;-4.2;23.15;10659;272
+CAF;CF;République centrafricaine;Afrique;4.23;18.35;4829;62
 COG;CG;Congo;Afrique;-4.09;15.12;5089;89
-CHE;CH;Suisse;Europe;46.57;7.28;52751;1781
-CIV;CI;Côte d’Ivoire;Afrique;6.49;-5.17;19669;120
-CHL;CL;Chili;Amérique latine & Caraïbes;-33.24;-70.4;461300;12725
+CHE;CH;Suisse;Europe;46.57;7.28;53162;1782
+CIV;CI;Côte d’Ivoire;Afrique;6.49;-5.17;19724;120
+CHL;CL;Chili;Amérique latine & Caraïbes;-33.24;-70.4;462991;12741
 CMR;CM;Cameroun;Afrique;3.5;11.35;20838;418
 CHN;CN;Chine;Pacifique occidental;35.0;105.0;90528;4739
-COL;CO;Colombie;Amérique latine & Caraïbes;4.34;-74.0;824042;25828
-CRI;CR;Costa Rica;Amérique latine & Caraïbes;9.55;-84.02;74604;880
-CUB;CU;Cuba;Amérique latine & Caraïbes;23.08;-82.22;5531;122
-CPV;CV;Cap Vert;Afrique;15.02;-23.34;5900;59
-CUW;CW;Curaçao;Amérique latine & Caraïbes;12.1;-68.58;370;1
-CYP;CY;Chypre;Europe;35.1;33.25;1713;22
-CZE;CZ;République tchèque;Europe;50.05;14.22;67843;636
-DEU;DE;Allemagne;Europe;52.3;10.0;289219;9488
+COL;CO;Colombie;Amérique latine & Caraïbes;4.34;-74.0;829679;25998
+CRI;CR;Costa Rica;Amérique latine & Caraïbes;9.55;-84.02;75760;904
+CUB;CU;Cuba;Amérique latine & Caraïbes;23.08;-82.22;5597;122
+CPV;CV;Cap Vert;Afrique;15.02;-23.34;6024;60
+CUW;CW;Curaçao;Amérique latine & Caraïbes;12.1;-68.58;392;1
+CYP;CY;Chypre;Europe;35.1;33.25;1755;22
+CZE;CZ;République tchèque;Europe;50.05;14.22;68919;655
+DEU;DE;Allemagne;Europe;52.3;10.0;291722;9500
 DJI;DJ;Djibouti;Méditerranée orientale;11.08;42.2;5416;61
-DNK;DK;Danemark;Europe;55.41;12.34;27464;650
-DMA;DM;Dominique;Amérique latine & Caraïbes;15.2;-61.24;24;0
-DOM;DO;République dominicaine;Amérique latine & Caraïbes;18.3;-69.59;111900;2101
-DZA;DZ;Algérie;Afrique;28.42;3.08;51368;1726
-ECU;EC;Équateur;Amérique latine & Caraïbes;-0.15;-78.35;135749;11312
-EST;EE;Estonie;Europe;59.22;24.48;3315;64
-EGY;EG;Égypte;Méditerranée orientale;27.31;29.14;103079;5914
+DNK;DK;Danemark;Europe;55.41;12.34;27998;650
+DMA;DM;Dominique;Amérique latine & Caraïbes;15.2;-61.24;31;0
+DOM;DO;République dominicaine;Amérique latine & Caraïbes;18.3;-69.59;112209;2105
+DZA;DZ;Algérie;Afrique;28.42;3.08;51530;1734
+ECU;EC;Équateur;Amérique latine & Caraïbes;-0.15;-78.35;137047;11355
+EST;EE;Estonie;Europe;59.22;24.48;3371;64
+EGY;EG;Égypte;Méditerranée orientale;27.31;29.14;103198;5930
 ESH;EH;Sahara Occidental;Méditerranée orientale;25.0;-13.0;766;1
-GRC;EL;Grèce;Europe;37.58;23.46;18123;388
+GRC;EL;Grèce;Europe;37.58;23.46;18475;391
 ERI;ER;Erythrée;Afrique;15.19;38.55;375;0
-ESP;ES;Espagne;Europe;40.25;-3.45;758172;31614
-ETH;ET;Éthiopie;Afrique;9.02;38.42;74584;1191
-FIN;FI;Finlande;Europe;63.0;25.03;9892;345
+ESP;ES;Espagne;Europe;40.25;-3.45;769188;31791
+ETH;ET;Éthiopie;Afrique;9.02;38.42;75368;1198
+FIN;FI;Finlande;Europe;63.0;25.03;9992;344
 FJI;FJ;Fidji;Pacifique occidental;-18.06;178.3;32;2
 FLK;FK;Îles Malouines;Amérique latine & Caraïbes;-51.42;-57.51;13;0
-FRO;FO;Îles Féroé;Europe;62.05;-6.56;463;0
-FRA;FR;France;Europe;48.5;2.2;550690;31893
-GAB;GA;Gabon;Afrique;0.25;9.26;8752;54
+FRO;FO;Îles Féroé;Europe;62.05;-6.56;467;0
+FRA;FR;France;Europe;48.5;2.2;563535;31956
+GAB;GA;Gabon;Afrique;0.25;9.26;8766;54
 GRD;GD;Grenade;Amérique latine & Caraïbes;12.3;-61.45;24;0
-GEO;GE;Géorgie;Europe;41.43;44.5;5866;33
+GEO;GE;Géorgie;Europe;41.43;44.5;6640;39
 GGY;GG;Guernesey;Europe;49.26;-2.33;256;13
-GHA;GH;Ghana;Afrique;5.35;-0.06;46482;301
-GIB;GI;Gibraltar;Europe;36.08;-5.2;391;0
+GHA;GH;Ghana;Afrique;5.35;-0.06;46656;301
+GIB;GI;Gibraltar;Europe;36.08;-5.2;396;0
 GRL;GL;Groeland;Europe;70.0;-45.0;14;0
 GMB;GM;Gambie;Afrique;13.28;-16.4;3579;112
-GIN;GN;Guinée;Afrique;9.29;-13.49;10634;66
+GIN;GN;Guinée;Afrique;9.29;-13.49;10652;66
 GNQ;GQ;Guinée équatoriale;Afrique;3.45;8.5;5030;83
-GTM;GT;Guatemala;Amérique latine & Caraïbes;14.4;-90.22;90968;3238
+GTM;GT;Guatemala;Amérique latine & Caraïbes;14.4;-90.22;91746;3246
 GUM;GU;Guam;Pacifique occidental;13.28;144.48;2443;47
 GNB;GW;Guinée Bissau;Afrique;11.52;-15.36;2324;39
-GUY;GY;Guyana;Amérique latine & Caraïbes;6.46;-58.1;2846;78
-HND;HN;Honduras;Amérique latine & Caraïbes;14.05;-87.14;76098;2323
-HRV;HR;Croatie;Europe;45.5;15.58;16380;275
-HTI;HT;Haïti;Amérique latine & Caraïbes;18.4;-72.2;8740;227
-HUN;HU;Hongrie;Europe;47.29;19.05;26461;765
-IDN;ID;Indonésie;Asie du Sud-Est;-6.09;106.49;282724;10601
-IRL;IE;Irlande;Europe;53.21;-6.15;35740;1803
-ISR;IL;Israël;Europe;31.47;35.12;236926;1528
+GUY;GY;Guyana;Amérique latine & Caraïbes;6.46;-58.1;2894;80
+HND;HN;Honduras;Amérique latine & Caraïbes;14.05;-87.14;76900;2353
+HRV;HR;Croatie;Europe;45.5;15.58;16593;280
+HTI;HT;Haïti;Amérique latine & Caraïbes;18.4;-72.2;8766;229
+HUN;HU;Hongrie;Europe;47.29;19.05;27309;781
+IDN;ID;Indonésie;Asie du Sud-Est;-6.09;106.49;287008;10740
+IRL;IE;Irlande;Europe;53.21;-6.15;36155;1804
+ISR;IL;Israël;Europe;31.47;35.12;248133;1571
 IMN;IM;Île de Man;Europe;54.15;-4.3;340;24
-IND;IN;Inde;Asie du Sud-Est;23.0;77.13;6225763;97497
-IRQ;IQ;Irak;Méditerranée orientale;33.2;44.3;358290;9122
-IRN;IR;Iran;Méditerranée orientale;33.0;53.0;453637;25986
-ISL;IS;Islande;Europe;64.1;-21.57;2695;10
-ITA;IT;Italie;Europe;41.54;12.29;313011;35875
-JEY;JE;Jersey;Europe;49.12;-2.09;409;32
-JAM;JM;Jamaïque;Amérique latine & Caraïbes;18.0;-76.5;6382;100
-JOR;JO;Jordanie;Méditerranée orientale;31.57;35.52;10049;57
+IND;IN;Inde;Asie du Sud-Est;23.0;77.13;6312584;98678
+IRQ;IQ;Irak;Méditerranée orientale;33.2;44.3;362981;9181
+IRN;IR;Iran;Méditerranée orientale;33.0;53.0;457219;26169
+ISL;IS;Islande;Europe;64.1;-21.57;2728;10
+ITA;IT;Italie;Europe;41.54;12.29;314861;35894
+JEY;JE;Jersey;Europe;49.12;-2.09;414;32
+JAM;JM;Jamaïque;Amérique latine & Caraïbes;18.0;-76.5;6462;107
+JOR;JO;Jordanie;Méditerranée orientale;31.57;35.52;11825;61
 JPN;JP;Japon;Pacifique occidental;35.41;139.46;83010;1564
-KEN;KE;Kenya;Afrique;-1.17;36.48;38378;707
-KGZ;KG;Kirghizistan;Europe;42.54;74.46;46669;1064
+KEN;KE;Kenya;Afrique;-1.17;36.48;38529;711
+KGZ;KG;Kirghizistan;Europe;42.54;74.46;46841;1065
 KHM;KH;Cambodge;Pacifique occidental;11.33;104.55;277;0
 COM;KM;Comores;Afrique;-11.41;43.16;479;7
 KNA;KN;Saint-Kitts-et-Nevis;Amérique latine & Caraïbes;17.18;-62.44;19;0
 KOR;KR;Corée du Sud;Pacifique occidental;37.31;126.58;23812;413
-KWT;KW;Koweït;Méditerranée orientale;29.3;48.0;104568;607
+KWT;KW;Koweït;Méditerranée orientale;29.3;48.0;105182;610
 CYM;KY;Îles Caïmans;Amérique latine & Caraïbes;19.2;-81.24;211;1
-KAZ;KZ;Kazakhstan;Europe;51.1;71.3;140707;2078
+KAZ;KZ;Kazakhstan;Europe;51.1;71.3;140958;2080
 LAO;LA;Laos;Pacifique occidental;17.58;102.37;23;0
-LBN;LB;Liban;Méditerranée orientale;33.53;35.31;38377;361
+LBN;LB;Liban;Méditerranée orientale;33.53;35.31;39634;367
 LCA;LC;Sainte Lucie;Amérique latine & Caraïbes;14.02;-60.58;27;0
 LIE;LI;Liechtenstein;Europe;47.08;9.31;120;1
-LKA;LK;Sri Lanka;Asie du Sud-Est;6.54;79.54;3374;13
+LKA;LK;Sri Lanka;Asie du Sud-Est;6.54;79.54;3380;13
 LBR;LR;Liberia;Afrique;6.18;-10.47;1343;82
-LSO;LS;Lesotho;Afrique;-29.18;27.28;1576;35
-LTU;LT;Lituanie;Europe;54.38;25.19;4578;92
-LUX;LU;Luxembourg;Europe;49.37;6.09;8431;124
-LVA;LV;Lettonie;Europe;56.53;24.08;1729;37
-LBY;LY;Libye;Méditerranée orientale;32.54;13.11;34014;540
-MAR;MA;Maroc;Méditerranée orientale;32.2;-6.51;121183;2152
-MCO;MC;Monaco;Europe;43.43;7.25;214;1
-MDA;MD;Moldavie;Europe;47.02;28.5;52029;1310
-MNE;ME;Monténégro;Europe;42.47;19.28;10575;164
-MDG;MG;Madagascar;Afrique;-18.55;47.31;16377;229
-MKD;MK;Macédoine du Nord;Europe;41.59;21.25;17786;737
-MLI;ML;Mali;Afrique;12.39;-8.0;3090;130
-MMR;MM;Birmanie;Asie du Sud-Est;16.45;96.2;12425;284
+LSO;LS;Lesotho;Afrique;-29.18;27.28;1595;36
+LTU;LT;Lituanie;Europe;54.38;25.19;4693;92
+LUX;LU;Luxembourg;Europe;49.37;6.09;8509;124
+LVA;LV;Lettonie;Europe;56.53;24.08;1824;37
+LBY;LY;Libye;Méditerranée orientale;32.54;13.11;34525;551
+MAR;MA;Maroc;Méditerranée orientale;32.2;-6.51;123653;2194
+MCO;MC;Monaco;Europe;43.43;7.25;218;1
+MDA;MD;Moldavie;Europe;47.02;28.5;53042;1320
+MNE;ME;Monténégro;Europe;42.47;19.28;10772;169
+MDG;MG;Madagascar;Afrique;-18.55;47.31;16408;230
+MKD;MK;Macédoine du Nord;Europe;41.59;21.25;17977;739
+MLI;ML;Mali;Afrique;12.39;-8.0;3118;131
+MMR;MM;Birmanie;Asie du Sud-Est;16.45;96.2;13373;310
 MNG;MN;Mongolie;Pacifique occidental;47.55;106.55;313;0
 MNP;MP;Îles Mariannes du Nord;Pacifique occidental;15.15;145.45;70;2
-MRT;MR;Mauritanie;Afrique;18.5;-11.58;7474;161
+MRT;MR;Mauritanie;Afrique;18.5;-11.58;7488;161
 MSF;MS;Montserrat;Amérique latine & Caraïbes;16.45;-62.12;13;1
-MLT;MT;Malte;Europe;35.54;14.31;3035;34
+MLT;MT;Malte;Europe;35.54;14.31;3058;34
 MUS;MU;Maurice;Afrique;-20.09;57.3;381;10
-MDV;MV;Maldives;Asie du Sud-Est;4.0;73.28;10194;34
-MWI;MW;Malawi;Afrique;-13.58;33.45;5772;179
-MEX;MX;Mexique;Amérique du Nord;19.2;-99.1;738163;77163
+MDV;MV;Maldives;Asie du Sud-Est;4.0;73.28;10291;34
+MWI;MW;Malawi;Afrique;-13.58;33.45;5773;179
+MEX;MX;Mexique;Amérique du Nord;19.2;-99.1;743216;77646
 MYS;MY;Malaisie;Pacifique occidental;3.09;101.41;11135;134
-MOZ;MZ;Mozambique;Afrique;-25.58;32.32;8556;59
-NAM;;Namibie;Afrique;-22.35;17.04;11140;121
+MOZ;MZ;Mozambique;Afrique;-25.58;32.32;8728;61
+NAM;;Namibie;Afrique;-22.35;17.04;11265;121
 NCL;NC;Nouvelle Calédonie;Pacifique occidental;-22.17;166.3;27;0
-NER;NE;Niger;Afrique;16.27;8.0;1196;69
-NGA;NG;Nigeria;Afrique;9.05;7.32;58647;1111
+NER;NE;Niger;Afrique;16.27;8.0;1197;69
+NGA;NG;Nigeria;Afrique;9.05;7.32;58848;1112
 NIC;NI;Nicaragua;Amérique latine & Caraïbes;12.06;-86.2;5086;149
-NLD;NL;Pays-Bas;Europe;52.23;4.54;117420;6384
-NOR;NO;Norvège;Europe;59.55;10.45;13788;274
-NPL;NP;Népal;Asie du Sud-Est;27.45;85.2;76258;491
+NLD;NL;Pays-Bas;Europe;52.23;4.54;120713;6397
+NOR;NO;Norvège;Europe;59.55;10.45;13914;274
+NPL;NP;Népal;Asie du Sud-Est;27.45;85.2;77817;498
 NZL;NZ;Nouvelle-Zélande;Pacifique occidental;-41.19;174.46;1480;25
 OMN;OM;Oman;Méditerranée orientale;23.37;58.36;98585;935
-PAN;PA;Panama;Amérique latine & Caraïbes;9.0;-79.25;111853;2364
-PER;PE;Perou;Amérique latine & Caraïbes;-12.0;-77.0;811768;32396
+PAN;PA;Panama;Amérique latine & Caraïbes;9.0;-79.25;112595;2372
+PER;PE;Perou;Amérique latine & Caraïbes;-12.0;-77.0;814829;32463
 PYF;PF;Polynésie française;Pacifique occidental;-17.32;-149.34;1666;7
 PNG;PG;Papouasie-Nouvelle-Guinée;Pacifique occidental;-9.24;147.08;534;7
 PHL;PH;Philippines;Pacifique occidental;14.4;121.03;309303;5448
-PAK;PK;Pakistan;Méditerranée orientale;33.4;73.1;312263;6479
-POL;PL;Pologne;Europe;52.13;21.0;89962;2483
-PRI;PR;Porto Rico;Amérique latine & Caraïbes;18.29;-66.08;48467;654
-PSE;PS;Palestine;Méditerranée orientale;31.25;34.2;50115;360
-PRT;PT;Portugal;Europe;38.42;-9.1;74717;1963
-PRY;PY;Paraguay;Amérique latine & Caraïbes;-25.1;-57.3;40101;841
-QAT;QA;Qatar;Méditerranée orientale;25.15;51.35;125533;214
-ROU;RO;Roumanie;Europe;44.27;26.1;125414;4792
-SRB;RS;Serbie;Europe;44.48;20.23;33479;749
-RUS;RU;Russie;Europe;55.45;37.35;1167805;20545
-RWA;RW;Rwanda;Afrique;-1.59;30.04;4836;29
-SAU;SA;Arabie saoudite;Méditerranée orientale;24.41;46.42;334187;4739
-SYC;SC;Seychelles;Afrique;-4.37;55.27;143;0
-SDN;SD;Soudan;Méditerranée orientale;15.31;32.35;13606;836
-SWE;SE;Suède;Europe;59.2;18.03;92466;5890
+PAK;PK;Pakistan;Méditerranée orientale;33.4;73.1;312806;6484
+POL;PL;Pologne;Europe;52.13;21.0;91514;2513
+PRI;PR;Porto Rico;Amérique latine & Caraïbes;18.29;-66.08;48755;661
+PSE;PS;Palestine;Méditerranée orientale;31.25;34.2;50541;368
+PRT;PT;Portugal;Europe;38.42;-9.1;75542;1971
+PRY;PY;Paraguay;Amérique latine & Caraïbes;-25.1;-57.3;40758;857
+QAT;QA;Qatar;Méditerranée orientale;25.15;51.35;125760;214
+ROU;RO;Roumanie;Europe;44.27;26.1;127572;4825
+SRB;RS;Serbie;Europe;44.48;20.23;33551;749
+RUS;RU;Russie;Europe;55.45;37.35;1176286;20722
+RWA;RW;Rwanda;Afrique;-1.59;30.04;4840;29
+SAU;SA;Arabie saoudite;Méditerranée orientale;24.41;46.42;334605;4768
+SYC;SC;Seychelles;Afrique;-4.37;55.27;144;0
+SDN;SD;Soudan;Méditerranée orientale;15.31;32.35;13640;836
+SWE;SE;Suède;Europe;59.2;18.03;92863;5893
 SGP;SG;Singapour;Pacifique occidental;1.17;103.51;57742;27
-SVN;SI;Slovénie;Europe;46.04;14.33;5487;138
-SVK;SK;Slovaquie;Europe;48.1;17.07;9574;45
-SLE;SL;Sierra Leone;Afrique;8.31;-13.15;2222;72
-SMR;SM;Saint-Marin;Europe;43.55;12.3;746;42
-SEN;SN;Sénégal;Afrique;14.34;-17.29;14945;310
+SVN;SI;Slovénie;Europe;46.04;14.33;5690;138
+SVK;SK;Slovaquie;Europe;48.1;17.07;10141;48
+SLE;SL;Sierra Leone;Afrique;8.31;-13.15;2231;72
+SMR;SM;Saint-Marin;Europe;43.55;12.3;749;42
+SEN;SN;Sénégal;Afrique;14.34;-17.29;14982;311
 SOM;SO;Somalie;Méditerranée orientale;2.02;45.25;3588;99
-SUR;SR;Suriname;Amérique latine & Caraïbes;5.5;-55.1;4863;104
-SSD;SS;Soudan-du-Sud;Afrique;4.51;31.36;2700;49
+SUR;SR;Suriname;Amérique latine & Caraïbes;5.5;-55.1;4877;104
+SSD;SS;Soudan-du-Sud;Afrique;4.51;31.36;2704;49
 STP;ST;Sao-Tomé-et-Principe;Afrique;0.2;6.43;911;15
-SLV;SV;Salvador;Amérique latine & Caraïbes;13.4;-89.1;28981;843
-SXM;SX;Saint-Martin;Amérique latine & Caraïbes;18.1;-63.04;659;22
-SYR;SY;Syrie;Méditerranée orientale;33.3;36.18;4148;197
-SWZ;SZ;Eswatini;Afrique;-26.28;31.12;5462;108
-TCA;TC;Îles Turques-et-Caïques;Amérique latine & Caraïbes;21.45;-71.35;686;6
-TCD;TD;Tchad;Afrique;14.1;18.59;1193;85
-TGO;TG;Togo;Afrique;6.09;1.2;1759;48
-THA;TH;Thaïlande;Asie du Sud-Est;13.45;100.31;3564;59
-TJK;TJ;Tadjikistan;Europe;38.33;68.48;9726;75
+SLV;SV;Salvador;Amérique latine & Caraïbes;13.4;-89.1;29077;843
+SXM;SX;Saint-Martin;Amérique latine & Caraïbes;18.1;-63.04;667;22
+SYR;SY;Syrie;Méditerranée orientale;33.3;36.18;4200;200
+SWZ;SZ;Eswatini;Afrique;-26.28;31.12;5482;109
+TCA;TC;Îles Turques-et-Caïques;Amérique latine & Caraïbes;21.45;-71.35;689;6
+TCD;TD;Tchad;Afrique;14.1;18.59;1200;85
+TGO;TG;Togo;Afrique;6.09;1.2;1784;48
+THA;TH;Thaïlande;Asie du Sud-Est;13.45;100.31;3569;59
+TJK;TJ;Tadjikistan;Europe;38.33;68.48;9769;76
 TLS;TL;Timor oriental;Asie du Sud-Est;-8.29;125.34;28;0
-TUN;TN;Tunisie;Méditerranée orientale;36.5;10.11;17405;246
-TUR;TR;Turquie;Europe;39.57;32.54;317272;8130
-TTO;TT;Trinidad et Tobago;Amérique latine & Caraïbes;10.39;-61.3;4463;74
+TUN;TN;Tunisie;Méditerranée orientale;36.5;10.11;18413;265
+TUR;TR;Turquie;Europe;39.57;32.54;318663;8195
+TTO;TT;Trinidad et Tobago;Amérique latine & Caraïbes;10.39;-61.3;4531;76
 CNG1925;TW;Taïwan;Pacifique occidental;25.04;121.31;514;7
 TZA;TZ;Tanzanie;Afrique;-6.08;35.45;509;21
-UKR;UA;Ukraine;Europe;50.3;30.28;204932;4065
-UGA;UG;Ouganda;Afrique;0.2;32.3;8017;75
-GBR;UK;Royaume-Uni;Europe;54.0;-1.05;446156;42072
-USA;US;États-Unis;Amérique du Nord;39.91;-100.0;7191061;205998
-URY;UY;Uruguay;Amérique latine & Caraïbes;-34.5;-56.11;2033;48
-UZB;UZ;Ouzbékistan;Europe;41.16;69.13;56519;468
+UKR;UA;Ukraine;Europe;50.3;30.28;208959;4129
+UGA;UG;Ouganda;Afrique;0.2;32.3;8129;75
+GBR;UK;Royaume-Uni;Europe;54.0;-1.05;453264;42143
+USA;US;États-Unis;Amérique du Nord;39.91;-100.0;7233043;206928
+URY;UY;Uruguay;Amérique latine & Caraïbes;-34.5;-56.11;2046;48
+UZB;UZ;Ouzbékistan;Europe;41.16;69.13;56997;471
 VAT;VA;Vatican;Europe;41.54;12.27;12;0
 VCT;VC;Saint-Vincent-et-les-Grenadines;Amérique latine & Caraïbes;13.1;-61.1;64;0
-VEN;VE;Venezuela;Amérique latine & Caraïbes;10.3;-66.55;74363;621
+VEN;VE;Venezuela;Amérique latine & Caraïbes;10.3;-66.55;75122;628
 VGB;VG;Îles Vierges britanniques;Amérique latine & Caraïbes;18.3;-64.3;71;1
 VIR;VI;Îles Vierges américaines;Amérique latine & Caraïbes;18.2;-65.55;1318;20
 VNM;VN;Vietnam;Pacifique occidental;21.05;105.55;1094;35
-XKX;XK;Kosovo;Europe;42.4;21.1;15574;625
+XKX;XK;Kosovo;Europe;42.4;21.1;15620;625
 YEM;YE;Yémen;Méditerranée orientale;15.21;44.12;2035;588
-ZAF;ZA;Afrique du Sud;Afrique;-29.44;24.12;672572;16667
-ZMB;ZM;Zambie;Afrique;-15.28;25.16;14715;332
-ZWE;ZW;Zimbabwe;Afrique;-19.43;30.02;7837;228
+ZAF;ZA;Afrique du Sud;Afrique;-29.44;24.12;674339;16734
+ZMB;ZM;Zambie;Afrique;-15.28;25.16;14759;332
+ZWE;ZW;Zimbabwe;Afrique;-19.43;30.02;7838;228
