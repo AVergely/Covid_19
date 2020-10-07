@@ -1,4 +1,5 @@
 dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterritoryCode;popData2019;continentExp;Cumulative_number_for_14_days_of_COVID-19_cases_per_100000
+2020-10-07;7;10;2020;62;2;Afghanistan;AF;AFG;38041757.0;Méditerranée orientale;1.05936222
 2020-10-06;6;10;2020;145;5;Afghanistan;AF;AFG;38041757.0;Méditerranée orientale;1.08302043
 2020-10-05;5;10;2020;44;0;Afghanistan;AF;AFG;38041757.0;Méditerranée orientale;0.78072104
 2020-10-04;4;10;2020;7;4;Afghanistan;AF;AFG;38041757.0;Méditerranée orientale;0.66505866
@@ -270,6 +271,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Afghanistan;AF;AFG;38041757.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Afghanistan;AF;AFG;38041757.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Afghanistan;AF;AFG;38041757.0;Méditerranée orientale;
+2020-10-07;7;10;2020;158;3;Albanie;AL;ALB;2862427.0;Europe;66.44710939
 2020-10-06;6;10;2020;144;4;Albanie;AL;ALB;2862427.0;Europe;65.5038539
 2020-10-05;5;10;2020;149;4;Albanie;AL;ALB;2862427.0;Europe;65.71346623
 2020-10-04;4;10;2020;152;3;Albanie;AL;ALB;2862427.0;Europe;66.06282012
@@ -482,6 +484,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-11;11;3;2020;4;0;Albanie;AL;ALB;2862427.0;Europe;
 2020-03-10;10;3;2020;4;0;Albanie;AL;ALB;2862427.0;Europe;
 2020-03-09;9;3;2020;2;0;Albanie;AL;ALB;2862427.0;Europe;
+2020-10-07;7;10;2020;129;5;Algérie;DZ;DZA;43053054.0;Afrique;5.07513358
 2020-10-06;6;10;2020;134;8;Algérie;DZ;DZA;43053054.0;Afrique;5.21914195
 2020-10-05;5;10;2020;141;4;Algérie;DZ;DZA;43053054.0;Afrique;5.36547303
 2020-10-04;4;10;2020;148;7;Algérie;DZ;DZA;43053054.0;Afrique;5.50948139
@@ -758,6 +761,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Algérie;DZ;DZA;43053054.0;Afrique;
 2020-01-01;1;1;2020;0;0;Algérie;DZ;DZA;43053054.0;Afrique;
 2019-12-31;31;12;2019;0;0;Algérie;DZ;DZA;43053054.0;Afrique;
+2020-10-07;7;10;2020;0;0;Andorre;AD;AND;76177.0;Europe;904.47247857
 2020-10-06;6;10;2020;260;0;Andorre;AD;AND;76177.0;Europe;904.47247857
 2020-10-05;5;10;2020;0;0;Andorre;AD;AND;76177.0;Europe;716.75177547
 2020-10-04;4;10;2020;0;0;Andorre;AD;AND;76177.0;Europe;716.75177547
@@ -965,6 +969,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;3;0;Andorre;AD;AND;76177.0;Europe;
 2020-03-14;14;3;2020;1;0;Andorre;AD;AND;76177.0;Europe;
 2020-03-03;3;3;2020;1;0;Andorre;AD;AND;76177.0;Europe;
+2020-10-07;7;10;2020;355;18;Angola;AO;AGO;31825299.0;Afrique;4.67866775
 2020-10-06;6;10;2020;0;0;Angola;AO;AGO;31825299.0;Afrique;3.93711933
 2020-10-05;5;10;2020;159;4;Angola;AO;AGO;31825299.0;Afrique;4.33303078
 2020-10-04;4;10;2020;97;4;Angola;AO;AGO;31825299.0;Afrique;4.11622213
@@ -1164,6 +1169,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-24;24;3;2020;0;0;Angola;AO;AGO;31825299.0;Afrique;
 2020-03-23;23;3;2020;0;0;Angola;AO;AGO;31825299.0;Afrique;
 2020-03-22;22;3;2020;2;0;Angola;AO;AGO;31825299.0;Afrique;
+2020-10-07;7;10;2020;0;0;Anguilla;AI;AIA;14872.0;Amérique latine & Caraïbes;0.0
 2020-10-06;6;10;2020;0;0;Anguilla;AI;AIA;14872.0;Amérique latine & Caraïbes;0.0
 2020-10-05;5;10;2020;0;0;Anguilla;AI;AIA;14872.0;Amérique latine & Caraïbes;0.0
 2020-10-04;4;10;2020;0;0;Anguilla;AI;AIA;14872.0;Amérique latine & Caraïbes;0.0
@@ -1358,6 +1364,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-29;29;3;2020;0;0;Anguilla;AI;AIA;14872.0;Amérique latine & Caraïbes;
 2020-03-28;28;3;2020;0;0;Anguilla;AI;AIA;14872.0;Amérique latine & Caraïbes;
 2020-03-27;27;3;2020;2;0;Anguilla;AI;AIA;14872.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;1;0;Antigua-et-Barbuda;AG;ATG;97115.0;Amérique latine & Caraïbes;12.35648458
 2020-10-06;6;10;2020;0;0;Antigua-et-Barbuda;AG;ATG;97115.0;Amérique latine & Caraïbes;11.32677753
 2020-10-05;5;10;2020;0;0;Antigua-et-Barbuda;AG;ATG;97115.0;Amérique latine & Caraïbes;11.32677753
 2020-10-04;4;10;2020;1;0;Antigua-et-Barbuda;AG;ATG;97115.0;Amérique latine & Caraïbes;11.32677753
@@ -1559,6 +1566,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;0;0;Antigua-et-Barbuda;AG;ATG;97115.0;Amérique latine & Caraïbes;
 2020-03-21;21;3;2020;0;0;Antigua-et-Barbuda;AG;ATG;97115.0;Amérique latine & Caraïbes;
 2020-03-15;15;3;2020;1;0;Antigua-et-Barbuda;AG;ATG;97115.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;14740;359;Argentine;AR;ARG;44780675.0;Amérique latine & Caraïbes;384.75078815
 2020-10-06;6;10;2020;11242;450;Argentine;AR;ARG;44780675.0;Amérique latine & Caraïbes;378.69237121
 2020-10-05;5;10;2020;7668;223;Argentine;AR;ARG;44780675.0;Amérique latine & Caraïbes;392.02624793
 2020-10-04;4;10;2020;11129;196;Argentine;AR;ARG;44780675.0;Amérique latine & Caraïbes;395.61708259
@@ -1773,6 +1781,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-07;7;3;2020;6;0;Argentine;AR;ARG;44780675.0;Amérique latine & Caraïbes;
 2020-03-06;6;3;2020;1;0;Argentine;AR;ARG;44780675.0;Amérique latine & Caraïbes;
 2020-03-04;4;3;2020;1;0;Argentine;AR;ARG;44780675.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;406;6;Arménie;AM;ARM;2957728.0;Europe;183.11352498
 2020-10-06;6;10;2020;181;7;Arménie;AM;ARM;2957728.0;Europe;173.27489208
 2020-10-05;5;10;2020;571;5;Arménie;AM;ARM;2957728.0;Europe;171.24630798
 2020-10-04;4;10;2020;543;6;Arménie;AM;ARM;2957728.0;Europe;161.30624588
@@ -2045,6 +2054,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Arménie;AM;ARM;2957728.0;Europe;
 2020-01-01;1;1;2020;0;0;Arménie;AM;ARM;2957728.0;Europe;
 2019-12-31;31;12;2019;0;0;Arménie;AM;ARM;2957728.0;Europe;
+2020-10-07;7;10;2020;15;1;Aruba;AW;ABW;106310.0;Amérique latine & Caraïbes;403.53682626
 2020-10-06;6;10;2020;0;0;Aruba;AW;ABW;106310.0;Amérique latine & Caraïbes;462.79747907
 2020-10-05;5;10;2020;5;0;Aruba;AW;ABW;106310.0;Amérique latine & Caraïbes;496.66070925
 2020-10-04;4;10;2020;36;0;Aruba;AW;ABW;106310.0;Amérique latine & Caraïbes;577.55620356
@@ -2243,6 +2253,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-24;24;3;2020;8;0;Aruba;AW;ABW;106310.0;Amérique latine & Caraïbes;
 2020-03-20;20;3;2020;2;0;Aruba;AW;ABW;106310.0;Amérique latine & Caraïbes;
 2020-03-13;13;3;2020;2;0;Aruba;AW;ABW;106310.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;25;1;Australie;AU;AUS;25203200.0;Pacifique occidental;0.92051803
 2020-10-06;6;10;2020;13;0;Australie;AU;AUS;25203200.0;Pacifique occidental;0.94035678
 2020-10-05;5;10;2020;15;1;Australie;AU;AUS;25203200.0;Pacifique occidental;0.94432453
 2020-10-04;4;10;2020;8;3;Australie;AU;AUS;25203200.0;Pacifique occidental;0.93638903
@@ -2524,6 +2535,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Australie;AU;AUS;25203200.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Australie;AU;AUS;25203200.0;Pacifique occidental;
 2019-12-31;31;12;2019;0;0;Australie;AU;AUS;25203200.0;Pacifique occidental;
+2020-10-07;7;10;2020;549;22;Autriche;AT;AUT;8858775.0;Europe;118.95549893
 2020-10-06;6;10;2020;1268;5;Autriche;AT;AUT;8858775.0;Europe;121.19057093
 2020-10-05;5;10;2020;599;4;Autriche;AT;AUT;8858775.0;Europe;113.57100728
 2020-10-04;4;10;2020;830;6;Autriche;AT;AUT;8858775.0;Europe;113.68388970000001
@@ -2805,6 +2817,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Autriche;AT;AUT;8858775.0;Europe;
 2020-01-01;1;1;2020;0;0;Autriche;AT;AUT;8858775.0;Europe;
 2019-12-31;31;12;2019;0;0;Autriche;AT;AUT;8858775.0;Europe;
+2020-10-07;7;10;2020;143;2;Azerbaïdjan;AZ;AZE;10047719.0;Europe;15.45624435
 2020-10-06;6;10;2020;97;2;Azerbaïdjan;AZ;AZE;10047719.0;Europe;15.0083815
 2020-10-05;5;10;2020;130;1;Azerbaïdjan;AZ;AZE;10047719.0;Europe;14.95861897
 2020-10-04;4;10;2020;108;1;Azerbaïdjan;AZ;AZE;10047719.0;Europe;15.11785909
@@ -3079,6 +3092,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Azerbaïdjan;AZ;AZE;10047719.0;Europe;
 2020-01-01;1;1;2020;0;0;Azerbaïdjan;AZ;AZE;10047719.0;Europe;
 2019-12-31;31;12;2019;0;0;Azerbaïdjan;AZ;AZE;10047719.0;Europe;
+2020-10-07;7;10;2020;0;0;Bahamas;BS;BHS;389486.0;Amérique latine & Caraïbes;280.36951264
 2020-10-06;6;10;2020;150;4;Bahamas;BS;BHS;389486.0;Amérique latine & Caraïbes;292.9501959
 2020-10-05;5;10;2020;0;0;Bahamas;BS;BHS;389486.0;Amérique latine & Caraïbes;266.76183483
 2020-10-04;4;10;2020;189;0;Bahamas;BS;BHS;389486.0;Amérique latine & Caraïbes;280.88300992
@@ -3282,6 +3296,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-20;20;3;2020;2;0;Bahamas;BS;BHS;389486.0;Amérique latine & Caraïbes;
 2020-03-17;17;3;2020;0;0;Bahamas;BS;BHS;389486.0;Amérique latine & Caraïbes;
 2020-03-16;16;3;2020;1;0;Bahamas;BS;BHS;389486.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;360;1;Bahreïn;BH;BHR;1641164.0;Méditerranée orientale;470.64156903
 2020-10-06;6;10;2020;454;1;Bahreïn;BH;BHR;1641164.0;Méditerranée orientale;492.15069304
 2020-10-05;5;10;2020;352;2;Bahreïn;BH;BHR;1641164.0;Méditerranée orientale;497.39087623
 2020-10-04;4;10;2020;507;3;Bahreïn;BH;BHR;1641164.0;Méditerranée orientale;513.72074942
@@ -3562,6 +3577,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Bahreïn;BH;BHR;1641164.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Bahreïn;BH;BHR;1641164.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Bahreïn;BH;BHR;1641164.0;Méditerranée orientale;
+2020-10-07;7;10;2020;1499;30;Bangladesh;BD;BGD;163046173.0;Asie du Sud-Est;11.93097614
 2020-10-06;6;10;2020;1442;27;Bangladesh;BD;BGD;163046173.0;Asie du Sud-Est;11.96654889
 2020-10-05;5;10;2020;1125;23;Bangladesh;BD;BGD;163046173.0;Asie du Sud-Est;12.12785289
 2020-10-04;4;10;2020;1182;20;Bangladesh;BD;BGD;163046173.0;Asie du Sud-Est;12.38483531
@@ -3768,6 +3784,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;2;0;Bangladesh;BD;BGD;163046173.0;Asie du Sud-Est;
 2020-03-15;15;3;2020;0;0;Bangladesh;BD;BGD;163046173.0;Asie du Sud-Est;
 2020-03-09;9;3;2020;3;0;Bangladesh;BD;BGD;163046173.0;Asie du Sud-Est;
+2020-10-07;7;10;2020;0;0;Barbade;BB;BRB;287021.0;Amérique latine & Caraïbes;3.83247219
 2020-10-06;6;10;2020;1;0;Barbade;BB;BRB;287021.0;Amérique latine & Caraïbes;3.83247219
 2020-10-05;5;10;2020;3;0;Barbade;BB;BRB;287021.0;Amérique latine & Caraïbes;3.48406563
 2020-10-04;4;10;2020;3;0;Barbade;BB;BRB;287021.0;Amérique latine & Caraïbes;3.83247219
@@ -3971,6 +3988,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-20;20;3;2020;1;0;Barbade;BB;BRB;287021.0;Amérique latine & Caraïbes;
 2020-03-19;19;3;2020;0;0;Barbade;BB;BRB;287021.0;Amérique latine & Caraïbes;
 2020-03-18;18;3;2020;1;0;Barbade;BB;BRB;287021.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;394;6;Biélorussie;BY;BLR;9452409.0;Europe;52.74845809
 2020-10-06;6;10;2020;401;5;Biélorussie;BY;BLR;9452409.0;Europe;50.75954712
 2020-10-05;5;10;2020;443;6;Biélorussie;BY;BLR;9452409.0;Europe;48.88700859
 2020-10-04;4;10;2020;431;7;Biélorussie;BY;BLR;9452409.0;Europe;46.45376644
@@ -4244,13 +4262,14 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Biélorussie;BY;BLR;9452409.0;Europe;
 2020-01-01;1;1;2020;0;0;Biélorussie;BY;BLR;9452409.0;Europe;
 2019-12-31;31;12;2019;0;0;Biélorussie;BY;BLR;9452409.0;Europe;
-2020-10-06;6;10;2020;0;3;Belgique;BE;BEL;11455519.0;Europe;233.66902888
-2020-10-05;5;10;2020;238;14;Belgique;BE;BEL;11455519.0;Europe;235.59822999
-2020-10-04;4;10;2020;777;13;Belgique;BE;BEL;11455519.0;Europe;236.62830117
-2020-10-03;3;10;2020;2690;11;Belgique;BE;BEL;11455519.0;Europe;228.24806104
-2020-10-02;2;10;2020;3065;15;Belgique;BE;BEL;11455519.0;Europe;216.76887795
-2020-10-01;1;10;2020;3190;6;Belgique;BE;BEL;11455519.0;Europe;205.86583637
-2020-09-30;30;9;2020;2961;9;Belgique;BE;BEL;11455519.0;Europe;194.22952378
+2020-10-07;7;10;2020;0;3;Belgique;BE;BEL;11455519.0;Europe;232.80481661
+2020-10-06;6;10;2020;314;13;Belgique;BE;BEL;11455519.0;Europe;249.15501428
+2020-10-05;5;10;2020;748;14;Belgique;BE;BEL;11455519.0;Europe;246.63221282
+2020-10-04;4;10;2020;1252;14;Belgique;BE;BEL;11455519.0;Europe;243.51581103
+2020-10-03;3;10;2020;3222;11;Belgique;BE;BEL;11455519.0;Europe;230.49152116
+2020-10-02;2;10;2020;3272;15;Belgique;BE;BEL;11455519.0;Europe;217.20534879
+2020-10-01;1;10;2020;3226;6;Belgique;BE;BEL;11455519.0;Europe;205.98804821
+2020-09-30;30;9;2020;2975;9;Belgique;BE;BEL;11455519.0;Europe;194.22952378
 2020-09-29;29;9;2020;2777;13;Belgique;BE;BEL;11455519.0;Europe;185.03744789
 2020-09-28;28;9;2020;538;12;Belgique;BE;BEL;11455519.0;Europe;182.97730552
 2020-09-27;27;9;2020;942;6;Belgique;BE;BEL;11455519.0;Europe;180.14024506
@@ -4511,7 +4530,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-16;16;1;2020;0;0;Belgique;BE;BEL;11455519.0;Europe;0.0
 2020-01-15;15;1;2020;0;0;Belgique;BE;BEL;11455519.0;Europe;0.0
 2020-01-14;14;1;2020;0;0;Belgique;BE;BEL;11455519.0;Europe;0.0
-2020-01-13;13;1;2020;0;0;Belgique;BE;BEL;11455519.0;Europe;0.06983533
+2020-01-13;13;1;2020;0;0;Belgique;BE;BEL;11455519.0;Europe;0.34044726
 2020-01-12;12;1;2020;0;0;Belgique;BE;BEL;11455519.0;Europe;
 2020-01-11;11;1;2020;0;0;Belgique;BE;BEL;11455519.0;Europe;
 2020-01-10;10;1;2020;0;0;Belgique;BE;BEL;11455519.0;Europe;
@@ -4525,6 +4544,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Belgique;BE;BEL;11455519.0;Europe;
 2020-01-01;1;1;2020;0;0;Belgique;BE;BEL;11455519.0;Europe;
 2019-12-31;31;12;2019;0;0;Belgique;BE;BEL;11455519.0;Europe;
+2020-10-07;7;10;2020;39;4;Belize;BZ;BLZ;390351.0;Amérique latine & Caraïbes;147.04714475
 2020-10-06;6;10;2020;8;0;Belize;BZ;BLZ;390351.0;Amérique latine & Caraïbes;145.76624628
 2020-10-05;5;10;2020;65;1;Belize;BZ;BLZ;390351.0;Amérique latine & Caraïbes;145.76624628
 2020-10-04;4;10;2020;51;1;Belize;BZ;BLZ;390351.0;Amérique latine & Caraïbes;134.49433971
@@ -4722,6 +4742,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-26;26;3;2020;1;0;Belize;BZ;BLZ;390351.0;Amérique latine & Caraïbes;
 2020-03-25;25;3;2020;0;0;Belize;BZ;BLZ;390351.0;Amérique latine & Caraïbes;
 2020-03-24;24;3;2020;1;0;Belize;BZ;BLZ;390351.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Bénin;BJ;BEN;11801151.0;Afrique;0.53384623
 2020-10-06;6;10;2020;0;0;Bénin;BJ;BEN;11801151.0;Afrique;0.53384623
 2020-10-05;5;10;2020;0;0;Bénin;BJ;BEN;11801151.0;Afrique;0.65247873
 2020-10-04;4;10;2020;0;0;Bénin;BJ;BEN;11801151.0;Afrique;0.65247873
@@ -4926,6 +4947,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-19;19;3;2020;0;0;Bénin;BJ;BEN;11801151.0;Afrique;
 2020-03-18;18;3;2020;0;0;Bénin;BJ;BEN;11801151.0;Afrique;
 2020-03-17;17;3;2020;1;0;Bénin;BJ;BEN;11801151.0;Afrique;
+2020-10-07;7;10;2020;0;0;Bermudes;BM;BMU;62508.0;Amérique latine & Caraïbes;1.59979523
 2020-10-06;6;10;2020;0;0;Bermudes;BM;BMU;62508.0;Amérique latine & Caraïbes;1.59979523
 2020-10-05;5;10;2020;0;0;Bermudes;BM;BMU;62508.0;Amérique latine & Caraïbes;1.59979523
 2020-10-04;4;10;2020;0;0;Bermudes;BM;BMU;62508.0;Amérique latine & Caraïbes;1.59979523
@@ -5127,6 +5149,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;0;0;Bermudes;BM;BMU;62508.0;Amérique latine & Caraïbes;
 2020-03-21;21;3;2020;0;0;Bermudes;BM;BMU;62508.0;Amérique latine & Caraïbes;
 2020-03-20;20;3;2020;2;0;Bermudes;BM;BMU;62508.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;1;0;Bhoutan;BT;BTN;763094.0;Asie du Sud-Est;5.11077272
 2020-10-06;6;10;2020;1;0;Bhoutan;BT;BTN;763094.0;Asie du Sud-Est;4.97972727
 2020-10-05;5;10;2020;15;0;Bhoutan;BT;BTN;763094.0;Asie du Sud-Est;4.84868181
 2020-10-04;4;10;2020;0;0;Bhoutan;BT;BTN;763094.0;Asie du Sud-Est;3.14509091
@@ -5334,6 +5357,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-15;15;3;2020;0;0;Bhoutan;BT;BTN;763094.0;Asie du Sud-Est;
 2020-03-13;13;3;2020;0;0;Bhoutan;BT;BTN;763094.0;Asie du Sud-Est;
 2020-03-06;6;3;2020;1;0;Bhoutan;BT;BTN;763094.0;Asie du Sud-Est;
+2020-10-07;7;10;2020;361;27;Bolivie;BO;BOL;11513102.0;Amérique latine & Caraïbes;52.24482507
 2020-10-06;6;10;2020;239;28;Bolivie;BO;BOL;11513102.0;Amérique latine & Caraïbes;53.16551525
 2020-10-05;5;10;2020;299;28;Bolivie;BO;BOL;11513102.0;Amérique latine & Caraïbes;53.78220396
 2020-10-04;4;10;2020;350;28;Bolivie;BO;BOL;11513102.0;Amérique latine & Caraïbes;52.97442861
@@ -5542,6 +5566,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-14;14;3;2020;7;0;Bolivie;BO;BOL;11513102.0;Amérique latine & Caraïbes;
 2020-03-13;13;3;2020;1;0;Bolivie;BO;BOL;11513102.0;Amérique latine & Caraïbes;
 2020-03-12;12;3;2020;2;0;Bolivie;BO;BOL;11513102.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;17;1;Bonaire;BQ;BES;25983.0;Amérique latine & Caraïbes;296.3476119
 2020-10-06;6;10;2020;0;0;Bonaire;BQ;BES;25983.0;Amérique latine & Caraïbes;261.70957934
 2020-10-05;5;10;2020;0;0;Bonaire;BQ;BES;25983.0;Amérique latine & Caraïbes;338.68298503
 2020-10-04;4;10;2020;0;0;Bonaire;BQ;BES;25983.0;Amérique latine & Caraïbes;338.68298503
@@ -5730,6 +5755,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-04;4;4;2020;0;0;Bonaire;BQ;BES;25983.0;Amérique latine & Caraïbes;
 2020-04-03;3;4;2020;0;0;Bonaire;BQ;BES;25983.0;Amérique latine & Caraïbes;
 2020-04-02;2;4;2020;2;0;Bonaire;BQ;BES;25983.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;261;15;Bosnie-Herzégovine;BA;BIH;3300998.0;Europe;90.06367165
 2020-10-06;6;10;2020;474;17;Bosnie-Herzégovine;BA;BIH;3300998.0;Europe;88.85191691
 2020-10-05;5;10;2020;4;7;Bosnie-Herzégovine;BA;BIH;3300998.0;Europe;77.27965906
 2020-10-04;4;10;2020;226;10;Bosnie-Herzégovine;BA;BIH;3300998.0;Europe;83.58078375
@@ -5938,6 +5964,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-13;13;3;2020;0;0;Bosnie-Herzégovine;BA;BIH;3300998.0;Europe;
 2020-03-12;12;3;2020;1;0;Bosnie-Herzégovine;BA;BIH;3300998.0;Europe;
 2020-03-06;6;3;2020;2;0;Bosnie-Herzégovine;BA;BIH;3300998.0;Europe;
+2020-10-07;7;10;2020;0;0;Botswana;BW;BWA;2303703.0;Afrique;26.2620659
 2020-10-06;6;10;2020;0;0;Botswana;BW;BWA;2303703.0;Afrique;26.2620659
 2020-10-05;5;10;2020;0;0;Botswana;BW;BWA;2303703.0;Afrique;26.2620659
 2020-10-04;4;10;2020;0;0;Botswana;BW;BWA;2303703.0;Afrique;26.2620659
@@ -6127,6 +6154,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-03;3;4;2020;0;0;Botswana;BW;BWA;2303703.0;Afrique;
 2020-04-02;2;4;2020;1;1;Botswana;BW;BWA;2303703.0;Afrique;
 2020-04-01;1;4;2020;3;0;Botswana;BW;BWA;2303703.0;Afrique;
+2020-10-07;7;10;2020;41906;819;Brésil;BR;BRA;211049519.0;Amérique latine & Caraïbes;178.88550601
 2020-10-06;6;10;2020;11946;323;Brésil;BR;BRA;211049519.0;Amérique latine & Caraïbes;174.91961211
 2020-10-05;5;10;2020;8456;365;Brésil;BR;BRA;211049519.0;Amérique latine & Caraïbes;175.62702903
 2020-10-04;4;10;2020;26310;599;Brésil;BR;BRA;211049519.0;Amérique latine & Caraïbes;179.38586252
@@ -6408,6 +6436,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Brésil;BR;BRA;211049519.0;Amérique latine & Caraïbes;
 2020-01-01;1;1;2020;0;0;Brésil;BR;BRA;211049519.0;Amérique latine & Caraïbes;
 2019-12-31;31;12;2019;0;0;Brésil;BR;BRA;211049519.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Îles Vierges britanniques;VG;VGB;30033.0;Amérique latine & Caraïbes;0.0
 2020-10-06;6;10;2020;0;0;Îles Vierges britanniques;VG;VGB;30033.0;Amérique latine & Caraïbes;0.0
 2020-10-05;5;10;2020;0;0;Îles Vierges britanniques;VG;VGB;30033.0;Amérique latine & Caraïbes;0.0
 2020-10-04;4;10;2020;0;0;Îles Vierges britanniques;VG;VGB;30033.0;Amérique latine & Caraïbes;0.0
@@ -6602,6 +6631,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-29;29;3;2020;0;0;Îles Vierges britanniques;VG;VGB;30033.0;Amérique latine & Caraïbes;
 2020-03-28;28;3;2020;0;0;Îles Vierges britanniques;VG;VGB;30033.0;Amérique latine & Caraïbes;
 2020-03-27;27;3;2020;2;0;Îles Vierges britanniques;VG;VGB;30033.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Brunei;BN;BRN;433296.0;Pacifique occidental;0.23078911
 2020-10-06;6;10;2020;0;0;Brunei;BN;BRN;433296.0;Pacifique occidental;0.23078911
 2020-10-05;5;10;2020;0;0;Brunei;BN;BRN;433296.0;Pacifique occidental;0.23078911
 2020-10-04;4;10;2020;0;0;Brunei;BN;BRN;433296.0;Pacifique occidental;0.23078911
@@ -6812,6 +6842,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-13;13;3;2020;14;0;Brunei;BN;BRN;433296.0;Pacifique occidental;
 2020-03-12;12;3;2020;10;0;Brunei;BN;BRN;433296.0;Pacifique occidental;
 2020-03-10;10;3;2020;1;0;Brunei;BN;BRN;433296.0;Pacifique occidental;
+2020-10-07;7;10;2020;436;8;Bulgarie;BG;BGR;7000039.0;Europe;45.47117523
 2020-10-06;6;10;2020;283;10;Bulgarie;BG;BGR;7000039.0;Europe;40.79977269
 2020-10-05;5;10;2020;69;3;Bulgarie;BG;BGR;7000039.0;Europe;38.91406891
 2020-10-04;4;10;2020;182;3;Bulgarie;BG;BGR;7000039.0;Europe;38.55692804
@@ -7023,6 +7054,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-12;12;3;2020;3;1;Bulgarie;BG;BGR;7000039.0;Europe;
 2020-03-09;9;3;2020;2;0;Bulgarie;BG;BGR;7000039.0;Europe;
 2020-03-08;8;3;2020;2;0;Bulgarie;BG;BGR;7000039.0;Europe;
+2020-10-07;7;10;2020;13;0;Burkina Faso;BF;BFA;20321383.0;Afrique;1.42706823
 2020-10-06;6;10;2020;17;0;Burkina Faso;BF;BFA;20321383.0;Afrique;1.41722638
 2020-10-05;5;10;2020;13;0;Burkina Faso;BF;BFA;20321383.0;Afrique;1.5796169
 2020-10-04;4;10;2020;31;1;Burkina Faso;BF;BFA;20321383.0;Afrique;1.66327262
@@ -7231,6 +7263,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-15;15;3;2020;1;0;Burkina Faso;BF;BFA;20321383.0;Afrique;
 2020-03-12;12;3;2020;0;0;Burkina Faso;BF;BFA;20321383.0;Afrique;
 2020-03-11;11;3;2020;2;0;Burkina Faso;BF;BFA;20321383.0;Afrique;
+2020-10-07;7;10;2020;0;0;Burundi;BI;BDI;11530577.0;Afrique;0.34690372
 2020-10-06;6;10;2020;1;0;Burundi;BI;BDI;11530577.0;Afrique;0.34690372
 2020-10-05;5;10;2020;0;0;Burundi;BI;BDI;11530577.0;Afrique;0.34690372
 2020-10-04;4;10;2020;0;0;Burundi;BI;BDI;11530577.0;Afrique;0.34690372
@@ -7420,6 +7453,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-03;3;4;2020;1;0;Burundi;BI;BDI;11530577.0;Afrique;
 2020-04-02;2;4;2020;0;0;Burundi;BI;BDI;11530577.0;Afrique;
 2020-04-01;1;4;2020;2;0;Burundi;BI;BDI;11530577.0;Afrique;
+2020-10-07;7;10;2020;0;0;Cambodge;KH;KHM;16486542.0;Pacifique occidental;0.03032777
 2020-10-06;6;10;2020;0;0;Cambodge;KH;KHM;16486542.0;Pacifique occidental;0.03032777
 2020-10-05;5;10;2020;2;0;Cambodge;KH;KHM;16486542.0;Pacifique occidental;0.03032777
 2020-10-04;4;10;2020;0;0;Cambodge;KH;KHM;16486542.0;Pacifique occidental;0.01819666
@@ -7692,6 +7726,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Cambodge;KH;KHM;16486542.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Cambodge;KH;KHM;16486542.0;Pacifique occidental;
 2019-12-31;31;12;2019;0;0;Cambodge;KH;KHM;16486542.0;Pacifique occidental;
+2020-10-07;7;10;2020;0;0;Cameroun;CM;CMR;25876387.0;Afrique;1.25983585
 2020-10-06;6;10;2020;0;0;Cameroun;CM;CMR;25876387.0;Afrique;1.25983585
 2020-10-05;5;10;2020;0;0;Cameroun;CM;CMR;25876387.0;Afrique;1.90521188
 2020-10-04;4;10;2020;0;0;Cameroun;CM;CMR;25876387.0;Afrique;1.90521188
@@ -7900,6 +7935,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-15;15;3;2020;1;0;Cameroun;CM;CMR;25876387.0;Afrique;
 2020-03-09;9;3;2020;1;0;Cameroun;CM;CMR;25876387.0;Afrique;
 2020-03-07;7;3;2020;1;0;Cameroun;CM;CMR;25876387.0;Afrique;
+2020-10-07;7;10;2020;2363;26;Canada;CA;CAN;37411038.0;Amérique du Nord;65.91637473
 2020-10-06;6;10;2020;2804;23;Canada;CA;CAN;37411038.0;Amérique du Nord;62.93597093
 2020-10-05;5;10;2020;1685;19;Canada;CA;CAN;37411038.0;Amérique du Nord;60.16138873
 2020-10-04;4;10;2020;1812;53;Canada;CA;CAN;37411038.0;Amérique du Nord;57.99625234
@@ -8181,6 +8217,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Canada;CA;CAN;37411038.0;Amérique du Nord;
 2020-01-01;1;1;2020;0;0;Canada;CA;CAN;37411038.0;Amérique du Nord;
 2019-12-31;31;12;2019;0;0;Canada;CA;CAN;37411038.0;Amérique du Nord;
+2020-10-07;7;10;2020;85;1;Cap Vert;CV;CPV;549936.0;Afrique;224.93526519
 2020-10-06;6;10;2020;73;3;Cap Vert;CV;CPV;549936.0;Afrique;213.84306537
 2020-10-05;5;10;2020;64;3;Cap Vert;CV;CPV;549936.0;Afrique;200.56879346
 2020-10-04;4;10;2020;91;0;Cap Vert;CV;CPV;549936.0;Afrique;201.84166885
@@ -8445,6 +8482,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Cases_on_an_international_conveyance_Japan;JPG11668;;;Other;
 2020-01-01;1;1;2020;0;0;Cases_on_an_international_conveyance_Japan;JPG11668;;;Other;
 2019-12-31;31;12;2019;0;0;Cases_on_an_international_conveyance_Japan;JPG11668;;;Other;
+2020-10-07;7;10;2020;0;0;Îles Caïmans;KY;CYM;64948.0;Amérique latine & Caraïbes;4.61907988
 2020-10-06;6;10;2020;0;0;Îles Caïmans;KY;CYM;64948.0;Amérique latine & Caraïbes;4.61907988
 2020-10-05;5;10;2020;0;0;Îles Caïmans;KY;CYM;64948.0;Amérique latine & Caraïbes;6.15877317
 2020-10-04;4;10;2020;0;0;Îles Caïmans;KY;CYM;64948.0;Amérique latine & Caraïbes;6.15877317
@@ -8646,6 +8684,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;0;0;Îles Caïmans;KY;CYM;64948.0;Amérique latine & Caraïbes;
 2020-03-21;21;3;2020;2;1;Îles Caïmans;KY;CYM;64948.0;Amérique latine & Caraïbes;
 2020-03-20;20;3;2020;1;0;Îles Caïmans;KY;CYM;64948.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;7;0;République centrafricaine;CF;CAF;4745179.0;Afrique;1.05370103
 2020-10-06;6;10;2020;0;0;République centrafricaine;CF;CAF;4745179.0;Afrique;1.09584907
 2020-10-05;5;10;2020;0;0;République centrafricaine;CF;CAF;4745179.0;Afrique;1.09584907
 2020-10-04;4;10;2020;16;0;République centrafricaine;CF;CAF;4745179.0;Afrique;1.24336722
@@ -8851,6 +8890,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-18;18;3;2020;0;0;République centrafricaine;CF;CAF;4745179.0;Afrique;
 2020-03-17;17;3;2020;0;0;République centrafricaine;CF;CAF;4745179.0;Afrique;
 2020-03-16;16;3;2020;1;0;République centrafricaine;CF;CAF;4745179.0;Afrique;
+2020-10-07;7;10;2020;15;2;Tchad;TD;TCD;15946882.0;Afrique;0.52047792
 2020-10-06;6;10;2020;6;0;Tchad;TD;TCD;15946882.0;Afrique;0.43895728
 2020-10-05;5;10;2020;3;1;Tchad;TD;TCD;15946882.0;Afrique;0.41387401
 2020-10-04;4;10;2020;3;0;Tchad;TD;TCD;15946882.0;Afrique;0.40760319
@@ -9052,6 +9092,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;1;0;Tchad;TD;TCD;15946882.0;Afrique;
 2020-03-21;21;3;2020;0;0;Tchad;TD;TCD;15946882.0;Afrique;
 2020-03-20;20;3;2020;1;0;Tchad;TD;TCD;15946882.0;Afrique;
+2020-10-07;7;10;2020;1560;33;Chili;CL;CHL;18952035.0;Amérique latine & Caraïbes;130.76695985
 2020-10-06;6;10;2020;1567;58;Chili;CL;CHL;18952035.0;Amérique latine & Caraïbes;128.10233835
 2020-10-05;5;10;2020;1708;60;Chili;CL;CHL;18952035.0;Amérique latine & Caraïbes;126.13421197
 2020-10-04;4;10;2020;1881;52;Chili;CL;CHL;18952035.0;Amérique latine & Caraïbes;125.56435232
@@ -9268,6 +9309,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-06;6;3;2020;1;0;Chili;CL;CHL;18952035.0;Amérique latine & Caraïbes;
 2020-03-05;5;3;2020;2;0;Chili;CL;CHL;18952035.0;Amérique latine & Caraïbes;
 2020-03-04;4;3;2020;1;0;Chili;CL;CHL;18952035.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;15;0;Chine;CN;CHN;1433783692.0;Pacifique occidental;0.0186918
 2020-10-06;6;10;2020;23;0;Chine;CN;CHN;1433783692.0;Pacifique occidental;0.01890104
 2020-10-05;5;10;2020;25;0;Chine;CN;CHN;1433783692.0;Pacifique occidental;0.01813384
 2020-10-04;4;10;2020;20;0;Chine;CN;CHN;1433783692.0;Pacifique occidental;0.01890104
@@ -9549,6 +9591,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Chine;CN;CHN;1433783692.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Chine;CN;CHN;1433783692.0;Pacifique occidental;
 2019-12-31;31;12;2019;27;0;Chine;CN;CHN;1433783692.0;Pacifique occidental;
+2020-10-07;7;10;2020;7650;173;Colombie;CO;COL;50339443.0;Amérique latine & Caraïbes;183.29761813
 2020-10-06;6;10;2020;7106;132;Colombie;CO;COL;50339443.0;Amérique latine & Caraïbes;182.20900855
 2020-10-05;5;10;2020;6905;156;Colombie;CO;COL;50339443.0;Amérique latine & Caraïbes;178.73856888
 2020-10-04;4;10;2020;6616;159;Colombie;CO;COL;50339443.0;Amérique latine & Caraïbes;178.28763024
@@ -9759,6 +9802,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-12;12;3;2020;6;0;Colombie;CO;COL;50339443.0;Amérique latine & Caraïbes;
 2020-03-10;10;3;2020;2;0;Colombie;CO;COL;50339443.0;Amérique latine & Caraïbes;
 2020-03-07;7;3;2020;1;0;Colombie;CO;COL;50339443.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;4;0;Comores;KM;COM;850891.0;Afrique;2.46800119
 2020-10-06;6;10;2020;0;0;Comores;KM;COM;850891.0;Afrique;1.99790572
 2020-10-05;5;10;2020;0;0;Comores;KM;COM;850891.0;Afrique;1.99790572
 2020-10-04;4;10;2020;3;0;Comores;KM;COM;850891.0;Afrique;1.99790572
@@ -9917,6 +9961,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-05-04;4;5;2020;2;0;Comores;KM;COM;850891.0;Afrique;
 2020-05-03;3;5;2020;0;0;Comores;KM;COM;850891.0;Afrique;
 2020-05-02;2;5;2020;1;0;Comores;KM;COM;850891.0;Afrique;
+2020-10-07;7;10;2020;0;0;Congo;CG;COG;5380504.0;Afrique;1.6169489
 2020-10-06;6;10;2020;0;0;Congo;CG;COG;5380504.0;Afrique;1.6169489
 2020-10-05;5;10;2020;0;0;Congo;CG;COG;5380504.0;Afrique;1.91431881
 2020-10-04;4;10;2020;0;0;Congo;CG;COG;5380504.0;Afrique;1.91431881
@@ -10122,6 +10167,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-18;18;3;2020;0;0;Congo;CG;COG;5380504.0;Afrique;
 2020-03-17;17;3;2020;0;0;Congo;CG;COG;5380504.0;Afrique;
 2020-03-16;16;3;2020;1;0;Congo;CG;COG;5380504.0;Afrique;
+2020-10-07;7;10;2020;1013;17;Costa Rica;CR;CRI;5047561.0;Amérique latine & Caraïbes;306.14786032
 2020-10-06;6;10;2020;1947;37;Costa Rica;CR;CRI;5047561.0;Amérique latine & Caraïbes;307.61391492
 2020-10-05;5;10;2020;0;0;Costa Rica;CR;CRI;5047561.0;Amérique latine & Caraïbes;306.48465665
 2020-10-04;4;10;2020;1353;20;Costa Rica;CR;CRI;5047561.0;Amérique latine & Caraïbes;306.48465665
@@ -10335,6 +10381,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-10;10;3;2020;4;0;Costa Rica;CR;CRI;5047561.0;Amérique latine & Caraïbes;
 2020-03-09;9;3;2020;4;0;Costa Rica;CR;CRI;5047561.0;Amérique latine & Caraïbes;
 2020-03-07;7;3;2020;1;0;Costa Rica;CR;CRI;5047561.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;18;0;Côte d’Ivoire;CI;CIV;25716554.0;Afrique;2.17758569
 2020-10-06;6;10;2020;3;0;Côte d’Ivoire;CI;CIV;25716554.0;Afrique;2.1698086
 2020-10-05;5;10;2020;33;0;Côte d’Ivoire;CI;CIV;25716554.0;Afrique;2.18536278
 2020-10-04;4;10;2020;56;0;Côte d’Ivoire;CI;CIV;25716554.0;Afrique;2.25535661
@@ -10542,6 +10589,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;0;0;Côte d’Ivoire;CI;CIV;25716554.0;Afrique;
 2020-03-15;15;3;2020;3;0;Côte d’Ivoire;CI;CIV;25716554.0;Afrique;
 2020-03-12;12;3;2020;1;0;Côte d’Ivoire;CI;CIV;25716554.0;Afrique;
+2020-10-07;7;10;2020;287;4;Croatie;HR;HRV;4076246.0;Europe;72.32144478
 2020-10-06;6;10;2020;138;2;Croatie;HR;HRV;4076246.0;Europe;68.813315
 2020-10-05;5;10;2020;258;5;Croatie;HR;HRV;4076246.0;Europe;67.14511342
 2020-10-04;4;10;2020;241;2;Croatie;HR;HRV;4076246.0;Europe;65.64863848
@@ -10820,6 +10868,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Croatie;HR;HRV;4076246.0;Europe;
 2020-01-01;1;1;2020;0;0;Croatie;HR;HRV;4076246.0;Europe;
 2019-12-31;31;12;2019;0;0;Croatie;HR;HRV;4076246.0;Europe;
+2020-10-07;7;10;2020;38;0;Cuba;CU;CUB;11333484.0;Amérique latine & Caraïbes;5.83227541
 2020-10-06;6;10;2020;36;1;Cuba;CU;CUB;11333484.0;Amérique latine & Caraïbes;6.21168213
 2020-10-05;5;10;2020;29;0;Cuba;CU;CUB;11333484.0;Amérique latine & Caraïbes;6.335209900000001
 2020-10-04;4;10;2020;62;0;Cuba;CU;CUB;11333484.0;Amérique latine & Caraïbes;6.39697378
@@ -11026,6 +11075,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-15;15;3;2020;0;0;Cuba;CU;CUB;11333484.0;Amérique latine & Caraïbes;
 2020-03-14;14;3;2020;1;0;Cuba;CU;CUB;11333484.0;Amérique latine & Caraïbes;
 2020-03-12;12;3;2020;3;0;Cuba;CU;CUB;11333484.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;10;0;Curaçao;CW;CUW;163423.0;Amérique latine & Caraïbes;104.63643428
 2020-10-06;6;10;2020;0;0;Curaçao;CW;CUW;163423.0;Amérique latine & Caraïbes;104.02452531
 2020-10-05;5;10;2020;23;0;Curaçao;CW;CUW;163423.0;Amérique latine & Caraïbes;112.59125093
 2020-10-04;4;10;2020;18;0;Curaçao;CW;CUW;163423.0;Amérique latine & Caraïbes;111.36743298
@@ -11223,6 +11273,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-24;24;3;2020;3;0;Curaçao;CW;CUW;163423.0;Amérique latine & Caraïbes;
 2020-03-20;20;3;2020;2;0;Curaçao;CW;CUW;163423.0;Amérique latine & Caraïbes;
 2020-03-13;13;3;2020;1;0;Curaçao;CW;CUW;163423.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;29;1;Chypre;CY;CYP;875899.0;Europe;29.45545091
 2020-10-06;6;10;2020;23;0;Chypre;CY;CYP;875899.0;Europe;27.85709311
 2020-10-05;5;10;2020;13;0;Chypre;CY;CYP;875899.0;Europe;25.57372482
 2020-10-04;4;10;2020;22;0;Chypre;CY;CYP;875899.0;Europe;26.37290373
@@ -11432,6 +11483,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-14;14;3;2020;8;0;Chypre;CY;CYP;875899.0;Europe;
 2020-03-12;12;3;2020;4;0;Chypre;CY;CYP;875899.0;Europe;
 2020-03-10;10;3;2020;2;0;Chypre;CY;CYP;875899.0;Europe;
+2020-10-07;7;10;2020;4456;36;République tchèque;CZ;CZE;10649800.0;Europe;346.14734549
 2020-10-06;6;10;2020;3120;31;République tchèque;CZ;CZE;10649800.0;Europe;326.78547954
 2020-10-05;5;10;2020;1841;16;République tchèque;CZ;CZE;10649800.0;Europe;311.79928262
 2020-10-04;4;10;2020;2554;12;République tchèque;CZ;CZE;10649800.0;Europe;303.28269075
@@ -11713,6 +11765,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;République tchèque;CZ;CZE;10649800.0;Europe;
 2020-01-01;1;1;2020;0;0;République tchèque;CZ;CZE;10649800.0;Europe;
 2019-12-31;31;12;2019;0;0;République tchèque;CZ;CZE;10649800.0;Europe;
+2020-10-07;7;10;2020;0;0;République démocratique du Congo;CD;COD;86790568.0;Afrique;0.29496293
 2020-10-06;6;10;2020;19;1;République démocratique du Congo;CD;COD;86790568.0;Afrique;0.29957172
 2020-10-05;5;10;2020;7;0;République démocratique du Congo;CD;COD;86790568.0;Afrique;0.28228874
 2020-10-04;4;10;2020;68;1;République démocratique du Congo;CD;COD;86790568.0;Afrique;0.30418052
@@ -11921,6 +11974,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-15;15;3;2020;0;0;République démocratique du Congo;CD;COD;86790568.0;Afrique;
 2020-03-14;14;3;2020;1;0;République démocratique du Congo;CD;COD;86790568.0;Afrique;
 2020-03-11;11;3;2020;1;0;République démocratique du Congo;CD;COD;86790568.0;Afrique;
+2020-10-07;7;10;2020;322;4;Danemark;DK;DNK;5806081.0;Europe;113.32945579
 2020-10-06;6;10;2020;377;1;Danemark;DK;DNK;5806081.0;Europe;115.98184731
 2020-10-05;5;10;2020;378;4;Danemark;DK;DNK;5806081.0;Europe;134.91027769
 2020-10-04;4;10;2020;370;2;Danemark;DK;DNK;5806081.0;Europe;128.39986214
@@ -12202,6 +12256,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Danemark;DK;DNK;5806081.0;Europe;
 2020-01-01;1;1;2020;0;0;Danemark;DK;DNK;5806081.0;Europe;
 2019-12-31;31;12;2019;0;0;Danemark;DK;DNK;5806081.0;Europe;
+2020-10-07;7;10;2020;2;0;Djibouti;DJ;DJI;973557.0;Méditerranée orientale;1.64345796
 2020-10-06;6;10;2020;2;0;Djibouti;DJ;DJI;973557.0;Méditerranée orientale;1.74617408
 2020-10-05;5;10;2020;1;0;Djibouti;DJ;DJI;973557.0;Méditerranée orientale;1.64345796
 2020-10-04;4;10;2020;1;0;Djibouti;DJ;DJI;973557.0;Méditerranée orientale;1.54074184
@@ -12404,6 +12459,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-21;21;3;2020;0;0;Djibouti;DJ;DJI;973557.0;Méditerranée orientale;
 2020-03-20;20;3;2020;0;0;Djibouti;DJ;DJI;973557.0;Méditerranée orientale;
 2020-03-19;19;3;2020;1;0;Djibouti;DJ;DJI;973557.0;Méditerranée orientale;
+2020-10-07;7;10;2020;0;0;Dominique;DM;DMA;71808.0;Amérique latine & Caraïbes;9.74821747
 2020-10-06;6;10;2020;0;0;Dominique;DM;DMA;71808.0;Amérique latine & Caraïbes;9.74821747
 2020-10-05;5;10;2020;0;0;Dominique;DM;DMA;71808.0;Amérique latine & Caraïbes;9.74821747
 2020-10-04;4;10;2020;0;0;Dominique;DM;DMA;71808.0;Amérique latine & Caraïbes;9.74821747
@@ -12602,6 +12658,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-25;25;3;2020;1;0;Dominique;DM;DMA;71808.0;Amérique latine & Caraïbes;
 2020-03-24;24;3;2020;0;0;Dominique;DM;DMA;71808.0;Amérique latine & Caraïbes;
 2020-03-23;23;3;2020;1;0;Dominique;DM;DMA;71808.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;317;5;République dominicaine;DO;DOM;10738957.0;Amérique latine & Caraïbes;56.82116057
 2020-10-06;6;10;2020;574;10;République dominicaine;DO;DOM;10738957.0;Amérique latine & Caraïbes;58.39487019
 2020-10-05;5;10;2020;554;6;République dominicaine;DO;DOM;10738957.0;Amérique latine & Caraïbes;57.64991889
 2020-10-04;4;10;2020;576;11;République dominicaine;DO;DOM;10738957.0;Amérique latine & Caraïbes;57.97583508
@@ -12874,6 +12931,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;République dominicaine;DO;DOM;10738957.0;Amérique latine & Caraïbes;
 2020-01-01;1;1;2020;0;0;République dominicaine;DO;DOM;10738957.0;Amérique latine & Caraïbes;
 2019-12-31;31;12;2019;0;0;République dominicaine;DO;DOM;10738957.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;717;21;Équateur;EC;ECU;17373657.0;Amérique latine & Caraïbes;82.95893029
 2020-10-06;6;10;2020;305;34;Équateur;EC;ECU;17373657.0;Amérique latine & Caraïbes;84.19643602
 2020-10-05;5;10;2020;683;50;Équateur;EC;ECU;17373657.0;Amérique latine & Caraïbes;84.12161009
 2020-10-04;4;10;2020;817;102;Équateur;EC;ECU;17373657.0;Amérique latine & Caraïbes;84.7892876
@@ -13150,6 +13208,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Équateur;EC;ECU;17373657.0;Amérique latine & Caraïbes;
 2020-01-01;1;1;2020;0;0;Équateur;EC;ECU;17373657.0;Amérique latine & Caraïbes;
 2019-12-31;31;12;2019;0;0;Équateur;EC;ECU;17373657.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;121;11;Égypte;EG;EGY;100388076.0;Méditerranée orientale;1.64162923
 2020-10-06;6;10;2020;98;9;Égypte;EG;EGY;100388076.0;Méditerranée orientale;1.63366016
 2020-10-05;5;10;2020;108;11;Égypte;EG;EGY;100388076.0;Méditerranée orientale;1.66155192
 2020-10-04;4;10;2020;109;14;Égypte;EG;EGY;100388076.0;Méditerranée orientale;1.66852486
@@ -13427,6 +13486,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Égypte;EG;EGY;100388076.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Égypte;EG;EGY;100388076.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Égypte;EG;EGY;100388076.0;Méditerranée orientale;
+2020-10-07;7;10;2020;94;4;Salvador;SV;SLV;6453550.0;Amérique latine & Caraïbes;27.62820463
 2020-10-06;6;10;2020;193;6;Salvador;SV;SLV;6453550.0;Amérique latine & Caraïbes;28.58891618
 2020-10-05;5;10;2020;92;0;Salvador;SV;SLV;6453550.0;Amérique latine & Caraïbes;29.39467425
 2020-10-04;4;10;2020;183;10;Salvador;SV;SLV;6453550.0;Amérique latine & Caraïbes;29.90602072
@@ -13629,6 +13689,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-21;21;3;2020;2;0;Salvador;SV;SLV;6453550.0;Amérique latine & Caraïbes;
 2020-03-20;20;3;2020;0;0;Salvador;SV;SLV;6453550.0;Amérique latine & Caraïbes;
 2020-03-19;19;3;2020;1;0;Salvador;SV;SLV;6453550.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Guinée équatoriale;GQ;GNQ;1355982.0;Afrique;2.50740792
 2020-10-06;6;10;2020;7;0;Guinée équatoriale;GQ;GNQ;1355982.0;Afrique;2.50740792
 2020-10-05;5;10;2020;0;0;Guinée équatoriale;GQ;GNQ;1355982.0;Afrique;3.17113354
 2020-10-04;4;10;2020;0;0;Guinée équatoriale;GQ;GNQ;1355982.0;Afrique;3.17113354
@@ -13835,6 +13896,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;0;0;Guinée équatoriale;GQ;GNQ;1355982.0;Afrique;
 2020-03-16;16;3;2020;0;0;Guinée équatoriale;GQ;GNQ;1355982.0;Afrique;
 2020-03-15;15;3;2020;1;0;Guinée équatoriale;GQ;GNQ;1355982.0;Afrique;
+2020-10-07;7;10;2020;0;0;Erythrée;ER;ERI;3497117.0;Afrique;0.97222941
 2020-10-06;6;10;2020;0;0;Erythrée;ER;ERI;3497117.0;Afrique;0.97222941
 2020-10-05;5;10;2020;0;0;Erythrée;ER;ERI;3497117.0;Afrique;0.97222941
 2020-10-04;4;10;2020;17;0;Erythrée;ER;ERI;3497117.0;Afrique;0.97222941
@@ -14034,6 +14096,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-24;24;3;2020;0;0;Erythrée;ER;ERI;3497117.0;Afrique;
 2020-03-23;23;3;2020;0;0;Erythrée;ER;ERI;3497117.0;Afrique;
 2020-03-22;22;3;2020;1;0;Erythrée;ER;ERI;3497117.0;Afrique;
+2020-10-07;7;10;2020;42;0;Estonie;EE;EST;1324820.0;Europe;51.554173399999996
 2020-10-06;6;10;2020;10;0;Estonie;EE;EST;1324820.0;Europe;51.02579973
 2020-10-05;5;10;2020;30;0;Estonie;EE;EST;1324820.0;Europe;51.554173399999996
 2020-10-04;4;10;2020;70;1;Estonie;EE;EST;1324820.0;Europe;52.98833049
@@ -14310,6 +14373,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Estonie;EE;EST;1324820.0;Europe;
 2020-01-01;1;1;2020;0;0;Estonie;EE;EST;1324820.0;Europe;
 2019-12-31;31;12;2019;0;0;Estonie;EE;EST;1324820.0;Europe;
+2020-10-07;7;10;2020;19;0;Eswatini;SZ;SWZ;1148133.0;Afrique;25.34549569
 2020-10-06;6;10;2020;10;1;Eswatini;SZ;SWZ;1148133.0;Afrique;25.86808323
 2020-10-05;5;10;2020;39;0;Eswatini;SZ;SWZ;1148133.0;Afrique;26.129376999999998
 2020-10-04;4;10;2020;9;0;Eswatini;SZ;SWZ;1148133.0;Afrique;24.82290815
@@ -14516,6 +14580,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;0;0;Eswatini;SZ;SWZ;1148133.0;Afrique;
 2020-03-16;16;3;2020;0;0;Eswatini;SZ;SWZ;1148133.0;Afrique;
 2020-03-15;15;3;2020;1;0;Eswatini;SZ;SWZ;1148133.0;Afrique;
+2020-10-07;7;10;2020;566;8;Éthiopie;ET;ETH;112078727.0;Afrique;8.54845541
 2020-10-06;6;10;2020;618;8;Éthiopie;ET;ETH;112078727.0;Afrique;8.67961322
 2020-10-05;5;10;2020;959;8;Éthiopie;ET;ETH;112078727.0;Afrique;8.92140754
 2020-10-04;4;10;2020;872;6;Éthiopie;ET;ETH;112078727.0;Afrique;8.68050545
@@ -14723,6 +14788,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;3;0;Éthiopie;ET;ETH;112078727.0;Afrique;
 2020-03-15;15;3;2020;0;0;Éthiopie;ET;ETH;112078727.0;Afrique;
 2020-03-14;14;3;2020;1;0;Éthiopie;ET;ETH;112078727.0;Afrique;
+2020-10-07;7;10;2020;0;0;Îles Malouines;FK;FLK;3372.0;Amérique latine & Caraïbes;0.0
 2020-10-06;6;10;2020;0;0;Îles Malouines;FK;FLK;3372.0;Amérique latine & Caraïbes;0.0
 2020-10-05;5;10;2020;0;0;Îles Malouines;FK;FLK;3372.0;Amérique latine & Caraïbes;0.0
 2020-10-04;4;10;2020;0;0;Îles Malouines;FK;FLK;3372.0;Amérique latine & Caraïbes;0.0
@@ -14909,6 +14975,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-06;6;4;2020;1;0;Îles Malouines;FK;FLK;3372.0;Amérique latine & Caraïbes;
 2020-04-05;5;4;2020;0;0;Îles Malouines;FK;FLK;3372.0;Amérique latine & Caraïbes;
 2020-04-04;4;4;2020;1;0;Îles Malouines;FK;FLK;3372.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Îles Féroé;FO;FRO;48677.0;Europe;55.46767467
 2020-10-06;6;10;2020;1;0;Îles Féroé;FO;FRO;48677.0;Europe;78.06561620000001
 2020-10-05;5;10;2020;1;0;Îles Féroé;FO;FRO;48677.0;Europe;82.17433285
 2020-10-04;4;10;2020;1;0;Îles Féroé;FO;FRO;48677.0;Europe;86.28304949
@@ -15124,6 +15191,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-08;8;3;2020;1;0;Îles Féroé;FO;FRO;48677.0;Europe;
 2020-03-07;7;3;2020;1;0;Îles Féroé;FO;FRO;48677.0;Europe;
 2020-03-06;6;3;2020;1;0;Îles Féroé;FO;FRO;48677.0;Europe;
+2020-10-07;7;10;2020;0;0;Fidji;FJ;FJI;889955.0;Pacifique occidental;0.0
 2020-10-06;6;10;2020;0;0;Fidji;FJ;FJI;889955.0;Pacifique occidental;0.0
 2020-10-05;5;10;2020;0;0;Fidji;FJ;FJI;889955.0;Pacifique occidental;0.0
 2020-10-04;4;10;2020;0;0;Fidji;FJ;FJI;889955.0;Pacifique occidental;0.0
@@ -15325,6 +15393,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;1;0;Fidji;FJ;FJI;889955.0;Pacifique occidental;
 2020-03-21;21;3;2020;0;0;Fidji;FJ;FJI;889955.0;Pacifique occidental;
 2020-03-20;20;3;2020;1;0;Fidji;FJ;FJI;889955.0;Pacifique occidental;
+2020-10-07;7;10;2020;227;0;Finlande;FI;FIN;5517919.0;Europe;31.42489043
 2020-10-06;6;10;2020;164;1;Finlande;FI;FIN;5517919.0;Europe;30.01131405
 2020-10-05;5;10;2020;294;0;Finlande;FI;FIN;5517919.0;Europe;28.23528218
 2020-10-04;4;10;2020;40;0;Finlande;FI;FIN;5517919.0;Europe;23.95830747
@@ -15602,6 +15671,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Finlande;FI;FIN;5517919.0;Europe;
 2020-01-01;1;1;2020;0;0;Finlande;FI;FIN;5517919.0;Europe;
 2019-12-31;31;12;2019;0;0;Finlande;FI;FIN;5517919.0;Europe;
+2020-10-07;7;10;2020;10489;66;France;FR;FRA;67012883.0;Europe;248.74918454
 2020-10-06;6;10;2020;5104;69;France;FR;FRA;67012883.0;Europe;248.03141211
 2020-10-05;5;10;2020;12545;32;France;FR;FRA;67012883.0;Europe;246.8286583
 2020-10-04;4;10;2020;16972;43;France;FR;FRA;67012883.0;Europe;245.37222194
@@ -15883,6 +15953,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;France;FR;FRA;67012883.0;Europe;
 2020-01-01;1;1;2020;0;0;France;FR;FRA;67012883.0;Europe;
 2019-12-31;31;12;2019;0;0;France;FR;FRA;67012883.0;Europe;
+2020-10-07;7;10;2020;0;0;Polynésie française;PF;PYF;279285.0;Pacifique occidental;320.81923483
 2020-10-06;6;10;2020;264;1;Polynésie française;PF;PYF;279285.0;Pacifique occidental;320.81923483
 2020-10-05;5;10;2020;0;0;Polynésie française;PF;PYF;279285.0;Pacifique occidental;231.3049394
 2020-10-04;4;10;2020;0;0;Polynésie française;PF;PYF;279285.0;Pacifique occidental;248.13362694
@@ -16085,6 +16156,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-21;21;3;2020;12;0;Polynésie française;PF;PYF;279285.0;Pacifique occidental;
 2020-03-20;20;3;2020;0;0;Polynésie française;PF;PYF;279285.0;Pacifique occidental;
 2020-03-19;19;3;2020;3;0;Polynésie française;PF;PYF;279285.0;Pacifique occidental;
+2020-10-07;7;10;2020;0;0;Gabon;GA;GAB;2172578.0;Afrique;4.78693976
 2020-10-06;6;10;2020;11;0;Gabon;GA;GAB;2172578.0;Afrique;4.78693976
 2020-10-05;5;10;2020;0;0;Gabon;GA;GAB;2172578.0;Afrique;4.64885495
 2020-10-04;4;10;2020;0;0;Gabon;GA;GAB;2172578.0;Afrique;4.64885495
@@ -16292,6 +16364,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;0;0;Gabon;GA;GAB;2172578.0;Afrique;
 2020-03-15;15;3;2020;0;0;Gabon;GA;GAB;2172578.0;Afrique;
 2020-03-13;13;3;2020;1;0;Gabon;GA;GAB;2172578.0;Afrique;
+2020-10-07;7;10;2020;19;2;Gambie;GM;GMB;2347696.0;Afrique;3.10943154
 2020-10-06;6;10;2020;0;0;Gambie;GM;GMB;2347696.0;Afrique;2.30012744
 2020-10-05;5;10;2020;4;0;Gambie;GM;GMB;2347696.0;Afrique;2.89645678
 2020-10-04;4;10;2020;5;0;Gambie;GM;GMB;2347696.0;Afrique;3.66316593
@@ -16495,6 +16568,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-20;20;3;2020;0;0;Gambie;GM;GMB;2347696.0;Afrique;
 2020-03-19;19;3;2020;0;0;Gambie;GM;GMB;2347696.0;Afrique;
 2020-03-18;18;3;2020;1;0;Gambie;GM;GMB;2347696.0;Afrique;
+2020-10-07;7;10;2020;549;4;Géorgie;GE;GEO;3996762.0;Europe;127.72839614
 2020-10-06;6;10;2020;578;4;Géorgie;GE;GEO;3996762.0;Europe;119.67187438
 2020-10-05;5;10;2020;0;0;Géorgie;GE;GEO;3996762.0;Europe;110.66458298
 2020-10-04;4;10;2020;554;2;Géorgie;GE;GEO;3996762.0;Europe;115.49349198
@@ -16773,6 +16847,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Géorgie;GE;GEO;3996762.0;Europe;
 2020-01-01;1;1;2020;0;0;Géorgie;GE;GEO;3996762.0;Europe;
 2019-12-31;31;12;2019;0;0;Géorgie;GE;GEO;3996762.0;Europe;
+2020-10-07;7;10;2020;2828;16;Allemagne;DE;DEU;83019213.0;Europe;36.32773536
 2020-10-06;6;10;2020;2639;12;Allemagne;DE;DEU;83019213.0;Europe;35.05212703
 2020-10-05;5;10;2020;1382;5;Allemagne;DE;DEU;83019213.0;Europe;34.06681294
 2020-10-04;4;10;2020;2279;2;Allemagne;DE;DEU;83019213.0;Europe;33.51272434
@@ -17054,6 +17129,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Allemagne;DE;DEU;83019213.0;Europe;
 2020-01-01;1;1;2020;0;0;Allemagne;DE;DEU;83019213.0;Europe;
 2019-12-31;31;12;2019;0;0;Allemagne;DE;DEU;83019213.0;Europe;
+2020-10-07;7;10;2020;0;0;Ghana;GH;GHA;30417858.0;Afrique;2.34401778
 2020-10-06;6;10;2020;0;0;Ghana;GH;GHA;30417858.0;Afrique;2.52154507
 2020-10-05;5;10;2020;26;0;Ghana;GH;GHA;30417858.0;Afrique;2.71222254
 2020-10-04;4;10;2020;109;2;Ghana;GH;GHA;30417858.0;Afrique;3.04426433
@@ -17261,6 +17337,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;0;0;Ghana;GH;GHA;30417858.0;Afrique;
 2020-03-15;15;3;2020;0;0;Ghana;GH;GHA;30417858.0;Afrique;
 2020-03-13;13;3;2020;2;0;Ghana;GH;GHA;30417858.0;Afrique;
+2020-10-07;7;10;2020;5;0;Gibraltar;GI;GIB;33706.0;Europe;243.28012817
 2020-10-06;6;10;2020;0;0;Gibraltar;GI;GIB;33706.0;Europe;243.28012817
 2020-10-05;5;10;2020;4;0;Gibraltar;GI;GIB;33706.0;Europe;243.28012817
 2020-10-04;4;10;2020;12;0;Gibraltar;GI;GIB;33706.0;Europe;243.28012817
@@ -17462,6 +17539,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;0;0;Gibraltar;GI;GIB;33706.0;Europe;
 2020-03-21;21;3;2020;0;0;Gibraltar;GI;GIB;33706.0;Europe;
 2020-03-20;20;3;2020;10;0;Gibraltar;GI;GIB;33706.0;Europe;
+2020-10-07;7;10;2020;399;3;Grèce;EL;GRC;10724599.0;Europe;43.01326325
 2020-10-06;6;10;2020;300;8;Grèce;EL;GRC;10724599.0;Europe;42.39785562
 2020-10-05;5;10;2020;229;4;Grèce;EL;GRC;10724599.0;Europe;43.82448239
 2020-10-04;4;10;2020;267;7;Grèce;EL;GRC;10724599.0;Europe;43.21839912
@@ -17741,6 +17819,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Grèce;EL;GRC;10724599.0;Europe;
 2020-01-01;1;1;2020;0;0;Grèce;EL;GRC;10724599.0;Europe;
 2019-12-31;31;12;2019;0;0;Grèce;EL;GRC;10724599.0;Europe;
+2020-10-07;7;10;2020;0;0;Groeland;GL;GRL;56660.0;Europe;0.0
 2020-10-06;6;10;2020;0;0;Groeland;GL;GRL;56660.0;Europe;0.0
 2020-10-05;5;10;2020;0;0;Groeland;GL;GRL;56660.0;Europe;0.0
 2020-10-04;4;10;2020;0;0;Groeland;GL;GRL;56660.0;Europe;0.0
@@ -17942,6 +18021,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;0;0;Groeland;GL;GRL;56660.0;Europe;
 2020-03-21;21;3;2020;0;0;Groeland;GL;GRL;56660.0;Europe;
 2020-03-20;20;3;2020;2;0;Groeland;GL;GRL;56660.0;Europe;
+2020-10-07;7;10;2020;0;0;Grenade;GD;GRD;112002.0;Amérique latine & Caraïbes;0.0
 2020-10-06;6;10;2020;0;0;Grenade;GD;GRD;112002.0;Amérique latine & Caraïbes;0.0
 2020-10-05;5;10;2020;0;0;Grenade;GD;GRD;112002.0;Amérique latine & Caraïbes;0.0
 2020-10-04;4;10;2020;0;0;Grenade;GD;GRD;112002.0;Amérique latine & Caraïbes;0.0
@@ -18140,6 +18220,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-25;25;3;2020;0;0;Grenade;GD;GRD;112002.0;Amérique latine & Caraïbes;
 2020-03-24;24;3;2020;0;0;Grenade;GD;GRD;112002.0;Amérique latine & Caraïbes;
 2020-03-23;23;3;2020;1;0;Grenade;GD;GRD;112002.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;65;0;Guam;GU;GUM;167295.0;Pacifique occidental;375.38479931
 2020-10-06;6;10;2020;54;3;Guam;GU;GUM;167295.0;Pacifique occidental;362.2343764
 2020-10-05;5;10;2020;0;1;Guam;GU;GUM;167295.0;Pacifique occidental;347.8884605
 2020-10-04;4;10;2020;149;2;Guam;GU;GUM;167295.0;Pacifique occidental;347.8884605
@@ -18342,6 +18423,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-21;21;3;2020;2;0;Guam;GU;GUM;167295.0;Pacifique occidental;
 2020-03-20;20;3;2020;9;0;Guam;GU;GUM;167295.0;Pacifique occidental;
 2020-03-19;19;3;2020;3;0;Guam;GU;GUM;167295.0;Pacifique occidental;
+2020-10-07;7;10;2020;688;8;Guatemala;GT;GTM;17581476.0;Amérique latine & Caraïbes;46.9073245
 2020-10-06;6;10;2020;219;9;Guatemala;GT;GTM;17581476.0;Amérique latine & Caraïbes;48.35202687
 2020-10-05;5;10;2020;215;8;Guatemala;GT;GTM;17581476.0;Amérique latine & Caraïbes;48.45440735
 2020-10-04;4;10;2020;658;18;Guatemala;GT;GTM;17581476.0;Amérique latine & Caraïbes;48.89236831
@@ -18548,6 +18630,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;5;0;Guatemala;GT;GTM;17581476.0;Amérique latine & Caraïbes;
 2020-03-16;16;3;2020;0;1;Guatemala;GT;GTM;17581476.0;Amérique latine & Caraïbes;
 2020-03-15;15;3;2020;1;0;Guatemala;GT;GTM;17581476.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Guernesey;GG;GGY;64468.0;Europe;1.55115716
 2020-10-06;6;10;2020;0;0;Guernesey;GG;GGY;64468.0;Europe;1.55115716
 2020-10-05;5;10;2020;0;0;Guernesey;GG;GGY;64468.0;Europe;3.10231433
 2020-10-04;4;10;2020;1;0;Guernesey;GG;GGY;64468.0;Europe;4.65347149
@@ -18749,6 +18832,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;0;0;Guernesey;GG;GGY;64468.0;Europe;
 2020-03-21;21;3;2020;0;0;Guernesey;GG;GGY;64468.0;Europe;
 2020-03-20;20;3;2020;1;0;Guernesey;GG;GGY;64468.0;Europe;
+2020-10-07;7;10;2020;63;1;Guinée;GN;GIN;12771246.0;Afrique;3.72712263
 2020-10-06;6;10;2020;46;1;Guinée;GN;GIN;12771246.0;Afrique;3.57052084
 2020-10-05;5;10;2020;19;0;Guinée;GN;GIN;12771246.0;Afrique;3.35910842
 2020-10-04;4;10;2020;0;0;Guinée;GN;GIN;12771246.0;Afrique;3.51571021
@@ -18955,6 +19039,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;0;0;Guinée;GN;GIN;12771246.0;Afrique;
 2020-03-15;15;3;2020;0;0;Guinée;GN;GIN;12771246.0;Afrique;
 2020-03-14;14;3;2020;1;0;Guinée;GN;GIN;12771246.0;Afrique;
+2020-10-07;7;10;2020;0;0;Guinée Bissau;GW;GNB;1920917.0;Afrique;3.07144973
 2020-10-06;6;10;2020;0;0;Guinée Bissau;GW;GNB;1920917.0;Afrique;3.07144973
 2020-10-05;5;10;2020;0;0;Guinée Bissau;GW;GNB;1920917.0;Afrique;3.07144973
 2020-10-04;4;10;2020;0;0;Guinée Bissau;GW;GNB;1920917.0;Afrique;3.07144973
@@ -19149,6 +19234,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-29;29;3;2020;0;0;Guinée Bissau;GW;GNB;1920917.0;Afrique;
 2020-03-28;28;3;2020;0;0;Guinée Bissau;GW;GNB;1920917.0;Afrique;
 2020-03-27;27;3;2020;2;0;Guinée Bissau;GW;GNB;1920917.0;Afrique;
+2020-10-07;7;10;2020;0;2;Guyana;GY;GUY;782775.0;Amérique latine & Caraïbes;95.94072371
 2020-10-06;6;10;2020;95;3;Guyana;GY;GUY;782775.0;Amérique latine & Caraïbes;100.41199578
 2020-10-05;5;10;2020;88;2;Guyana;GY;GUY;782775.0;Amérique latine & Caraïbes;105.26651975
 2020-10-04;4;10;2020;37;0;Guyana;GY;GUY;782775.0;Amérique latine & Caraïbes;106.92727795
@@ -19355,6 +19441,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;0;0;Guyana;GY;GUY;782775.0;Amérique latine & Caraïbes;
 2020-03-16;16;3;2020;3;0;Guyana;GY;GUY;782775.0;Amérique latine & Caraïbes;
 2020-03-13;13;3;2020;1;1;Guyana;GY;GUY;782775.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;19;0;Haïti;HT;HTI;11263079.0;Amérique latine & Caraïbes;1.82010621
 2020-10-06;6;10;2020;0;0;Haïti;HT;HTI;11263079.0;Amérique latine & Caraïbes;1.73132054
 2020-10-05;5;10;2020;8;0;Haïti;HT;HTI;11263079.0;Amérique latine & Caraïbes;1.77571337
 2020-10-04;4;10;2020;19;0;Haïti;HT;HTI;11263079.0;Amérique latine & Caraïbes;1.74019911
@@ -19556,6 +19643,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;0;0;Haïti;HT;HTI;11263079.0;Amérique latine & Caraïbes;
 2020-03-21;21;3;2020;0;0;Haïti;HT;HTI;11263079.0;Amérique latine & Caraïbes;
 2020-03-20;20;3;2020;2;0;Haïti;HT;HTI;11263079.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Vatican;VA;VAT;815.0;Europe;0.0
 2020-10-06;6;10;2020;0;0;Vatican;VA;VAT;815.0;Europe;0.0
 2020-10-05;5;10;2020;0;0;Vatican;VA;VAT;815.0;Europe;0.0
 2020-10-04;4;10;2020;0;0;Vatican;VA;VAT;815.0;Europe;0.0
@@ -19762,6 +19850,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;0;0;Vatican;VA;VAT;815.0;Europe;
 2020-03-16;16;3;2020;0;0;Vatican;VA;VAT;815.0;Europe;
 2020-03-07;7;3;2020;1;0;Vatican;VA;VAT;815.0;Europe;
+2020-10-07;7;10;2020;642;14;Honduras;HN;HND;9746115.0;Amérique latine & Caraïbes;85.73672689
 2020-10-06;6;10;2020;391;11;Honduras;HN;HND;9746115.0;Amérique latine & Caraïbes;81.51966194
 2020-10-05;5;10;2020;841;23;Honduras;HN;HND;9746115.0;Amérique latine & Caraïbes;82.21737585
 2020-10-04;4;10;2020;519;13;Honduras;HN;HND;9746115.0;Amérique latine & Caraïbes;78.44151234
@@ -19969,6 +20058,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;3;0;Honduras;HN;HND;9746115.0;Amérique latine & Caraïbes;
 2020-03-14;14;3;2020;1;0;Honduras;HN;HND;9746115.0;Amérique latine & Caraïbes;
 2020-03-12;12;3;2020;2;0;Honduras;HN;HND;9746115.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;816;24;Hongrie;HU;HUN;9772756.0;Europe;129.58473536
 2020-10-06;6;10;2020;818;20;Hongrie;HU;HUN;9772756.0;Europe;130.96612665
 2020-10-05;5;10;2020;905;11;Hongrie;HU;HUN;9772756.0;Europe;129.07310896
 2020-10-04;4;10;2020;858;10;Hongrie;HU;HUN;9772756.0;Europe;128.77636564
@@ -20184,6 +20274,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-08;8;3;2020;3;0;Hongrie;HU;HUN;9772756.0;Europe;
 2020-03-07;7;3;2020;2;0;Hongrie;HU;HUN;9772756.0;Europe;
 2020-03-05;5;3;2020;2;0;Hongrie;HU;HUN;9772756.0;Europe;
+2020-10-07;7;10;2020;101;0;Islande;IS;ISL;356991.0;Europe;185.4388486
 2020-10-06;6;10;2020;59;0;Islande;IS;ISL;356991.0;Europe;168.91182131
 2020-10-05;5;10;2020;49;0;Islande;IS;ISL;356991.0;Europe;161.06848632
 2020-10-04;4;10;2020;63;0;Islande;IS;ISL;356991.0;Europe;158.26729525
@@ -20465,6 +20556,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Islande;IS;ISL;356991.0;Europe;
 2020-01-01;1;1;2020;0;0;Islande;IS;ISL;356991.0;Europe;
 2019-12-31;31;12;2019;0;0;Islande;IS;ISL;356991.0;Europe;
+2020-10-07;7;10;2020;72049;986;Inde;IN;IND;1366417756.0;Asie du Sud-Est;81.31634671
 2020-10-06;6;10;2020;61267;884;Inde;IN;IND;1366417756.0;Asie du Sud-Est;82.14318023
 2020-10-05;5;10;2020;74442;903;Inde;IN;IND;1366417756.0;Asie du Sud-Est;83.15429121
 2020-10-04;4;10;2020;75829;940;Inde;IN;IND;1366417756.0;Asie du Sud-Est;84.07048247
@@ -20745,6 +20837,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Inde;IN;IND;1366417756.0;Asie du Sud-Est;
 2020-01-01;1;1;2020;0;0;Inde;IN;IND;1366417756.0;Asie du Sud-Est;
 2019-12-31;31;12;2019;0;0;Inde;IN;IND;1366417756.0;Asie du Sud-Est;
+2020-10-07;7;10;2020;4056;121;Indonésie;ID;IDN;270625567.0;Asie du Sud-Est;21.52531287
 2020-10-06;6;10;2020;3622;102;Indonésie;ID;IDN;270625567.0;Asie du Sud-Est;21.53085558
 2020-10-05;5;10;2020;3992;96;Indonésie;ID;IDN;270625567.0;Asie du Sud-Est;21.73556647
 2020-10-04;4;10;2020;4007;83;Indonésie;ID;IDN;270625567.0;Asie du Sud-Est;21.73445793
@@ -21019,6 +21112,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Indonésie;ID;IDN;270625567.0;Asie du Sud-Est;
 2020-01-01;1;1;2020;0;0;Indonésie;ID;IDN;270625567.0;Asie du Sud-Est;
 2019-12-31;31;12;2019;0;0;Indonésie;ID;IDN;270625567.0;Asie du Sud-Est;
+2020-10-07;7;10;2020;4151;227;Iran;IR;IRN;82913893.0;Méditerranée orientale;61.06576132
 2020-10-06;6;10;2020;3902;235;Iran;IR;IRN;82913893.0;Méditerranée orientale;60.53629637
 2020-10-05;5;10;2020;3653;211;Iran;IR;IRN;82913893.0;Méditerranée orientale;59.85969082
 2020-10-04;4;10;2020;3523;179;Iran;IR;IRN;82913893.0;Méditerranée orientale;59.18911563
@@ -21300,6 +21394,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Iran;IR;IRN;82913893.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Iran;IR;IRN;82913893.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Iran;IR;IRN;82913893.0;Méditerranée orientale;
+2020-10-07;7;10;2020;4172;67;Irak;IQ;IRQ;39309789.0;Méditerranée orientale;151.46608902
 2020-10-06;6;10;2020;3808;65;Irak;IQ;IRQ;39309789.0;Méditerranée orientale;152.8703194
 2020-10-05;5;10;2020;3210;52;Irak;IQ;IRQ;39309789.0;Méditerranée orientale;152.90339004
 2020-10-04;4;10;2020;3672;49;Irak;IQ;IRQ;39309789.0;Méditerranée orientale;153.48339824
@@ -21579,6 +21674,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Irak;IQ;IRQ;39309789.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Irak;IQ;IRQ;39309789.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Irak;IQ;IRQ;39309789.0;Méditerranée orientale;
+2020-10-07;7;10;2020;424;1;Irlande;IE;IRL;4904240.0;Europe;112.77996183
 2020-10-06;6;10;2020;519;0;Irlande;IE;IRL;4904240.0;Europe;110.72051939
 2020-10-05;5;10;2020;364;0;Irlande;IE;IRL;4904240.0;Europe;103.97125752
 2020-10-04;4;10;2020;605;9;Irlande;IE;IRL;4904240.0;Europe;104.60336362
@@ -21858,6 +21954,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Irlande;IE;IRL;4904240.0;Europe;
 2020-01-01;1;1;2020;0;0;Irlande;IE;IRL;4904240.0;Europe;
 2019-12-31;31;12;2019;0;0;Irlande;IE;IRL;4904240.0;Europe;
+2020-10-07;7;10;2020;1;0;Île de Man;IM;IMN;84589.0;Europe;5.91093405
 2020-10-06;6;10;2020;2;0;Île de Man;IM;IMN;84589.0;Europe;4.72874724
 2020-10-05;5;10;2020;0;0;Île de Man;IM;IMN;84589.0;Europe;3.54656043
 2020-10-04;4;10;2020;1;0;Île de Man;IM;IMN;84589.0;Europe;3.54656043
@@ -22058,6 +22155,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-23;23;3;2020;0;0;Île de Man;IM;IMN;84589.0;Europe;
 2020-03-22;22;3;2020;1;0;Île de Man;IM;IMN;84589.0;Europe;
 2020-03-21;21;3;2020;1;0;Île de Man;IM;IMN;84589.0;Europe;
+2020-10-07;7;10;2020;4717;40;Israël;IL;ISR;8519373.0;Europe;981.9032457000001
 2020-10-06;6;10;2020;4134;38;Israël;IL;ISR;8519373.0;Europe;935.86699397
 2020-10-05;5;10;2020;3318;37;Israël;IL;ISR;8519373.0;Europe;936.07827712
 2020-10-04;4;10;2020;5955;49;Israël;IL;ISR;8519373.0;Europe;953.76737232
@@ -22336,6 +22434,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Israël;IL;ISR;8519373.0;Europe;
 2020-01-01;1;1;2020;0;0;Israël;IL;ISR;8519373.0;Europe;
 2019-12-31;31;12;2019;0;0;Israël;IL;ISR;8519373.0;Europe;
+2020-10-07;7;10;2020;2677;28;Italie;IT;ITA;60359546.0;Europe;48.65179072
 2020-10-06;6;10;2020;2257;16;Italie;IT;ITA;60359546.0;Europe;46.52122466
 2020-10-05;5;10;2020;2578;18;Italie;IT;ITA;60359546.0;Europe;45.018562599999996
 2020-10-04;4;10;2020;2843;27;Italie;IT;ITA;60359546.0;Europe;43.37673448
@@ -22617,6 +22716,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Italie;IT;ITA;60359546.0;Europe;
 2020-01-01;1;1;2020;0;0;Italie;IT;ITA;60359546.0;Europe;
 2019-12-31;31;12;2019;0;0;Italie;IT;ITA;60359546.0;Europe;
+2020-10-07;7;10;2020;97;3;Jamaïque;JM;JAM;2948277.0;Amérique latine & Caraïbes;63.01985872
 2020-10-06;6;10;2020;117;0;Jamaïque;JM;JAM;2948277.0;Amérique latine & Caraïbes;64.10523842
 2020-10-05;5;10;2020;100;1;Jamaïque;JM;JAM;2948277.0;Amérique latine & Caraïbes;64.68184638
 2020-10-04;4;10;2020;104;3;Jamaïque;JM;JAM;2948277.0;Amérique latine & Caraïbes;69.0912014
@@ -22825,6 +22925,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-14;14;3;2020;2;0;Jamaïque;JM;JAM;2948277.0;Amérique latine & Caraïbes;
 2020-03-13;13;3;2020;4;0;Jamaïque;JM;JAM;2948277.0;Amérique latine & Caraïbes;
 2020-03-12;12;3;2020;2;0;Jamaïque;JM;JAM;2948277.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;496;3;Japon;JP;JPN;126860299.0;Pacifique occidental;5.34052028
 2020-10-06;6;10;2020;308;3;Japon;JP;JPN;126860299.0;Pacifique occidental;5.20966768
 2020-10-05;5;10;2020;400;2;Japon;JP;JPN;126860299.0;Pacifique occidental;5.58251877
 2020-10-04;4;10;2020;571;7;Japon;JP;JPN;126860299.0;Pacifique occidental;5.2672113
@@ -23106,6 +23207,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Japon;JP;JPN;126860299.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Japon;JP;JPN;126860299.0;Pacifique occidental;
 2019-12-31;31;12;2019;0;0;Japon;JP;JPN;126860299.0;Pacifique occidental;
+2020-10-07;7;10;2020;7;0;Jersey;JE;JEY;107796.0;Europe;37.10712828
 2020-10-06;6;10;2020;10;0;Jersey;JE;JEY;107796.0;Europe;32.46873724
 2020-10-05;5;10;2020;0;0;Jersey;JE;JEY;107796.0;Europe;25.974989800000003
 2020-10-04;4;10;2020;0;0;Jersey;JE;JEY;107796.0;Europe;25.974989800000003
@@ -23307,6 +23409,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;0;0;Jersey;JE;JEY;107796.0;Europe;
 2020-03-21;21;3;2020;7;0;Jersey;JE;JEY;107796.0;Europe;
 2020-03-20;20;3;2020;5;0;Jersey;JE;JEY;107796.0;Europe;
+2020-10-07;7;10;2020;1537;12;Jordanie;JO;JOR;10101697.0;Méditerranée orientale;131.87883184
 2020-10-06;6;10;2020;1824;9;Jordanie;JO;JOR;10101697.0;Méditerranée orientale;122.93973973
 2020-10-05;5;10;2020;891;13;Jordanie;JO;JOR;10101697.0;Méditerranée orientale;107.51658855
 2020-10-04;4;10;2020;1099;9;Jordanie;JO;JOR;10101697.0;Méditerranée orientale;101.06222747
@@ -23515,6 +23618,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-15;15;3;2020;0;0;Jordanie;JO;JOR;10101697.0;Méditerranée orientale;
 2020-03-08;8;3;2020;0;0;Jordanie;JO;JOR;10101697.0;Méditerranée orientale;
 2020-03-03;3;3;2020;1;0;Jordanie;JO;JOR;10101697.0;Méditerranée orientale;
+2020-10-07;7;10;2020;335;22;Kazakhstan;KZ;KAZ;18551428.0;Europe;17.55659996
 2020-10-06;6;10;2020;60;0;Kazakhstan;KZ;KAZ;18551428.0;Europe;18.12259412
 2020-10-05;5;10;2020;96;2;Kazakhstan;KZ;KAZ;18551428.0;Europe;18.26813548
 2020-10-04;4;10;2020;264;0;Kazakhstan;KZ;KAZ;18551428.0;Europe;18.3274301
@@ -23721,6 +23825,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;2;0;Kazakhstan;KZ;KAZ;18551428.0;Europe;
 2020-03-16;16;3;2020;3;0;Kazakhstan;KZ;KAZ;18551428.0;Europe;
 2020-03-15;15;3;2020;6;0;Kazakhstan;KZ;KAZ;18551428.0;Europe;
+2020-10-07;7;10;2020;137;8;Kenya;KE;KEN;52573967.0;Afrique;4.50413034
 2020-10-06;6;10;2020;22;4;Kenya;KE;KEN;52573967.0;Afrique;4.50793451
 2020-10-05;5;10;2020;243;3;Kenya;KE;KEN;52573967.0;Afrique;4.65249274
 2020-10-04;4;10;2020;261;3;Kenya;KE;KEN;52573967.0;Afrique;4.47940328
@@ -23928,6 +24033,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;2;0;Kenya;KE;KEN;52573967.0;Afrique;
 2020-03-15;15;3;2020;0;0;Kenya;KE;KEN;52573967.0;Afrique;
 2020-03-14;14;3;2020;1;0;Kenya;KE;KEN;52573967.0;Afrique;
+2020-10-07;7;10;2020;0;0;Kosovo;XK;XKX;1798506.0;Europe;33.69463321
 2020-10-06;6;10;2020;0;0;Kosovo;XK;XKX;1798506.0;Europe;37.36434574
 2020-10-05;5;10;2020;56;0;Kosovo;XK;XKX;1798506.0;Europe;41.75688043
 2020-10-04;4;10;2020;55;3;Kosovo;XK;XKX;1798506.0;Europe;42.03488896
@@ -24135,6 +24241,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;8;0;Kosovo;XK;XKX;1798506.0;Europe;
 2020-03-15;15;3;2020;3;0;Kosovo;XK;XKX;1798506.0;Europe;
 2020-03-14;14;3;2020;2;0;Kosovo;XK;XKX;1798506.0;Europe;
+2020-10-07;7;10;2020;676;4;Koweït;KW;KWT;4207077.0;Méditerranée orientale;180.29144701
 2020-10-06;6;10;2020;567;4;Koweït;KW;KWT;4207077.0;Méditerranée orientale;181.31353431
 2020-10-05;5;10;2020;567;4;Koweït;KW;KWT;4207077.0;Méditerranée orientale;180.43406384
 2020-10-04;4;10;2020;371;5;Koweït;KW;KWT;4207077.0;Méditerranée orientale;176.10801989
@@ -24413,6 +24520,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Koweït;KW;KWT;4207077.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Koweït;KW;KWT;4207077.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Koweït;KW;KWT;4207077.0;Méditerranée orientale;
+2020-10-07;7;10;2020;0;0;Kirghizistan;KG;KGZ;6415851.0;Europe;33.80689483
 2020-10-06;6;10;2020;164;0;Kirghizistan;KG;KGZ;6415851.0;Europe;35.17849776
 2020-10-05;5;10;2020;207;0;Kirghizistan;KG;KGZ;6415851.0;Europe;33.72896285
 2020-10-04;4;10;2020;244;1;Kirghizistan;KG;KGZ;6415851.0;Europe;31.35983052
@@ -24615,6 +24723,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-21;21;3;2020;0;0;Kirghizistan;KG;KGZ;6415851.0;Europe;
 2020-03-20;20;3;2020;3;0;Kirghizistan;KG;KGZ;6415851.0;Europe;
 2020-03-19;19;3;2020;3;0;Kirghizistan;KG;KGZ;6415851.0;Europe;
+2020-10-07;7;10;2020;0;0;Laos;LA;LAO;7169456.0;Pacifique occidental;0.0
 2020-10-06;6;10;2020;0;0;Laos;LA;LAO;7169456.0;Pacifique occidental;0.0
 2020-10-05;5;10;2020;0;0;Laos;LA;LAO;7169456.0;Pacifique occidental;0.0
 2020-10-04;4;10;2020;0;0;Laos;LA;LAO;7169456.0;Pacifique occidental;0.0
@@ -24811,6 +24920,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-27;27;3;2020;4;0;Laos;LA;LAO;7169456.0;Pacifique occidental;
 2020-03-26;26;3;2020;0;0;Laos;LA;LAO;7169456.0;Pacifique occidental;
 2020-03-25;25;3;2020;2;0;Laos;LA;LAO;7169456.0;Pacifique occidental;
+2020-10-07;7;10;2020;68;0;Lettonie;LV;LVA;1919968.0;Europe;33.02138369
 2020-10-06;6;10;2020;40;1;Lettonie;LV;LVA;1919968.0;Europe;31.25052084
 2020-10-05;5;10;2020;67;0;Lettonie;LV;LVA;1919968.0;Europe;29.21923699
 2020-10-04;4;10;2020;74;0;Lettonie;LV;LVA;1919968.0;Europe;26.25043751
@@ -25025,6 +25135,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-09;9;3;2020;1;0;Lettonie;LV;LVA;1919968.0;Europe;
 2020-03-08;8;3;2020;1;0;Lettonie;LV;LVA;1919968.0;Europe;
 2020-03-03;3;3;2020;1;0;Lettonie;LV;LVA;1919968.0;Europe;
+2020-10-07;7;10;2020;1261;10;Liban;LB;LBN;6855709.0;Méditerranée orientale;234.34483581
 2020-10-06;6;10;2020;1175;8;Liban;LB;LBN;6855709.0;Méditerranée orientale;228.56862799
 2020-10-05;5;10;2020;988;8;Liban;LB;LBN;6855709.0;Méditerranée orientale;221.40671373
 2020-10-04;4;10;2020;1321;12;Liban;LB;LBN;6855709.0;Méditerranée orientale;221.66926863
@@ -25302,6 +25413,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Liban;LB;LBN;6855709.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Liban;LB;LBN;6855709.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Liban;LB;LBN;6855709.0;Méditerranée orientale;
+2020-10-07;7;10;2020;0;0;Lesotho;LS;LSO;2125267.0;Afrique;12.18670407
 2020-10-06;6;10;2020;3;0;Lesotho;LS;LSO;2125267.0;Afrique;12.18670407
 2020-10-05;5;10;2020;0;0;Lesotho;LS;LSO;2125267.0;Afrique;12.04554534
 2020-10-04;4;10;2020;0;0;Lesotho;LS;LSO;2125267.0;Afrique;13.64534433
@@ -25447,6 +25559,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-05-17;17;5;2020;0;0;Lesotho;LS;LSO;2125267.0;Afrique;
 2020-05-16;16;5;2020;0;0;Lesotho;LS;LSO;2125267.0;Afrique;
 2020-05-15;15;5;2020;1;0;Lesotho;LS;LSO;2125267.0;Afrique;
+2020-10-07;7;10;2020;0;0;Liberia;LR;LBR;4937374.0;Afrique;0.36456627
 2020-10-06;6;10;2020;6;0;Liberia;LR;LBR;4937374.0;Afrique;0.36456627
 2020-10-05;5;10;2020;1;0;Liberia;LR;LBR;4937374.0;Afrique;0.26329786
 2020-10-04;4;10;2020;1;0;Liberia;LR;LBR;4937374.0;Afrique;0.24304418
@@ -25651,6 +25764,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-19;19;3;2020;0;0;Liberia;LR;LBR;4937374.0;Afrique;
 2020-03-18;18;3;2020;1;0;Liberia;LR;LBR;4937374.0;Afrique;
 2020-03-17;17;3;2020;1;0;Liberia;LR;LBR;4937374.0;Afrique;
+2020-10-07;7;10;2020;1031;6;Libye;LY;LBY;6777453.0;Méditerranée orientale;133.11785416
 2020-10-06;6;10;2020;628;4;Libye;LY;LBY;6777453.0;Méditerranée orientale;127.49627331
 2020-10-05;5;10;2020;722;14;Libye;LY;LBY;6777453.0;Méditerranée orientale;130.72757568
 2020-10-04;4;10;2020;370;8;Libye;LY;LBY;6777453.0;Méditerranée orientale;130.62429205
@@ -25847,6 +25961,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-27;27;3;2020;0;0;Libye;LY;LBY;6777453.0;Méditerranée orientale;
 2020-03-26;26;3;2020;0;0;Libye;LY;LBY;6777453.0;Méditerranée orientale;
 2020-03-25;25;3;2020;1;0;Libye;LY;LBY;6777453.0;Méditerranée orientale;
+2020-10-07;7;10;2020;1;0;Liechtenstein;LI;LIE;38378.0;Europe;36.47923289
 2020-10-06;6;10;2020;3;0;Liechtenstein;LI;LIE;38378.0;Europe;39.08489239
 2020-10-05;5;10;2020;3;0;Liechtenstein;LI;LIE;38378.0;Europe;36.47923289
 2020-10-04;4;10;2020;2;0;Liechtenstein;LI;LIE;38378.0;Europe;28.66225442
@@ -26057,6 +26172,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-13;13;3;2020;1;0;Liechtenstein;LI;LIE;38378.0;Europe;
 2020-03-12;12;3;2020;2;0;Liechtenstein;LI;LIE;38378.0;Europe;
 2020-03-05;5;3;2020;1;0;Liechtenstein;LI;LIE;38378.0;Europe;
+2020-10-07;7;10;2020;81;5;Lituanie;LT;LTU;2794184.0;Europe;53.93345606
 2020-10-06;6;10;2020;100;0;Lituanie;LT;LTU;2794184.0;Europe;52.64506561
 2020-10-05;5;10;2020;104;0;Lituanie;LT;LTU;2794184.0;Europe;51.57140689
 2020-10-04;4;10;2020;125;1;Lituanie;LT;LTU;2794184.0;Europe;50.71247992
@@ -26329,6 +26445,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Lituanie;LT;LTU;2794184.0;Europe;
 2020-01-01;1;1;2020;0;0;Lituanie;LT;LTU;2794184.0;Europe;
 2019-12-31;31;12;2019;0;0;Lituanie;LT;LTU;2794184.0;Europe;
+2020-10-07;7;10;2020;54;1;Luxembourg;LU;LUX;613894.0;Europe;156.86747223
 2020-10-06;6;10;2020;216;2;Luxembourg;LU;LUX;613894.0;Europe;164.36062252
 2020-10-05;5;10;2020;0;0;Luxembourg;LU;LUX;613894.0;Europe;147.41958709
 2020-10-04;4;10;2020;0;0;Luxembourg;LU;LUX;613894.0;Europe;161.42852023
@@ -26603,6 +26720,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Luxembourg;LU;LUX;613894.0;Europe;
 2020-01-01;1;1;2020;0;0;Luxembourg;LU;LUX;613894.0;Europe;
 2019-12-31;31;12;2019;0;0;Luxembourg;LU;LUX;613894.0;Europe;
+2020-10-07;7;10;2020;30;1;Madagascar;MG;MDG;26969306.0;Afrique;1.72047438
 2020-10-06;6;10;2020;12;1;Madagascar;MG;MDG;26969306.0;Afrique;1.8428357
 2020-10-05;5;10;2020;29;0;Madagascar;MG;MDG;26969306.0;Afrique;1.87249906
 2020-10-04;4;10;2020;36;0;Madagascar;MG;MDG;26969306.0;Afrique;1.88733073
@@ -26803,6 +26921,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-23;23;3;2020;0;0;Madagascar;MG;MDG;26969306.0;Afrique;
 2020-03-22;22;3;2020;0;0;Madagascar;MG;MDG;26969306.0;Afrique;
 2020-03-21;21;3;2020;3;0;Madagascar;MG;MDG;26969306.0;Afrique;
+2020-10-07;7;10;2020;2;0;Malawi;MW;MWI;18628749.0;Afrique;0.31671477
 2020-10-06;6;10;2020;8;1;Malawi;MW;MWI;18628749.0;Afrique;0.32745087
 2020-10-05;5;10;2020;3;0;Malawi;MW;MWI;18628749.0;Afrique;0.29524258
 2020-10-04;4;10;2020;0;0;Malawi;MW;MWI;18628749.0;Afrique;0.35965915
@@ -26990,6 +27109,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-05;5;4;2020;1;0;Malawi;MW;MWI;18628749.0;Afrique;
 2020-04-04;4;4;2020;0;0;Malawi;MW;MWI;18628749.0;Afrique;
 2020-04-03;3;4;2020;3;0;Malawi;MW;MWI;18628749.0;Afrique;
+2020-10-07;7;10;2020;691;4;Malaisie;MY;MYS;31949789.0;Pacifique occidental;9.8467004
 2020-10-06;6;10;2020;432;0;Malaisie;MY;MYS;31949789.0;Pacifique occidental;7.94058452
 2020-10-05;5;10;2020;293;0;Malaisie;MY;MYS;31949789.0;Pacifique occidental;6.76686785
 2020-10-04;4;10;2020;317;1;Malaisie;MY;MYS;31949789.0;Pacifique occidental;6.01255927
@@ -27270,6 +27390,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Malaisie;MY;MYS;31949789.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Malaisie;MY;MYS;31949789.0;Pacifique occidental;
 2019-12-31;31;12;2019;0;0;Malaisie;MY;MYS;31949789.0;Pacifique occidental;
+2020-10-07;7;10;2020;54;0;Maldives;MV;MDV;530957.0;Asie du Sud-Est;151.23635247
 2020-10-06;6;10;2020;37;0;Maldives;MV;MDV;530957.0;Asie du Sud-Est;150.10631746
 2020-10-05;5;10;2020;65;0;Maldives;MV;MDV;530957.0;Asie du Sud-Est;151.80136998
 2020-10-04;4;10;2020;67;0;Maldives;MV;MDV;530957.0;Asie du Sud-Est;153.68476167
@@ -27481,6 +27602,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-11;11;3;2020;2;0;Maldives;MV;MDV;530957.0;Asie du Sud-Est;
 2020-03-09;9;3;2020;2;0;Maldives;MV;MDV;530957.0;Asie du Sud-Est;
 2020-03-08;8;3;2020;2;0;Maldives;MV;MDV;530957.0;Asie du Sud-Est;
+2020-10-07;7;10;2020;6;0;Mali;ML;MLI;19658023.0;Afrique;0.83935195
 2020-10-06;6;10;2020;5;0;Mali;ML;MLI;19658023.0;Afrique;0.83935195
 2020-10-05;5;10;2020;14;0;Mali;ML;MLI;19658023.0;Afrique;0.86987384
 2020-10-04;4;10;2020;14;0;Mali;ML;MLI;19658023.0;Afrique;0.83426497
@@ -27676,6 +27798,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-28;28;3;2020;0;0;Mali;ML;MLI;19658023.0;Afrique;
 2020-03-27;27;3;2020;2;0;Mali;ML;MLI;19658023.0;Afrique;
 2020-03-26;26;3;2020;2;0;Mali;ML;MLI;19658023.0;Afrique;
+2020-10-07;7;10;2020;47;1;Malte;MT;MLT;493559.0;Europe;113.25900247
 2020-10-06;6;10;2020;188;2;Malte;MT;MLT;493559.0;Europe;111.43551227
 2020-10-05;5;10;2020;0;0;Malte;MT;MLT;493559.0;Europe;82.6648891
 2020-10-04;4;10;2020;0;0;Malte;MT;MLT;493559.0;Europe;89.14840982
@@ -27890,6 +28013,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-09;9;3;2020;2;0;Malte;MT;MLT;493559.0;Europe;
 2020-03-08;8;3;2020;0;0;Malte;MT;MLT;493559.0;Europe;
 2020-03-07;7;3;2020;1;0;Malte;MT;MLT;493559.0;Europe;
+2020-10-07;7;10;2020;0;0;Mauritanie;MR;MRT;4525698.0;Afrique;3.07134944
 2020-10-06;6;10;2020;3;1;Mauritanie;MR;MRT;4525698.0;Afrique;3.07134944
 2020-10-05;5;10;2020;9;0;Mauritanie;MR;MRT;4525698.0;Afrique;3.35859794
 2020-10-04;4;10;2020;6;0;Mauritanie;MR;MRT;4525698.0;Afrique;3.31440587
@@ -28096,6 +28220,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;0;0;Mauritanie;MR;MRT;4525698.0;Afrique;
 2020-03-16;16;3;2020;0;0;Mauritanie;MR;MRT;4525698.0;Afrique;
 2020-03-15;15;3;2020;1;0;Mauritanie;MR;MRT;4525698.0;Afrique;
+2020-10-07;7;10;2020;14;0;Maurice;MU;MUS;1269670.0;Afrique;2.20529744
 2020-10-06;6;10;2020;0;0;Maurice;MU;MUS;1269670.0;Afrique;1.10264872
 2020-10-05;5;10;2020;0;0;Maurice;MU;MUS;1269670.0;Afrique;1.10264872
 2020-10-04;4;10;2020;0;0;Maurice;MU;MUS;1269670.0;Afrique;1.10264872
@@ -28297,6 +28422,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;2;1;Maurice;MU;MUS;1269670.0;Afrique;
 2020-03-21;21;3;2020;9;0;Maurice;MU;MUS;1269670.0;Afrique;
 2020-03-20;20;3;2020;3;0;Maurice;MU;MUS;1269670.0;Afrique;
+2020-10-07;7;10;2020;4476;446;Mexique;MX;MEX;127575529.0;Amérique du Nord;50.39759623
 2020-10-06;6;10;2020;3417;180;Mexique;MX;MEX;127575529.0;Amérique du Nord;50.55985306
 2020-10-05;5;10;2020;3712;208;Mexique;MX;MEX;127575529.0;Amérique du Nord;50.16792837
 2020-10-04;4;10;2020;4863;388;Mexique;MX;MEX;127575529.0;Amérique du Nord;50.03467397
@@ -28570,6 +28696,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Mexique;MX;MEX;127575529.0;Amérique du Nord;
 2020-01-01;1;1;2020;0;0;Mexique;MX;MEX;127575529.0;Amérique du Nord;
 2019-12-31;31;12;2019;0;0;Mexique;MX;MEX;127575529.0;Amérique du Nord;
+2020-10-07;7;10;2020;831;14;Moldavie;MD;MDA;4043258.0;Europe;254.39880413
 2020-10-06;6;10;2020;322;9;Moldavie;MD;MDA;4043258.0;Europe;249.92221619
 2020-10-05;5;10;2020;691;13;Moldavie;MD;MDA;4043258.0;Europe;246.90484753
 2020-10-04;4;10;2020;872;9;Moldavie;MD;MDA;4043258.0;Europe;236.24512707
@@ -28781,6 +28908,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-12;12;3;2020;1;0;Moldavie;MD;MDA;4043258.0;Europe;
 2020-03-11;11;3;2020;2;0;Moldavie;MD;MDA;4043258.0;Europe;
 2020-03-08;8;3;2020;1;0;Moldavie;MD;MDA;4043258.0;Europe;
+2020-10-07;7;10;2020;1;0;Monaco;MC;MCO;33085.0;Europe;81.60797945
 2020-10-06;6;10;2020;1;0;Monaco;MC;MCO;33085.0;Europe;84.63049720000001
 2020-10-05;5;10;2020;0;0;Monaco;MC;MCO;33085.0;Europe;87.65301496
 2020-10-04;4;10;2020;1;0;Monaco;MC;MCO;33085.0;Europe;90.67553272
@@ -29050,6 +29178,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Monaco;MC;MCO;33085.0;Europe;
 2020-01-01;1;1;2020;0;0;Monaco;MC;MCO;33085.0;Europe;
 2019-12-31;31;12;2019;0;0;Monaco;MC;MCO;33085.0;Europe;
+2020-10-07;7;10;2020;0;0;Mongolie;MN;MNG;3225166.0;Pacifique occidental;0.06201231
 2020-10-06;6;10;2020;1;0;Mongolie;MN;MNG;3225166.0;Pacifique occidental;0.06201231
 2020-10-05;5;10;2020;1;0;Mongolie;MN;MNG;3225166.0;Pacifique occidental;0.06201231
 2020-10-04;4;10;2020;0;0;Mongolie;MN;MNG;3225166.0;Pacifique occidental;0.03100616
@@ -29255,6 +29384,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-18;18;3;2020;3;0;Mongolie;MN;MNG;3225166.0;Pacifique occidental;
 2020-03-15;15;3;2020;0;0;Mongolie;MN;MNG;3225166.0;Pacifique occidental;
 2020-03-10;10;3;2020;1;0;Mongolie;MN;MNG;3225166.0;Pacifique occidental;
+2020-10-07;7;10;2020;225;6;Monténégro;ME;MNE;622182.0;Europe;553.85723149
 2020-10-06;6;10;2020;232;3;Monténégro;ME;MNE;622182.0;Europe;565.26868344
 2020-10-05;5;10;2020;193;5;Monténégro;ME;MNE;622182.0;Europe;564.94723409
 2020-10-04;4;10;2020;244;2;Monténégro;ME;MNE;622182.0;Europe;648.68478998
@@ -29458,6 +29588,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-20;20;3;2020;5;0;Monténégro;ME;MNE;622182.0;Europe;
 2020-03-19;19;3;2020;6;0;Monténégro;ME;MNE;622182.0;Europe;
 2020-03-18;18;3;2020;2;0;Monténégro;ME;MNE;622182.0;Europe;
+2020-10-07;7;10;2020;0;0;Montserrat;MS;MSF;4991.0;Amérique latine & Caraïbes;0.0
 2020-10-06;6;10;2020;0;0;Montserrat;MS;MSF;4991.0;Amérique latine & Caraïbes;0.0
 2020-10-05;5;10;2020;0;0;Montserrat;MS;MSF;4991.0;Amérique latine & Caraïbes;0.0
 2020-10-04;4;10;2020;0;0;Montserrat;MS;MSF;4991.0;Amérique latine & Caraïbes;0.0
@@ -29657,6 +29788,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-23;23;3;2020;0;0;Montserrat;MS;MSF;4991.0;Amérique latine & Caraïbes;
 2020-03-22;22;3;2020;0;0;Montserrat;MS;MSF;4991.0;Amérique latine & Caraïbes;
 2020-03-21;21;3;2020;1;0;Montserrat;MS;MSF;4991.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;2553;41;Maroc;MA;MAR;36471766.0;Méditerranée orientale;87.47040108
 2020-10-06;6;10;2020;1423;39;Maroc;MA;MAR;36471766.0;Méditerranée orientale;86.57655897
 2020-10-05;5;10;2020;2044;37;Maroc;MA;MAR;36471766.0;Méditerranée orientale;86.44769217
 2020-10-04;4;10;2020;2663;30;Maroc;MA;MAR;36471766.0;Méditerranée orientale;86.12689608
@@ -29868,6 +30000,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-12;12;3;2020;3;1;Maroc;MA;MAR;36471766.0;Méditerranée orientale;
 2020-03-06;6;3;2020;1;0;Maroc;MA;MAR;36471766.0;Méditerranée orientale;
 2020-03-03;3;3;2020;1;0;Maroc;MA;MAR;36471766.0;Méditerranée orientale;
+2020-10-07;7;10;2020;102;1;Mozambique;MZ;MOZ;30366043.0;Afrique;7.52155953
 2020-10-06;6;10;2020;100;0;Mozambique;MZ;MOZ;30366043.0;Afrique;7.85087474
 2020-10-05;5;10;2020;147;2;Mozambique;MZ;MOZ;30366043.0;Afrique;7.98589398
 2020-10-04;4;10;2020;70;0;Mozambique;MZ;MOZ;30366043.0;Afrique;8.27239822
@@ -30066,6 +30199,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-25;25;3;2020;0;0;Mozambique;MZ;MOZ;30366043.0;Afrique;
 2020-03-24;24;3;2020;0;0;Mozambique;MZ;MOZ;30366043.0;Afrique;
 2020-03-23;23;3;2020;1;0;Mozambique;MZ;MOZ;30366043.0;Afrique;
+2020-10-07;7;10;2020;1252;27;Birmanie;MM;MMR;54045422.0;Asie du Sud-Est;24.1907631
 2020-10-06;6;10;2020;987;32;Birmanie;MM;MMR;54045422.0;Asie du Sud-Est;22.77713735
 2020-10-05;5;10;2020;1291;41;Birmanie;MM;MMR;54045422.0;Asie du Sud-Est;22.1831925
 2020-10-04;4;10;2020;978;18;Birmanie;MM;MMR;54045422.0;Asie du Sud-Est;20.79732119
@@ -30264,6 +30398,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-25;25;3;2020;1;0;Birmanie;MM;MMR;54045422.0;Asie du Sud-Est;
 2020-03-24;24;3;2020;2;0;Birmanie;MM;MMR;54045422.0;Asie du Sud-Est;
 2020-03-17;17;3;2020;0;0;Birmanie;MM;MMR;54045422.0;Asie du Sud-Est;
+2020-10-07;7;10;2020;19;0;Namibie;;NAM;2494524.0;Afrique;42.73360369
 2020-10-06;6;10;2020;28;2;Namibie;;NAM;2494524.0;Afrique;45.21904779999999
 2020-10-05;5;10;2020;54;0;Namibie;;NAM;2494524.0;Afrique;50.06967261
 2020-10-04;4;10;2020;92;0;Namibie;;NAM;2494524.0;Afrique;51.31239467
@@ -30470,6 +30605,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;0;0;Namibie;;NAM;2494524.0;Afrique;
 2020-03-16;16;3;2020;0;0;Namibie;;NAM;2494524.0;Afrique;
 2020-03-15;15;3;2020;2;0;Namibie;;NAM;2494524.0;Afrique;
+2020-10-07;7;10;2020;1551;9;Népal;NP;NPL;28608715.0;Asie du Sud-Est;84.52669056
 2020-10-06;6;10;2020;2440;19;Népal;NP;NPL;28608715.0;Asie du Sud-Est;83.84508007
 2020-10-05;5;10;2020;2253;7;Népal;NP;NPL;28608715.0;Asie du Sud-Est;79.34994634
 2020-10-04;4;10;2020;2120;8;Népal;NP;NPL;28608715.0;Asie du Sud-Est;76.10617953
@@ -30738,6 +30874,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Népal;NP;NPL;28608715.0;Asie du Sud-Est;
 2020-01-01;1;1;2020;0;0;Népal;NP;NPL;28608715.0;Asie du Sud-Est;
 2019-12-31;31;12;2019;0;0;Népal;NP;NPL;28608715.0;Asie du Sud-Est;
+2020-10-07;7;10;2020;4517;21;Pays-Bas;NL;NLD;17282163.0;Europe;270.19765986
 2020-10-06;6;10;2020;4572;7;Pays-Bas;NL;NLD;17282163.0;Europe;257.03958469
 2020-10-05;5;10;2020;4000;5;Pays-Bas;NL;NLD;17282163.0;Europe;243.40124555
 2020-10-04;4;10;2020;3963;21;Pays-Bas;NL;NLD;17282163.0;Europe;230.92016896
@@ -31019,6 +31156,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Pays-Bas;NL;NLD;17282163.0;Europe;
 2020-01-01;1;1;2020;0;0;Pays-Bas;NL;NLD;17282163.0;Europe;
 2019-12-31;31;12;2019;0;0;Pays-Bas;NL;NLD;17282163.0;Europe;
+2020-10-07;7;10;2020;0;0;Nouvelle Calédonie;NC;NCL;282757.0;Pacifique occidental;0.35366056
 2020-10-06;6;10;2020;0;0;Nouvelle Calédonie;NC;NCL;282757.0;Pacifique occidental;0.35366056
 2020-10-05;5;10;2020;0;0;Nouvelle Calédonie;NC;NCL;282757.0;Pacifique occidental;0.35366056
 2020-10-04;4;10;2020;0;0;Nouvelle Calédonie;NC;NCL;282757.0;Pacifique occidental;0.35366056
@@ -31219,6 +31357,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-23;23;3;2020;1;0;Nouvelle Calédonie;NC;NCL;282757.0;Pacifique occidental;
 2020-03-22;22;3;2020;2;0;Nouvelle Calédonie;NC;NCL;282757.0;Pacifique occidental;
 2020-03-21;21;3;2020;2;0;Nouvelle Calédonie;NC;NCL;282757.0;Pacifique occidental;
+2020-10-07;7;10;2020;3;0;Nouvelle-Zélande;NZ;NZL;4783062.0;Pacifique occidental;0.77356304
 2020-10-06;6;10;2020;3;0;Nouvelle-Zélande;NZ;NZL;4783062.0;Pacifique occidental;0.79447015
 2020-10-05;5;10;2020;1;0;Nouvelle-Zélande;NZ;NZL;4783062.0;Pacifique occidental;0.73174883
 2020-10-04;4;10;2020;5;0;Nouvelle-Zélande;NZ;NZL;4783062.0;Pacifique occidental;0.71084172
@@ -31491,6 +31630,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Nouvelle-Zélande;NZ;NZL;4783062.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Nouvelle-Zélande;NZ;NZL;4783062.0;Pacifique occidental;
 2019-12-31;31;12;2019;0;0;Nouvelle-Zélande;NZ;NZL;4783062.0;Pacifique occidental;
+2020-10-07;7;10;2020;94;2;Nicaragua;NI;NIC;6545503.0;Amérique latine & Caraïbes;2.91803395
 2020-10-06;6;10;2020;0;0;Nicaragua;NI;NIC;6545503.0;Amérique latine & Caraïbes;3.19303192
 2020-10-05;5;10;2020;0;0;Nicaragua;NI;NIC;6545503.0;Amérique latine & Caraïbes;3.19303192
 2020-10-04;4;10;2020;0;0;Nicaragua;NI;NIC;6545503.0;Amérique latine & Caraïbes;3.19303192
@@ -31693,6 +31833,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-21;21;3;2020;1;0;Nicaragua;NI;NIC;6545503.0;Amérique latine & Caraïbes;
 2020-03-20;20;3;2020;0;0;Nicaragua;NI;NIC;6545503.0;Amérique latine & Caraïbes;
 2020-03-19;19;3;2020;1;0;Nicaragua;NI;NIC;6545503.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Niger;NE;NER;23310719.0;Afrique;0.0300291
 2020-10-06;6;10;2020;0;0;Niger;NE;NER;23310719.0;Afrique;0.04718859
 2020-10-05;5;10;2020;0;0;Niger;NE;NER;23310719.0;Afrique;0.05147846
 2020-10-04;4;10;2020;2;0;Niger;NE;NER;23310719.0;Afrique;0.0772177
@@ -31893,6 +32034,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-23;23;3;2020;0;0;Niger;NE;NER;23310719.0;Afrique;
 2020-03-22;22;3;2020;0;0;Niger;NE;NER;23310719.0;Afrique;
 2020-03-21;21;3;2020;1;0;Niger;NE;NER;23310719.0;Afrique;
+2020-10-07;7;10;2020;118;0;Nigeria;NG;NGA;200963603.0;Afrique;0.98027701
 2020-10-06;6;10;2020;120;0;Nigeria;NG;NGA;200963603.0;Afrique;1.00913796
 2020-10-05;5;10;2020;58;0;Nigeria;NG;NGA;200963603.0;Afrique;1.04645815
 2020-10-04;4;10;2020;160;1;Nigeria;NG;NGA;200963603.0;Afrique;1.06586465
@@ -32163,6 +32305,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Nigeria;NG;NGA;200963603.0;Afrique;
 2020-01-01;1;1;2020;0;0;Nigeria;NG;NGA;200963603.0;Afrique;
 2019-12-31;31;12;2019;0;0;Nigeria;NG;NGA;200963603.0;Afrique;
+2020-10-07;7;10;2020;224;8;Macédoine du Nord;MK;MKD;2077132.0;Europe;107.35957079
 2020-10-06;6;10;2020;271;7;Macédoine du Nord;MK;MKD;2077132.0;Europe;100.76393797
 2020-10-05;5;10;2020;0;0;Macédoine du Nord;MK;MKD;2077132.0;Europe;89.88355097
 2020-10-04;4;10;2020;239;4;Macédoine du Nord;MK;MKD;2077132.0;Europe;98.45305931
@@ -32435,6 +32578,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Macédoine du Nord;MK;MKD;2077132.0;Europe;
 2020-01-01;1;1;2020;0;0;Macédoine du Nord;MK;MKD;2077132.0;Europe;
 2019-12-31;31;12;2019;0;0;Macédoine du Nord;MK;MKD;2077132.0;Europe;
+2020-10-07;7;10;2020;0;0;Îles Mariannes du Nord;MP;MNP;57213.0;Pacifique occidental;10.48712705
 2020-10-06;6;10;2020;2;0;Îles Mariannes du Nord;MP;MNP;57213.0;Pacifique occidental;10.48712705
 2020-10-05;5;10;2020;0;0;Îles Mariannes du Nord;MP;MNP;57213.0;Pacifique occidental;6.99141803
 2020-10-04;4;10;2020;0;0;Îles Mariannes du Nord;MP;MNP;57213.0;Pacifique occidental;8.73927254
@@ -32625,6 +32769,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-02;2;4;2020;0;1;Îles Mariannes du Nord;MP;MNP;57213.0;Pacifique occidental;
 2020-04-01;1;4;2020;4;0;Îles Mariannes du Nord;MP;MNP;57213.0;Pacifique occidental;
 2020-03-31;31;3;2020;2;0;Îles Mariannes du Nord;MP;MNP;57213.0;Pacifique occidental;
+2020-10-07;7;10;2020;147;0;Norvège;NO;NOR;5328212.0;Europe;30.10390728
 2020-10-06;6;10;2020;308;0;Norvège;NO;NOR;5328212.0;Europe;29.29688233
 2020-10-05;5;10;2020;0;0;Norvège;NO;NOR;5328212.0;Europe;28.22710508
 2020-10-04;4;10;2020;0;0;Norvège;NO;NOR;5328212.0;Europe;28.22710508
@@ -32906,6 +33051,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Norvège;NO;NOR;5328212.0;Europe;
 2020-01-01;1;1;2020;0;0;Norvège;NO;NOR;5328212.0;Europe;
 2019-12-31;31;12;2019;0;0;Norvège;NO;NOR;5328212.0;Europe;
+2020-10-07;7;10;2020;834;5;Oman;OM;OMN;4974992.0;Méditerranée orientale;159.53794499
 2020-10-06;6;10;2020;544;8;Oman;OM;OMN;4974992.0;Méditerranée orientale;156.04045192
 2020-10-05;5;10;2020;2685;42;Oman;OM;OMN;4974992.0;Méditerranée orientale;156.68366904
 2020-10-04;4;10;2020;0;0;Oman;OM;OMN;4974992.0;Méditerranée orientale;137.32685399
@@ -33181,6 +33327,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Oman;OM;OMN;4974992.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Oman;OM;OMN;4974992.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Oman;OM;OMN;4974992.0;Méditerranée orientale;
+2020-10-07;7;10;2020;624;12;Pakistan;PK;PAK;216565317.0;Méditerranée orientale;4.12485255
 2020-10-06;6;10;2020;1111;10;Pakistan;PK;PAK;216565317.0;Méditerranée orientale;4.08237114
 2020-10-05;5;10;2020;0;0;Pakistan;PK;PAK;216565317.0;Méditerranée orientale;3.83810303
 2020-10-04;4;10;2020;632;6;Pakistan;PK;PAK;216565317.0;Méditerranée orientale;4.1303936000000006
@@ -33457,6 +33604,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Pakistan;PK;PAK;216565317.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Pakistan;PK;PAK;216565317.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Pakistan;PK;PAK;216565317.0;Méditerranée orientale;
+2020-10-07;7;10;2020;475;10;Palestine;PS;PSE;4981422.0;Méditerranée orientale;136.80832501
 2020-10-06;6;10;2020;521;11;Palestine;PS;PSE;4981422.0;Méditerranée orientale;138.45444132
 2020-10-05;5;10;2020;420;1;Palestine;PS;PSE;4981422.0;Méditerranée orientale;140.26115435
 2020-10-04;4;10;2020;406;11;Palestine;PS;PSE;4981422.0;Méditerranée orientale;145.54077129
@@ -33669,6 +33817,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-08;8;3;2020;3;0;Palestine;PS;PSE;4981422.0;Méditerranée orientale;
 2020-03-07;7;3;2020;9;0;Palestine;PS;PSE;4981422.0;Méditerranée orientale;
 2020-03-06;6;3;2020;7;0;Palestine;PS;PSE;4981422.0;Méditerranée orientale;
+2020-10-07;7;10;2020;683;10;Panama;PA;PAN;4246440.0;Amérique latine & Caraïbes;219.43086444
 2020-10-06;6;10;2020;633;7;Panama;PA;PAN;4246440.0;Amérique latine & Caraïbes;214.50909468
 2020-10-05;5;10;2020;633;9;Panama;PA;PAN;4246440.0;Amérique latine & Caraïbes;213.89681710000002
 2020-10-04;4;10;2020;691;8;Panama;PA;PAN;4246440.0;Amérique latine & Caraïbes;213.16679383
@@ -33880,6 +34029,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-12;12;3;2020;7;0;Panama;PA;PAN;4246440.0;Amérique latine & Caraïbes;
 2020-03-11;11;3;2020;6;1;Panama;PA;PAN;4246440.0;Amérique latine & Caraïbes;
 2020-03-10;10;3;2020;1;0;Panama;PA;PAN;4246440.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Papouasie-Nouvelle-Guinée;PG;PNG;8776119.0;Pacifique occidental;0.15952382
 2020-10-06;6;10;2020;1;0;Papouasie-Nouvelle-Guinée;PG;PNG;8776119.0;Pacifique occidental;0.17091838
 2020-10-05;5;10;2020;0;0;Papouasie-Nouvelle-Guinée;PG;PNG;8776119.0;Pacifique occidental;0.26207484
 2020-10-04;4;10;2020;1;0;Papouasie-Nouvelle-Guinée;PG;PNG;8776119.0;Pacifique occidental;0.27346940000000003
@@ -34080,6 +34230,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-23;23;3;2020;0;0;Papouasie-Nouvelle-Guinée;PG;PNG;8776119.0;Pacifique occidental;
 2020-03-22;22;3;2020;0;0;Papouasie-Nouvelle-Guinée;PG;PNG;8776119.0;Pacifique occidental;
 2020-03-21;21;3;2020;1;0;Papouasie-Nouvelle-Guinée;PG;PNG;8776119.0;Pacifique occidental;
+2020-10-07;7;10;2020;932;19;Paraguay;PY;PRY;7044639.0;Amérique latine & Caraïbes;153.57777737
 2020-10-06;6;10;2020;533;18;Paraguay;PY;PRY;7044639.0;Amérique latine & Caraïbes;148.41072765
 2020-10-05;5;10;2020;730;16;Paraguay;PY;PRY;7044639.0;Amérique latine & Caraïbes;151.3491323
 2020-10-04;4;10;2020;768;23;Paraguay;PY;PRY;7044639.0;Amérique latine & Caraïbes;148.1552142
@@ -34289,6 +34440,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-13;13;3;2020;1;0;Paraguay;PY;PRY;7044639.0;Amérique latine & Caraïbes;
 2020-03-11;11;3;2020;4;0;Paraguay;PY;PRY;7044639.0;Amérique latine & Caraïbes;
 2020-03-08;8;3;2020;1;0;Paraguay;PY;PRY;7044639.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;2930;80;Perou;PE;PER;32510462.0;Amérique latine & Caraïbes;173.43032529
 2020-10-06;6;10;2020;1830;92;Perou;PE;PER;32510462.0;Amérique latine & Caraïbes;175.64499699
 2020-10-05;5;10;2020;3184;77;Perou;PE;PER;32510462.0;Amérique latine & Caraïbes;182.32284733
 2020-10-04;4;10;2020;3421;56;Perou;PE;PER;32510462.0;Amérique latine & Caraïbes;191.0769524
@@ -34502,6 +34654,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-10;10;3;2020;2;0;Perou;PE;PER;32510462.0;Amérique latine & Caraïbes;
 2020-03-09;9;3;2020;6;0;Perou;PE;PER;32510462.0;Amérique latine & Caraïbes;
 2020-03-07;7;3;2020;1;0;Perou;PE;PER;32510462.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;2071;25;Philippines;PH;PHL;108116622.0;Pacifique occidental;32.41314735
 2020-10-06;6;10;2020;2265;64;Philippines;PH;PHL;108116622.0;Pacifique occidental;31.97658173
 2020-10-05;5;10;2020;3167;98;Philippines;PH;PHL;108116622.0;Pacifique occidental;33.06984563
 2020-10-04;4;10;2020;2652;62;Philippines;PH;PHL;108116622.0;Pacifique occidental;33.17713718
@@ -34779,6 +34932,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Philippines;PH;PHL;108116622.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Philippines;PH;PHL;108116622.0;Pacifique occidental;
 2019-12-31;31;12;2019;0;0;Philippines;PH;PHL;108116622.0;Pacifique occidental;
+2020-10-07;7;10;2020;2236;58;Pologne;PL;POL;37972812.0;Europe;62.19449853
 2020-10-06;6;10;2020;3940;55;Pologne;PL;POL;37972812.0;Europe;58.17846727
 2020-10-05;5;10;2020;0;0;Pologne;PL;POL;37972812.0;Europe;49.77245299
 2020-10-04;4;10;2020;2367;34;Pologne;PL;POL;37972812.0;Europe;52.16890443
@@ -34994,6 +35148,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-08;8;3;2020;1;0;Pologne;PL;POL;37972812.0;Europe;
 2020-03-07;7;3;2020;4;0;Pologne;PL;POL;37972812.0;Europe;
 2020-03-04;4;3;2020;1;0;Pologne;PL;POL;37972812.0;Europe;
+2020-10-07;7;10;2020;427;14;Portugal;PT;PRT;10276617.0;Europe;103.62359520000001
 2020-10-06;6;10;2020;1638;23;Portugal;PT;PRT;10276617.0;Europe;103.97390503
 2020-10-05;5;10;2020;0;0;Portugal;PT;PRT;10276617.0;Europe;94.09711387
 2020-10-04;4;10;2020;963;12;Portugal;PT;PRT;10276617.0;Europe;99.46853133
@@ -35212,6 +35367,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-05;5;3;2020;1;0;Portugal;PT;PRT;10276617.0;Europe;
 2020-03-04;4;3;2020;2;0;Portugal;PT;PRT;10276617.0;Europe;
 2020-03-03;3;3;2020;2;0;Portugal;PT;PRT;10276617.0;Europe;
+2020-10-07;7;10;2020;432;1;Porto Rico;PR;PRI;2933404.0;Amérique latine & Caraïbes;311.61749285
 2020-10-06;6;10;2020;630;9;Porto Rico;PR;PRI;2933404.0;Amérique latine & Caraïbes;300.98138545
 2020-10-05;5;10;2020;1067;5;Porto Rico;PR;PRI;2933404.0;Amérique latine & Caraïbes;301.25410615
 2020-10-04;4;10;2020;541;16;Porto Rico;PR;PRI;2933404.0;Amérique latine & Caraïbes;293.68610665
@@ -35405,6 +35561,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-30;30;3;2020;27;2;Porto Rico;PR;PRI;2933404.0;Amérique latine & Caraïbes;
 2020-03-29;29;3;2020;36;1;Porto Rico;PR;PRI;2933404.0;Amérique latine & Caraïbes;
 2020-03-28;28;3;2020;64;2;Porto Rico;PR;PRI;2933404.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;251;0;Qatar;QA;QAT;2832071.0;Méditerranée orientale;106.84760375
 2020-10-06;6;10;2020;194;0;Qatar;QA;QAT;2832071.0;Méditerranée orientale;109.03681440000001
 2020-10-05;5;10;2020;159;0;Qatar;QA;QAT;2832071.0;Méditerranée orientale;110.23734928
 2020-10-04;4;10;2020;175;1;Qatar;QA;QAT;2832071.0;Méditerranée orientale;112.74434857
@@ -35682,6 +35839,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Qatar;QA;QAT;2832071.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Qatar;QA;QAT;2832071.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Qatar;QA;QAT;2832071.0;Méditerranée orientale;
+2020-10-07;7;10;2020;2121;73;Roumanie;RO;ROU;19414458.0;Europe;128.58458372
 2020-10-06;6;10;2020;3426;101;Roumanie;RO;ROU;19414458.0;Europe;123.11443358
 2020-10-05;5;10;2020;0;0;Roumanie;RO;ROU;19414458.0;Europe;109.62963787
 2020-10-04;4;10;2020;2064;32;Roumanie;RO;ROU;19414458.0;Europe;115.97027329
@@ -35961,6 +36119,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Roumanie;RO;ROU;19414458.0;Europe;
 2020-01-01;1;1;2020;0;0;Roumanie;RO;ROU;19414458.0;Europe;
 2019-12-31;31;12;2019;0;0;Roumanie;RO;ROU;19414458.0;Europe;
+2020-10-07;7;10;2020;11615;188;Russie;RU;RUS;145872260.0;Europe;83.425046
 2020-10-06;6;10;2020;10888;117;Russie;RU;RUS;145872260.0;Europe;79.72317698
 2020-10-05;5;10;2020;10499;107;Russie;RU;RUS;145872260.0;Europe;76.50666412
 2020-10-04;4;10;2020;9859;174;Russie;RU;RUS;145872260.0;Europe;73.52391743
@@ -36242,6 +36401,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Russie;RU;RUS;145872260.0;Europe;
 2020-01-01;1;1;2020;0;0;Russie;RU;RUS;145872260.0;Europe;
 2019-12-31;31;12;2019;0;0;Russie;RU;RUS;145872260.0;Europe;
+2020-10-07;7;10;2020;6;0;Rwanda;RW;RWA;12626938.0;Afrique;1.06914281
 2020-10-06;6;10;2020;1;0;Rwanda;RW;RWA;12626938.0;Afrique;1.14833858
 2020-10-05;5;10;2020;14;0;Rwanda;RW;RWA;12626938.0;Afrique;1.22753434
 2020-10-04;4;10;2020;5;0;Rwanda;RW;RWA;12626938.0;Afrique;1.29089095
@@ -36448,6 +36608,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;0;0;Rwanda;RW;RWA;12626938.0;Afrique;
 2020-03-16;16;3;2020;4;0;Rwanda;RW;RWA;12626938.0;Afrique;
 2020-03-15;15;3;2020;1;0;Rwanda;RW;RWA;12626938.0;Afrique;
+2020-10-07;7;10;2020;0;0;Saint-Kitts-et-Nevis;KN;KNA;52834.0;Amérique latine & Caraïbes;0.0
 2020-10-06;6;10;2020;0;0;Saint-Kitts-et-Nevis;KN;KNA;52834.0;Amérique latine & Caraïbes;0.0
 2020-10-05;5;10;2020;0;0;Saint-Kitts-et-Nevis;KN;KNA;52834.0;Amérique latine & Caraïbes;3.78544119
 2020-10-04;4;10;2020;0;0;Saint-Kitts-et-Nevis;KN;KNA;52834.0;Amérique latine & Caraïbes;3.78544119
@@ -36643,6 +36804,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-28;28;3;2020;0;0;Saint-Kitts-et-Nevis;KN;KNA;52834.0;Amérique latine & Caraïbes;
 2020-03-27;27;3;2020;0;0;Saint-Kitts-et-Nevis;KN;KNA;52834.0;Amérique latine & Caraïbes;
 2020-03-26;26;3;2020;2;0;Saint-Kitts-et-Nevis;KN;KNA;52834.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Sainte Lucie;LC;LCA;182795.0;Amérique latine & Caraïbes;0.0
 2020-10-06;6;10;2020;0;0;Sainte Lucie;LC;LCA;182795.0;Amérique latine & Caraïbes;0.0
 2020-10-05;5;10;2020;0;0;Sainte Lucie;LC;LCA;182795.0;Amérique latine & Caraïbes;0.0
 2020-10-04;4;10;2020;0;0;Sainte Lucie;LC;LCA;182795.0;Amérique latine & Caraïbes;0.0
@@ -36849,6 +37011,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;0;0;Sainte Lucie;LC;LCA;182795.0;Amérique latine & Caraïbes;
 2020-03-16;16;3;2020;0;0;Sainte Lucie;LC;LCA;182795.0;Amérique latine & Caraïbes;
 2020-03-15;15;3;2020;2;0;Sainte Lucie;LC;LCA;182795.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Saint-Vincent-et-les-Grenadines;VC;VCT;110593.0;Amérique latine & Caraïbes;0.0
 2020-10-06;6;10;2020;0;0;Saint-Vincent-et-les-Grenadines;VC;VCT;110593.0;Amérique latine & Caraïbes;0.0
 2020-10-05;5;10;2020;0;0;Saint-Vincent-et-les-Grenadines;VC;VCT;110593.0;Amérique latine & Caraïbes;0.0
 2020-10-04;4;10;2020;0;0;Saint-Vincent-et-les-Grenadines;VC;VCT;110593.0;Amérique latine & Caraïbes;0.0
@@ -37046,6 +37209,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-26;26;3;2020;0;0;Saint-Vincent-et-les-Grenadines;VC;VCT;110593.0;Amérique latine & Caraïbes;
 2020-03-25;25;3;2020;0;0;Saint-Vincent-et-les-Grenadines;VC;VCT;110593.0;Amérique latine & Caraïbes;
 2020-03-13;13;3;2020;1;0;Saint-Vincent-et-les-Grenadines;VC;VCT;110593.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;19;0;Saint-Marin;SM;SMR;34453.0;Europe;81.27013613
 2020-10-06;6;10;2020;0;0;Saint-Marin;SM;SMR;34453.0;Europe;26.12254376
 2020-10-05;5;10;2020;0;0;Saint-Marin;SM;SMR;34453.0;Europe;26.12254376
 2020-10-04;4;10;2020;0;0;Saint-Marin;SM;SMR;34453.0;Europe;26.12254376
@@ -37326,6 +37490,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Saint-Marin;SM;SMR;34453.0;Europe;
 2020-01-01;1;1;2020;0;0;Saint-Marin;SM;SMR;34453.0;Europe;
 2019-12-31;31;12;2019;0;0;Saint-Marin;SM;SMR;34453.0;Europe;
+2020-10-07;7;10;2020;1;0;Sao-Tomé-et-Principe;ST;STP;215048.0;Afrique;2.79007477
 2020-10-06;6;10;2020;0;0;Sao-Tomé-et-Principe;ST;STP;215048.0;Afrique;2.32506231
 2020-10-05;5;10;2020;0;0;Sao-Tomé-et-Principe;ST;STP;215048.0;Afrique;2.32506231
 2020-10-04;4;10;2020;2;0;Sao-Tomé-et-Principe;ST;STP;215048.0;Afrique;2.32506231
@@ -37507,6 +37672,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-11;11;4;2020;0;0;Sao-Tomé-et-Principe;ST;STP;215048.0;Afrique;
 2020-04-10;10;4;2020;0;0;Sao-Tomé-et-Principe;ST;STP;215048.0;Afrique;
 2020-04-09;9;4;2020;4;0;Sao-Tomé-et-Principe;ST;STP;215048.0;Afrique;
+2020-10-07;7;10;2020;477;25;Arabie saoudite;SA;SAU;34268529.0;Méditerranée orientale;18.80734361
 2020-10-06;6;10;2020;379;23;Arabie saoudite;SA;SAU;34268529.0;Méditerranée orientale;19.02620331
 2020-10-05;5;10;2020;390;25;Arabie saoudite;SA;SAU;34268529.0;Méditerranée orientale;19.35595193
 2020-10-04;4;10;2020;419;27;Arabie saoudite;SA;SAU;34268529.0;Méditerranée orientale;19.62733796
@@ -37722,6 +37888,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-08;8;3;2020;2;0;Arabie saoudite;SA;SAU;34268529.0;Méditerranée orientale;
 2020-03-06;6;3;2020;4;0;Arabie saoudite;SA;SAU;34268529.0;Méditerranée orientale;
 2020-03-03;3;3;2020;1;0;Arabie saoudite;SA;SAU;34268529.0;Méditerranée orientale;
+2020-10-07;7;10;2020;19;0;Sénégal;SN;SEN;16296362.0;Afrique;2.34408146
 2020-10-06;6;10;2020;28;0;Sénégal;SN;SEN;16296362.0;Afrique;2.35635414
 2020-10-05;5;10;2020;26;0;Sénégal;SN;SEN;16296362.0;Afrique;2.33180878
 2020-10-04;4;10;2020;17;0;Sénégal;SN;SEN;16296362.0;Afrique;2.33180878
@@ -37933,6 +38100,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-06;6;3;2020;1;0;Sénégal;SN;SEN;16296362.0;Afrique;
 2020-03-05;5;3;2020;2;0;Sénégal;SN;SEN;16296362.0;Afrique;
 2020-03-03;3;3;2020;1;0;Sénégal;SN;SEN;16296362.0;Afrique;
+2020-10-07;7;10;2020;171;3;Serbie;RS;SRB;6963764.0;Europe;15.40833377
 2020-10-06;6;10;2020;0;0;Serbie;RS;SRB;6963764.0;Europe;13.82872826
 2020-10-05;5;10;2020;59;1;Serbie;RS;SRB;6963764.0;Europe;14.25952976
 2020-10-04;4;10;2020;107;2;Serbie;RS;SRB;6963764.0;Europe;14.38877021
@@ -38144,6 +38312,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-12;12;3;2020;13;0;Serbie;RS;SRB;6963764.0;Europe;
 2020-03-11;11;3;2020;4;0;Serbie;RS;SRB;6963764.0;Europe;
 2020-03-07;7;3;2020;1;0;Serbie;RS;SRB;6963764.0;Europe;
+2020-10-07;7;10;2020;0;0;Seychelles;SC;SYC;97741.0;Afrique;5.11556051
 2020-10-06;6;10;2020;3;0;Seychelles;SC;SYC;97741.0;Afrique;5.11556051
 2020-10-05;5;10;2020;0;0;Seychelles;SC;SYC;97741.0;Afrique;4.09244841
 2020-10-04;4;10;2020;1;0;Seychelles;SC;SYC;97741.0;Afrique;4.09244841
@@ -38350,6 +38519,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;1;0;Seychelles;SC;SYC;97741.0;Afrique;
 2020-03-16;16;3;2020;1;0;Seychelles;SC;SYC;97741.0;Afrique;
 2020-03-15;15;3;2020;2;0;Seychelles;SC;SYC;97741.0;Afrique;
+2020-10-07;7;10;2020;8;0;Sierra Leone;SL;SLE;7813207.0;Afrique;1.3182806999999999
 2020-10-06;6;10;2020;0;0;Sierra Leone;SL;SLE;7813207.0;Afrique;1.29268302
 2020-10-05;5;10;2020;10;0;Sierra Leone;SL;SLE;7813207.0;Afrique;1.29268302
 2020-10-04;4;10;2020;7;0;Sierra Leone;SL;SLE;7813207.0;Afrique;1.27988418
@@ -38539,6 +38709,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-03;3;4;2020;1;0;Sierra Leone;SL;SLE;7813207.0;Afrique;
 2020-04-02;2;4;2020;0;0;Sierra Leone;SL;SLE;7813207.0;Afrique;
 2020-04-01;1;4;2020;1;0;Sierra Leone;SL;SLE;7813207.0;Afrique;
+2020-10-07;7;10;2020;11;0;Singapour;SG;SGP;5804343.0;Pacifique occidental;3.49738119
 2020-10-06;6;10;2020;7;0;Singapour;SG;SGP;5804343.0;Pacifique occidental;3.66966597
 2020-10-05;5;10;2020;12;0;Singapour;SG;SGP;5804343.0;Pacifique occidental;4.06592098
 2020-10-04;4;10;2020;6;0;Singapour;SG;SGP;5804343.0;Pacifique occidental;4.16929186
@@ -38820,6 +38991,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Singapour;SG;SGP;5804343.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Singapour;SG;SGP;5804343.0;Pacifique occidental;
 2019-12-31;31;12;2019;0;0;Singapour;SG;SGP;5804343.0;Pacifique occidental;
+2020-10-07;7;10;2020;0;0;Saint-Martin;SX;SXM;42389.0;Amérique latine & Caraïbes;217.03743896
 2020-10-06;6;10;2020;7;0;Saint-Martin;SX;SXM;42389.0;Amérique latine & Caraïbes;224.11474675
 2020-10-05;5;10;2020;1;0;Saint-Martin;SX;SXM;42389.0;Amérique latine & Caraïbes;224.11474675
 2020-10-04;4;10;2020;4;0;Saint-Martin;SX;SXM;42389.0;Amérique latine & Caraïbes;221.75564415
@@ -39015,6 +39187,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-27;27;3;2020;0;0;Saint-Martin;SX;SXM;42389.0;Amérique latine & Caraïbes;
 2020-03-26;26;3;2020;1;0;Saint-Martin;SX;SXM;42389.0;Amérique latine & Caraïbes;
 2020-03-03;3;3;2020;1;0;Saint-Martin;SX;SXM;42389.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;320;0;Slovaquie;SK;SVK;5450421.0;Europe;126.24712843
 2020-10-06;6;10;2020;353;0;Slovaquie;SK;SVK;5450421.0;Europe;123.58678348
 2020-10-05;5;10;2020;818;1;Slovaquie;SK;SVK;5450421.0;Europe;118.55964888
 2020-10-04;4;10;2020;704;0;Slovaquie;SK;SVK;5450421.0;Europe;105.95511796
@@ -39228,6 +39401,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-09;9;3;2020;2;0;Slovaquie;SK;SVK;5450421.0;Europe;
 2020-03-08;8;3;2020;2;0;Slovaquie;SK;SVK;5450421.0;Europe;
 2020-03-07;7;3;2020;1;0;Slovaquie;SK;SVK;5450421.0;Europe;
+2020-10-07;7;10;2020;194;1;Slovénie;SI;SVN;2080908.0;Europe;106.20363803
 2020-10-06;6;10;2020;76;0;Slovénie;SI;SVN;2080908.0;Europe;101.10970788
 2020-10-05;5;10;2020;168;0;Slovénie;SI;SVN;2080908.0;Europe;99.86025331
 2020-10-04;4;10;2020;227;0;Slovénie;SI;SVN;2080908.0;Europe;97.12106446
@@ -39443,6 +39617,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-07;7;3;2020;3;0;Slovénie;SI;SVN;2080908.0;Europe;
 2020-03-06;6;3;2020;5;0;Slovénie;SI;SVN;2080908.0;Europe;
 2020-03-05;5;3;2020;1;0;Slovénie;SI;SVN;2080908.0;Europe;
+2020-10-07;7;10;2020;0;0;Somalie;SO;SOM;15442906.0;Méditerranée orientale;1.81313025
 2020-10-06;6;10;2020;0;0;Somalie;SO;SOM;15442906.0;Méditerranée orientale;1.81313025
 2020-10-05;5;10;2020;0;0;Somalie;SO;SOM;15442906.0;Méditerranée orientale;1.96206595
 2020-10-04;4;10;2020;152;0;Somalie;SO;SOM;15442906.0;Méditerranée orientale;1.96206595
@@ -39647,6 +39822,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-19;19;3;2020;0;0;Somalie;SO;SOM;15442906.0;Méditerranée orientale;
 2020-03-18;18;3;2020;0;0;Somalie;SO;SOM;15442906.0;Méditerranée orientale;
 2020-03-17;17;3;2020;1;0;Somalie;SO;SOM;15442906.0;Méditerranée orientale;
+2020-10-07;7;10;2020;1027;87;Afrique du Sud;ZA;ZAF;58558267.0;Afrique;34.08570817
 2020-10-06;6;10;2020;926;40;Afrique du Sud;ZA;ZAF;58558267.0;Afrique;34.63046473
 2020-10-05;5;10;2020;1573;38;Afrique du Sud;ZA;ZAF;58558267.0;Afrique;34.28721687
 2020-10-04;4;10;2020;1883;29;Afrique du Sud;ZA;ZAF;58558267.0;Afrique;34.25647825
@@ -39860,6 +40036,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-09;9;3;2020;1;0;Afrique du Sud;ZA;ZAF;58558267.0;Afrique;
 2020-03-08;8;3;2020;1;0;Afrique du Sud;ZA;ZAF;58558267.0;Afrique;
 2020-03-06;6;3;2020;1;0;Afrique du Sud;ZA;ZAF;58558267.0;Afrique;
+2020-10-07;7;10;2020;114;3;Corée du Sud;KR;KOR;51225321.0;Pacifique occidental;2.21960542
 2020-10-06;6;10;2020;75;0;Corée du Sud;KR;KOR;51225321.0;Pacifique occidental;2.21179678
 2020-10-05;5;10;2020;73;1;Corée du Sud;KR;KOR;51225321.0;Pacifique occidental;2.18446655
 2020-10-04;4;10;2020;64;1;Corée du Sud;KR;KOR;51225321.0;Pacifique occidental;2.17861007
@@ -40141,6 +40318,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Corée du Sud;KR;KOR;51225321.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Corée du Sud;KR;KOR;51225321.0;Pacifique occidental;
 2019-12-31;31;12;2019;0;0;Corée du Sud;KR;KOR;51225321.0;Pacifique occidental;
+2020-10-07;7;10;2020;8;0;Soudan-du-Sud;SS;SSD;11062114.0;Afrique;0.6689499
 2020-10-06;6;10;2020;0;0;Soudan-du-Sud;SS;SSD;11062114.0;Afrique;0.69606949
 2020-10-05;5;10;2020;11;0;Soudan-du-Sud;SS;SSD;11062114.0;Afrique;0.75934853
 2020-10-04;4;10;2020;0;0;Soudan-du-Sud;SS;SSD;11062114.0;Afrique;0.65991003
@@ -40325,6 +40503,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-08;8;4;2020;0;0;Soudan-du-Sud;SS;SSD;11062114.0;Afrique;
 2020-04-07;7;4;2020;0;0;Soudan-du-Sud;SS;SSD;11062114.0;Afrique;
 2020-04-06;6;4;2020;1;0;Soudan-du-Sud;SS;SSD;11062114.0;Afrique;
+2020-10-06;6;10;2020;11998;261;Espagne;ES;ESP;46937060.0;Europe;304.96797200000003
 2020-10-05;5;10;2020;23480;139;Espagne;ES;ESP;46937060.0;Europe;302.41348734
 2020-10-04;4;10;2020;0;0;Espagne;ES;ESP;46937060.0;Europe;319.34680187
 2020-10-03;3;10;2020;0;0;Espagne;ES;ESP;46937060.0;Europe;319.34680187
@@ -40605,6 +40784,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Espagne;ES;ESP;46937060.0;Europe;
 2020-01-01;1;1;2020;0;0;Espagne;ES;ESP;46937060.0;Europe;
 2019-12-31;31;12;2019;0;0;Espagne;ES;ESP;46937060.0;Europe;
+2020-10-07;7;10;2020;519;0;Sri Lanka;LK;LKA;21323734.0;Asie du Sud-Est;4.40354396
 2020-10-06;6;10;2020;331;0;Sri Lanka;LK;LKA;21323734.0;Asie du Sud-Est;2.03529082
 2020-10-05;5;10;2020;6;0;Sri Lanka;LK;LKA;21323734.0;Asie du Sud-Est;0.53930517
 2020-10-04;4;10;2020;8;0;Sri Lanka;LK;LKA;21323734.0;Asie du Sud-Est;0.52992595
@@ -40877,6 +41057,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Sri Lanka;LK;LKA;21323734.0;Asie du Sud-Est;
 2020-01-01;1;1;2020;0;0;Sri Lanka;LK;LKA;21323734.0;Asie du Sud-Est;
 2019-12-31;31;12;2019;0;0;Sri Lanka;LK;LKA;21323734.0;Asie du Sud-Est;
+2020-10-07;7;10;2020;0;0;Soudan;SD;SDN;42813237.0;Méditerranée orientale;0.17517947
 2020-10-06;6;10;2020;0;0;Soudan;SD;SDN;42813237.0;Méditerranée orientale;0.22890117
 2020-10-05;5;10;2020;0;0;Soudan;SD;SDN;42813237.0;Méditerranée orientale;0.22890117
 2020-10-04;4;10;2020;0;0;Soudan;SD;SDN;42813237.0;Méditerranée orientale;0.27561569
@@ -41084,6 +41265,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;0;0;Soudan;SD;SDN;42813237.0;Méditerranée orientale;
 2020-03-15;15;3;2020;0;1;Soudan;SD;SDN;42813237.0;Méditerranée orientale;
 2020-03-14;14;3;2020;1;0;Soudan;SD;SDN;42813237.0;Méditerranée orientale;
+2020-10-07;7;10;2020;11;0;Suriname;SR;SUR;581363.0;Amérique latine & Caraïbes;35.43397155
 2020-10-06;6;10;2020;13;0;Suriname;SR;SUR;581363.0;Amérique latine & Caraïbes;36.81004811
 2020-10-05;5;10;2020;17;0;Suriname;SR;SUR;581363.0;Amérique latine & Caraïbes;37.49808639
 2020-10-04;4;10;2020;25;1;Suriname;SR;SUR;581363.0;Amérique latine & Caraïbes;36.98205768
@@ -41285,40 +41467,41 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-22;22;3;2020;4;0;Suriname;SR;SUR;581363.0;Amérique latine & Caraïbes;
 2020-03-21;21;3;2020;0;0;Suriname;SR;SUR;581363.0;Amérique latine & Caraïbes;
 2020-03-15;15;3;2020;1;0;Suriname;SR;SUR;581363.0;Amérique latine & Caraïbes;
-2020-10-06;6;10;2020;0;0;Suède;SE;SWE;10230185.0;Europe;57.5649414
-2020-10-05;5;10;2020;0;0;Suède;SE;SWE;10230185.0;Europe;57.5649414
-2020-10-04;4;10;2020;0;0;Suède;SE;SWE;10230185.0;Europe;57.5649414
-2020-10-03;3;10;2020;0;0;Suède;SE;SWE;10230185.0;Europe;57.5649414
-2020-10-02;2;10;2020;436;0;Suède;SE;SWE;10230185.0;Europe;57.10551666
-2020-10-01;1;10;2020;687;0;Suède;SE;SWE;10230185.0;Europe;53.615843700000006
-2020-09-30;30;9;2020;615;0;Suède;SE;SWE;10230185.0;Europe;50.46829554
-2020-09-29;29;9;2020;380;0;Suède;SE;SWE;10230185.0;Europe;48.90429645
-2020-09-28;28;9;2020;167;1;Suède;SE;SWE;10230185.0;Europe;48.3080218
-2020-09-27;27;9;2020;325;2;Suède;SE;SWE;10230185.0;Europe;47.14479748
-2020-09-26;26;9;2020;631;4;Suède;SE;SWE;10230185.0;Europe;43.83107441
-2020-09-25;25;9;2020;540;1;Suède;SE;SWE;10230185.0;Europe;41.06475103
-2020-09-24;24;9;2020;553;2;Suède;SE;SWE;10230185.0;Europe;38.72852739
-2020-09-23;23;9;2020;438;0;Suède;SE;SWE;10230185.0;Europe;36.75397854
-2020-09-22;22;9;2020;268;4;Suède;SE;SWE;10230185.0;Europe;35.94265402
-2020-09-21;21;9;2020;133;4;Suède;SE;SWE;10230185.0;Europe;35.2975044
-2020-09-20;20;9;2020;279;1;Suède;SE;SWE;10230185.0;Europe;34.24180501
-2020-09-19;19;9;2020;437;2;Suède;SE;SWE;10230185.0;Europe;32.53118101
-2020-09-18;18;9;2020;389;1;Suède;SE;SWE;10230185.0;Europe;31.5243566
-2020-09-17;17;9;2020;330;2;Suède;SE;SWE;10230185.0;Europe;30.38068227
-2020-09-16;16;9;2020;293;1;Suède;SE;SWE;10230185.0;Europe;29.18813296
-2020-09-15;15;9;2020;220;3;Suède;SE;SWE;10230185.0;Europe;28.62118329
+2020-10-07;7;10;2020;0;0;Suède;SE;SWE;10230185.0;Europe;64.86686213
+2020-10-06;6;10;2020;343;0;Suède;SE;SWE;10230185.0;Europe;64.13373756
+2020-10-05;5;10;2020;155;1;Suède;SE;SWE;10230185.0;Europe;63.91868769
+2020-10-04;4;10;2020;461;0;Suède;SE;SWE;10230185.0;Europe;62.13963873
+2020-10-03;3;10;2020;711;1;Suède;SE;SWE;10230185.0;Europe;59.46129029
+2020-10-02;2;10;2020;635;0;Suède;SE;SWE;10230185.0;Europe;57.05664169
+2020-10-01;1;10;2020;687;1;Suède;SE;SWE;10230185.0;Europe;53.56696873
+2020-09-30;30;9;2020;613;0;Suède;SE;SWE;10230185.0;Europe;50.42919556
+2020-09-29;29;9;2020;378;0;Suède;SE;SWE;10230185.0;Europe;48.88474646
+2020-09-28;28;9;2020;167;1;Suède;SE;SWE;10230185.0;Europe;48.28847181
+2020-09-27;27;9;2020;325;2;Suède;SE;SWE;10230185.0;Europe;47.12524749
+2020-09-26;26;9;2020;630;4;Suède;SE;SWE;10230185.0;Europe;43.82129942
+2020-09-25;25;9;2020;540;1;Suède;SE;SWE;10230185.0;Europe;41.05497603
+2020-09-24;24;9;2020;553;0;Suède;SE;SWE;10230185.0;Europe;38.7187524
+2020-09-23;23;9;2020;438;1;Suède;SE;SWE;10230185.0;Europe;36.74420355
+2020-09-22;22;9;2020;268;2;Suède;SE;SWE;10230185.0;Europe;35.93287902
+2020-09-21;21;9;2020;133;4;Suède;SE;SWE;10230185.0;Europe;35.287729399999996
+2020-09-20;20;9;2020;279;1;Suède;SE;SWE;10230185.0;Europe;34.23203002
+2020-09-19;19;9;2020;437;1;Suède;SE;SWE;10230185.0;Europe;32.52140602
+2020-09-18;18;9;2020;389;1;Suède;SE;SWE;10230185.0;Europe;31.5145816
+2020-09-17;17;9;2020;330;2;Suède;SE;SWE;10230185.0;Europe;30.37090727
+2020-09-16;16;9;2020;292;1;Suède;SE;SWE;10230185.0;Europe;29.18813296
+2020-09-15;15;9;2020;220;2;Suède;SE;SWE;10230185.0;Europe;28.62118329
 2020-09-14;14;9;2020;106;2;Suède;SE;SWE;10230185.0;Europe;28.05423362
-2020-09-13;13;9;2020;206;2;Suède;SE;SWE;10230185.0;Europe;27.32110905
-2020-09-12;12;9;2020;292;6;Suède;SE;SWE;10230185.0;Europe;26.2165347
-2020-09-11;11;9;2020;257;3;Suède;SE;SWE;10230185.0;Europe;25.67891001
-2020-09-10;10;9;2020;314;0;Suède;SE;SWE;10230185.0;Europe;24.99466041
+2020-09-13;13;9;2020;206;1;Suède;SE;SWE;10230185.0;Europe;27.32110905
+2020-09-12;12;9;2020;292;4;Suède;SE;SWE;10230185.0;Europe;26.2165347
+2020-09-11;11;9;2020;257;2;Suède;SE;SWE;10230185.0;Europe;25.67891001
+2020-09-10;10;9;2020;314;2;Suède;SE;SWE;10230185.0;Europe;24.99466041
 2020-09-09;9;9;2020;236;1;Suède;SE;SWE;10230185.0;Europe;24.85781049
 2020-09-08;8;9;2020;185;1;Suède;SE;SWE;10230185.0;Europe;24.75028555
 2020-09-07;7;9;2020;67;3;Suède;SE;SWE;10230185.0;Europe;24.65253561
 2020-09-06;6;9;2020;171;0;Suède;SE;SWE;10230185.0;Europe;24.54501067
 2020-09-05;5;9;2020;262;0;Suède;SE;SWE;10230185.0;Europe;24.89691047
 2020-09-04;4;9;2020;286;2;Suède;SE;SWE;10230185.0;Europe;25.3563352
-2020-09-03;3;9;2020;213;3;Suède;SE;SWE;10230185.0;Europe;26.70528441
+2020-09-03;3;9;2020;213;2;Suède;SE;SWE;10230185.0;Europe;26.70528441
 2020-09-02;2;9;2020;171;3;Suède;SE;SWE;10230185.0;Europe;28.10310859
 2020-09-01;1;9;2020;162;2;Suède;SE;SWE;10230185.0;Europe;28.22040853
 2020-08-31;31;8;2020;48;3;Suède;SE;SWE;10230185.0;Europe;28.36703344
@@ -41326,7 +41509,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-08-29;29;8;2020;179;1;Suède;SE;SWE;10230185.0;Europe;30.90853196
 2020-08-28;28;8;2020;202;1;Suède;SE;SWE;10230185.0;Europe;32.48230604
 2020-08-27;27;8;2020;244;2;Suède;SE;SWE;10230185.0;Europe;34.4373049
-2020-08-26;26;8;2020;222;2;Suède;SE;SWE;10230185.0;Europe;36.34342878
+2020-08-26;26;8;2020;222;1;Suède;SE;SWE;10230185.0;Europe;36.34342878
 2020-08-25;25;8;2020;174;1;Suède;SE;SWE;10230185.0;Europe;36.55847866
 2020-08-24;24;8;2020;57;3;Suède;SE;SWE;10230185.0;Europe;36.71487857
 2020-08-23;23;8;2020;160;1;Suède;SE;SWE;10230185.0;Europe;37.692378000000005
@@ -41366,7 +41549,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-07-20;20;7;2020;110;8;Suède;SE;SWE;10230185.0;Europe;39.15862714
 2020-07-19;19;7;2020;191;11;Suède;SE;SWE;10230185.0;Europe;40.84970115
 2020-07-18;18;7;2020;284;7;Suède;SE;SWE;10230185.0;Europe;44.85744881
-2020-07-17;17;7;2020;268;7;Suède;SE;SWE;10230185.0;Europe;48.95317142
+2020-07-17;17;7;2020;268;6;Suède;SE;SWE;10230185.0;Europe;48.95317142
 2020-07-16;16;7;2020;287;6;Suède;SE;SWE;10230185.0;Europe;52.83384416
 2020-07-15;15;7;2020;312;8;Suède;SE;SWE;10230185.0;Europe;57.63336636
 2020-07-14;14;7;2020;170;14;Suède;SE;SWE;10230185.0;Europe;63.07803818
@@ -41375,25 +41558,25 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-07-11;11;7;2020;369;14;Suède;SE;SWE;10230185.0;Europe;78.6300541
 2020-07-10;10;7;2020;334;15;Suède;SE;SWE;10230185.0;Europe;87.86742371
 2020-07-09;9;7;2020;533;11;Suède;SE;SWE;10230185.0;Europe;99.25529206
-2020-07-08;8;7;2020;278;12;Suède;SE;SWE;10230185.0;Europe;109.34308617
-2020-07-07;7;7;2020;251;16;Suède;SE;SWE;10230185.0;Europe;114.70955804
-2020-07-06;6;7;2020;315;9;Suède;SE;SWE;10230185.0;Europe;114.768208
-2020-07-05;5;7;2020;364;15;Suède;SE;SWE;10230185.0;Europe;118.0330561
-2020-07-04;4;7;2020;694;8;Suède;SE;SWE;10230185.0;Europe;123.06717816
-2020-07-03;3;7;2020;687;15;Suède;SE;SWE;10230185.0;Europe;130.95559855
-2020-07-02;2;7;2020;684;17;Suède;SE;SWE;10230185.0;Europe;138.51166914
-2020-07-01;1;7;2020;803;21;Suède;SE;SWE;10230185.0;Europe;142.48031683
-2020-06-30;30;6;2020;727;18;Suède;SE;SWE;10230185.0;Europe;142.06976707
-2020-06-29;29;6;2020;415;22;Suède;SE;SWE;10230185.0;Europe;142.09909205
-2020-06-28;28;6;2020;755;14;Suède;SE;SWE;10230185.0;Europe;144.80676547
-2020-06-27;27;6;2020;1204;11;Suède;SE;SWE;10230185.0;Europe;146.02863976
-2020-06-26;26;6;2020;1279;24;Suède;SE;SWE;10230185.0;Europe;146.16548968
-2020-06-25;25;6;2020;1698;22;Suède;SE;SWE;10230185.0;Europe;143.61421617
-2020-06-24;24;6;2020;1310;25;Suède;SE;SWE;10230185.0;Europe;139.95836830000002
-2020-06-23;23;6;2020;800;21;Suède;SE;SWE;10230185.0;Europe;138.756044
-2020-06-22;22;6;2020;321;21;Suède;SE;SWE;10230185.0;Europe;140.13431819999997
-2020-06-21;21;6;2020;698;29;Suède;SE;SWE;10230185.0;Europe;140.93586773
-2020-06-20;20;6;2020;1209;29;Suède;SE;SWE;10230185.0;Europe;140.32004309
+2020-07-08;8;7;2020;278;12;Suède;SE;SWE;10230185.0;Europe;109.33331118
+2020-07-07;7;7;2020;251;15;Suède;SE;SWE;10230185.0;Europe;114.69978304
+2020-07-06;6;7;2020;315;9;Suède;SE;SWE;10230185.0;Europe;114.75843301
+2020-07-05;5;7;2020;364;15;Suède;SE;SWE;10230185.0;Europe;118.0232811
+2020-07-04;4;7;2020;694;8;Suède;SE;SWE;10230185.0;Europe;123.05740317
+2020-07-03;3;7;2020;687;15;Suède;SE;SWE;10230185.0;Europe;130.94582356
+2020-07-02;2;7;2020;684;16;Suède;SE;SWE;10230185.0;Europe;138.50189415
+2020-07-01;1;7;2020;803;21;Suède;SE;SWE;10230185.0;Europe;142.47054183
+2020-06-30;30;6;2020;727;16;Suède;SE;SWE;10230185.0;Europe;142.05999207
+2020-06-29;29;6;2020;415;23;Suède;SE;SWE;10230185.0;Europe;142.08931706
+2020-06-28;28;6;2020;755;14;Suède;SE;SWE;10230185.0;Europe;144.79699047
+2020-06-27;27;6;2020;1204;11;Suède;SE;SWE;10230185.0;Europe;146.01886476
+2020-06-26;26;6;2020;1279;24;Suède;SE;SWE;10230185.0;Europe;146.15571468
+2020-06-25;25;6;2020;1698;22;Suède;SE;SWE;10230185.0;Europe;143.60444117
+2020-06-24;24;6;2020;1309;25;Suède;SE;SWE;10230185.0;Europe;139.95836830000002
+2020-06-23;23;6;2020;800;20;Suède;SE;SWE;10230185.0;Europe;138.756044
+2020-06-22;22;6;2020;321;22;Suède;SE;SWE;10230185.0;Europe;140.13431819999997
+2020-06-21;21;6;2020;698;28;Suède;SE;SWE;10230185.0;Europe;140.93586773
+2020-06-20;20;6;2020;1209;30;Suède;SE;SWE;10230185.0;Europe;140.32004309
 2020-06-19;19;6;2020;1494;29;Suède;SE;SWE;10230185.0;Europe;135.87242068
 2020-06-18;18;6;2020;1457;33;Suède;SE;SWE;10230185.0;Europe;131.85489803
 2020-06-17;17;6;2020;1209;28;Suède;SE;SWE;10230185.0;Europe;128.84419979
@@ -41406,34 +41589,34 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-06-10;10;6;2020;936;33;Suède;SE;SWE;10230185.0;Europe;102.52991515
 2020-06-09;9;6;2020;677;38;Suède;SE;SWE;10230185.0;Europe;100.71176621
 2020-06-08;8;6;2020;462;33;Suède;SE;SWE;10230185.0;Europe;98.24846765
-2020-06-07;7;6;2020;780;31;Suède;SE;SWE;10230185.0;Europe;94.5632948
-2020-06-06;6;6;2020;1146;38;Suède;SE;SWE;10230185.0;Europe;88.5614483
-2020-06-05;5;6;2020;1039;45;Suède;SE;SWE;10230185.0;Europe;84.36797575
-2020-06-04;4;6;2020;1046;26;Suède;SE;SWE;10230185.0;Europe;82.04152711
+2020-06-07;7;6;2020;780;30;Suède;SE;SWE;10230185.0;Europe;94.5632948
+2020-06-06;6;6;2020;1146;37;Suède;SE;SWE;10230185.0;Europe;88.5614483
+2020-06-05;5;6;2020;1039;43;Suède;SE;SWE;10230185.0;Europe;84.36797575
+2020-06-04;4;6;2020;1046;28;Suède;SE;SWE;10230185.0;Europe;82.04152711
 2020-06-03;3;6;2020;901;37;Suède;SE;SWE;10230185.0;Europe;79.74440345
-2020-06-02;2;6;2020;648;40;Suède;SE;SWE;10230185.0;Europe;77.61345469
-2020-06-01;1;6;2020;265;45;Suède;SE;SWE;10230185.0;Europe;77.55480473
+2020-06-02;2;6;2020;648;39;Suède;SE;SWE;10230185.0;Europe;77.61345469
+2020-06-01;1;6;2020;265;46;Suède;SE;SWE;10230185.0;Europe;77.55480473
 2020-05-31;31;5;2020;432;39;Suède;SE;SWE;10230185.0;Europe;76.83145515
-2020-05-30;30;5;2020;773;40;Suède;SE;SWE;10230185.0;Europe;76.00058063
+2020-05-30;30;5;2020;773;41;Suède;SE;SWE;10230185.0;Europe;76.00058063
 2020-05-29;29;5;2020;774;40;Suède;SE;SWE;10230185.0;Europe;74.85690629999999
-2020-05-28;28;5;2020;800;39;Suède;SE;SWE;10230185.0;Europe;73.85985688
+2020-05-28;28;5;2020;800;38;Suède;SE;SWE;10230185.0;Europe;73.85985688
 2020-05-27;27;5;2020;746;28;Suède;SE;SWE;10230185.0;Europe;73.93805684
 2020-05-26;26;5;2020;491;42;Suède;SE;SWE;10230185.0;Europe;73.58615704
-2020-05-25;25;5;2020;210;44;Suède;SE;SWE;10230185.0;Europe;74.26063165
-2020-05-24;24;5;2020;403;56;Suède;SE;SWE;10230185.0;Europe;75.29678105
+2020-05-25;25;5;2020;210;45;Suède;SE;SWE;10230185.0;Europe;74.26063165
+2020-05-24;24;5;2020;403;55;Suède;SE;SWE;10230185.0;Europe;75.29678105
 2020-05-23;23;5;2020;532;56;Suède;SE;SWE;10230185.0;Europe;76.93898009
-2020-05-22;22;5;2020;610;54;Suède;SE;SWE;10230185.0;Europe;78.63982909
-2020-05-21;21;5;2020;808;53;Suède;SE;SWE;10230185.0;Europe;78.02400445
-2020-05-20;20;5;2020;666;41;Suède;SE;SWE;10230185.0;Europe;77.9360295
-2020-05-19;19;5;2020;430;61;Suède;SE;SWE;10230185.0;Europe;78.39545424
+2020-05-22;22;5;2020;610;55;Suède;SE;SWE;10230185.0;Europe;78.63982909
+2020-05-21;21;5;2020;808;52;Suède;SE;SWE;10230185.0;Europe;78.02400445
+2020-05-20;20;5;2020;666;42;Suède;SE;SWE;10230185.0;Europe;77.9360295
+2020-05-19;19;5;2020;430;59;Suède;SE;SWE;10230185.0;Europe;78.39545424
 2020-05-18;18;5;2020;259;53;Suède;SE;SWE;10230185.0;Europe;78.41500423
 2020-05-17;17;5;2020;358;49;Suède;SE;SWE;10230185.0;Europe;77.83827956
-2020-05-16;16;5;2020;688;58;Suède;SE;SWE;10230185.0;Europe;76.31338045
+2020-05-16;16;5;2020;688;59;Suède;SE;SWE;10230185.0;Europe;76.31338045
 2020-05-15;15;5;2020;657;46;Suède;SE;SWE;10230185.0;Europe;76.09833058
 2020-05-14;14;5;2020;698;50;Suède;SE;SWE;10230185.0;Europe;77.085605
 2020-05-13;13;5;2020;754;61;Suède;SE;SWE;10230185.0;Europe;76.96830507
-2020-05-12;12;5;2020;455;64;Suède;SE;SWE;10230185.0;Europe;78.02400445
-2020-05-11;11;5;2020;279;74;Suède;SE;SWE;10230185.0;Europe;78.22927933
+2020-05-12;12;5;2020;455;65;Suède;SE;SWE;10230185.0;Europe;78.02400445
+2020-05-11;11;5;2020;279;73;Suède;SE;SWE;10230185.0;Europe;78.22927933
 2020-05-10;10;5;2020;509;69;Suède;SE;SWE;10230185.0;Europe;77.87737954
 2020-05-09;9;5;2020;700;60;Suède;SE;SWE;10230185.0;Europe;78.65937908
 2020-05-08;8;5;2020;784;80;Suède;SE;SWE;10230185.0;Europe;78.40522923
@@ -41444,25 +41627,25 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-05-03;3;5;2020;299;73;Suède;SE;SWE;10230185.0;Europe;82.03175211
 2020-05-02;2;5;2020;532;78;Suède;SE;SWE;10230185.0;Europe;83.55665122
 2020-05-01;1;5;2020;635;78;Suède;SE;SWE;10230185.0;Europe;83.43935129
-2020-04-30;30;4;2020;799;84;Suède;SE;SWE;10230185.0;Europe;81.53322740000002
-2020-04-29;29;4;2020;742;82;Suède;SE;SWE;10230185.0;Europe;78.96240391
-2020-04-28;28;4;2020;563;73;Suède;SE;SWE;10230185.0;Europe;77.73075462
-2020-04-27;27;4;2020;300;75;Suède;SE;SWE;10230185.0;Europe;79.33385369
+2020-04-30;30;4;2020;799;83;Suède;SE;SWE;10230185.0;Europe;81.53322740000002
+2020-04-29;29;4;2020;742;83;Suède;SE;SWE;10230185.0;Europe;78.96240391
+2020-04-28;28;4;2020;563;74;Suède;SE;SWE;10230185.0;Europe;77.73075462
+2020-04-27;27;4;2020;300;74;Suède;SE;SWE;10230185.0;Europe;79.33385369
 2020-04-26;26;4;2020;473;73;Suède;SE;SWE;10230185.0;Europe;78.57140413
 2020-04-25;25;4;2020;780;89;Suède;SE;SWE;10230185.0;Europe;75.38475599
 2020-04-24;24;4;2020;758;86;Suède;SE;SWE;10230185.0;Europe;74.28018164
 2020-04-23;23;4;2020;722;77;Suède;SE;SWE;10230185.0;Europe;73.61548203
 2020-04-22;22;4;2020;707;62;Suède;SE;SWE;10230185.0;Europe;73.91850685
-2020-04-21;21;4;2020;461;84;Suède;SE;SWE;10230185.0;Europe;73.21470726
-2020-04-20;20;4;2020;388;88;Suède;SE;SWE;10230185.0;Europe;72.74550753
+2020-04-21;21;4;2020;461;85;Suède;SE;SWE;10230185.0;Europe;73.21470726
+2020-04-20;20;4;2020;388;87;Suède;SE;SWE;10230185.0;Europe;72.74550753
 2020-04-19;19;4;2020;532;86;Suède;SE;SWE;10230185.0;Europe;71.03488353
-2020-04-18;18;4;2020;688;82;Suède;SE;SWE;10230185.0;Europe;70.18445903
+2020-04-18;18;4;2020;688;83;Suède;SE;SWE;10230185.0;Europe;70.18445903
 2020-04-17;17;4;2020;623;111;Suède;SE;SWE;10230185.0;Europe;69.50998442
 2020-04-16;16;4;2020;604;115;Suède;SE;SWE;10230185.0;Europe;68.35653509999999
-2020-04-15;15;4;2020;479;91;Suède;SE;SWE;10230185.0;Europe;68.31743512
-2020-04-14;14;4;2020;437;85;Suède;SE;SWE;10230185.0;Europe;68.11216024
+2020-04-15;15;4;2020;479;92;Suède;SE;SWE;10230185.0;Europe;68.31743512
+2020-04-14;14;4;2020;437;84;Suède;SE;SWE;10230185.0;Europe;68.11216024
 2020-04-13;13;4;2020;464;97;Suède;SE;SWE;10230185.0;Europe;66.31356129
-2020-04-12;12;4;2020;395;103;Suède;SE;SWE;10230185.0;Europe;65.38493683
+2020-04-12;12;4;2020;395;102;Suède;SE;SWE;10230185.0;Europe;65.38493683
 2020-04-11;11;4;2020;454;90;Suède;SE;SWE;10230185.0;Europe;64.51496234
 2020-04-10;10;4;2020;645;86;Suède;SE;SWE;10230185.0;Europe;61.00573939
 2020-04-09;9;4;2020;654;115;Suède;SE;SWE;10230185.0;Europe;57.68224133
@@ -41566,6 +41749,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Suède;SE;SWE;10230185.0;Europe;
 2020-01-01;1;1;2020;0;0;Suède;SE;SWE;10230185.0;Europe;
 2019-12-31;31;12;2019;0;0;Suède;SE;SWE;10230185.0;Europe;
+2020-10-07;7;10;2020;699;0;Suisse;CH;CHE;8544527.0;Europe;69.68203155
 2020-10-06;6;10;2020;1540;3;Suisse;CH;CHE;8544527.0;Europe;64.82512139
 2020-10-05;5;10;2020;0;0;Suisse;CH;CHE;8544527.0;Europe;59.5937025
 2020-10-04;4;10;2020;0;0;Suisse;CH;CHE;8544527.0;Europe;59.5937025
@@ -41847,6 +42031,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Suisse;CH;CHE;8544527.0;Europe;
 2020-01-01;1;1;2020;0;0;Suisse;CH;CHE;8544527.0;Europe;
 2019-12-31;31;12;2019;0;0;Suisse;CH;CHE;8544527.0;Europe;
+2020-10-07;7;10;2020;46;2;Syrie;SY;SYR;17070132.0;Méditerranée orientale;3.3977476
 2020-10-06;6;10;2020;45;2;Syrie;SY;SYR;17070132.0;Méditerranée orientale;3.38603123
 2020-10-05;5;10;2020;37;1;Syrie;SY;SYR;17070132.0;Méditerranée orientale;3.3157330000000003
 2020-10-04;4;10;2020;40;1;Syrie;SY;SYR;17070132.0;Méditerranée orientale;3.30401663
@@ -42045,6 +42230,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-25;25;3;2020;0;0;Syrie;SY;SYR;17070132.0;Méditerranée orientale;
 2020-03-24;24;3;2020;0;0;Syrie;SY;SYR;17070132.0;Méditerranée orientale;
 2020-03-23;23;3;2020;1;0;Syrie;SY;SYR;17070132.0;Méditerranée orientale;
+2020-10-07;7;10;2020;3;0;Taïwan;TW;CNG1925;23773881.0;Pacifique occidental;0.05047556
 2020-10-06;6;10;2020;1;0;Taïwan;TW;CNG1925;23773881.0;Pacifique occidental;0.03785667
 2020-10-05;5;10;2020;0;0;Taïwan;TW;CNG1925;23773881.0;Pacifique occidental;0.03365037
 2020-10-04;4;10;2020;0;0;Taïwan;TW;CNG1925;23773881.0;Pacifique occidental;0.04206297
@@ -42326,6 +42512,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Taïwan;TW;CNG1925;23773881.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Taïwan;TW;CNG1925;23773881.0;Pacifique occidental;
 2019-12-31;31;12;2019;0;0;Taïwan;TW;CNG1925;23773881.0;Pacifique occidental;
+2020-10-07;7;10;2020;40;0;Tadjikistan;TJ;TJK;9321023.0;Europe;6.24394983
 2020-10-06;6;10;2020;39;0;Tadjikistan;TJ;TJK;9321023.0;Europe;6.28686358
 2020-10-05;5;10;2020;40;1;Tadjikistan;TJ;TJK;9321023.0;Europe;6.31904889
 2020-10-04;4;10;2020;43;0;Tadjikistan;TJ;TJK;9321023.0;Europe;6.35123419
@@ -42485,6 +42672,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-05-03;3;5;2020;17;0;Tadjikistan;TJ;TJK;9321023.0;Europe;
 2020-05-02;2;5;2020;0;0;Tadjikistan;TJ;TJK;9321023.0;Europe;
 2020-05-01;1;5;2020;15;0;Tadjikistan;TJ;TJK;9321023.0;Europe;
+2020-10-07;7;10;2020;15;0;Thaïlande;TH;THA;69625581.0;Asie du Sud-Est;0.14506163
 2020-10-06;6;10;2020;10;0;Thaïlande;TH;THA;69625581.0;Asie du Sud-Est;0.12782658
 2020-10-05;5;10;2020;7;0;Thaïlande;TH;THA;69625581.0;Asie du Sud-Est;0.12064531
 2020-10-04;4;10;2020;0;0;Thaïlande;TH;THA;69625581.0;Asie du Sud-Est;0.11059154
@@ -42759,6 +42947,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Thaïlande;TH;THA;69625581.0;Asie du Sud-Est;
 2020-01-01;1;1;2020;0;0;Thaïlande;TH;THA;69625581.0;Asie du Sud-Est;
 2019-12-31;31;12;2019;0;0;Thaïlande;TH;THA;69625581.0;Asie du Sud-Est;
+2020-10-07;7;10;2020;0;0;Timor oriental;TL;TLS;1293120.0;Asie du Sud-Est;0.07733234
 2020-10-06;6;10;2020;0;0;Timor oriental;TL;TLS;1293120.0;Asie du Sud-Est;0.07733234
 2020-10-05;5;10;2020;0;0;Timor oriental;TL;TLS;1293120.0;Asie du Sud-Est;0.07733234
 2020-10-04;4;10;2020;0;0;Timor oriental;TL;TLS;1293120.0;Asie du Sud-Est;0.07733234
@@ -42958,6 +43147,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-24;24;3;2020;0;0;Timor oriental;TL;TLS;1293120.0;Asie du Sud-Est;
 2020-03-23;23;3;2020;0;0;Timor oriental;TL;TLS;1293120.0;Asie du Sud-Est;
 2020-03-22;22;3;2020;1;0;Timor oriental;TL;TLS;1293120.0;Asie du Sud-Est;
+2020-10-07;7;10;2020;17;1;Togo;TG;TGO;8082359.0;Afrique;2.44977982
 2020-10-06;6;10;2020;10;0;Togo;TG;TGO;8082359.0;Afrique;2.41266195
 2020-10-05;5;10;2020;14;0;Togo;TG;TGO;8082359.0;Afrique;2.32605357
 2020-10-04;4;10;2020;22;0;Togo;TG;TGO;8082359.0;Afrique;2.23944519
@@ -43165,6 +43355,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;0;0;Togo;TG;TGO;8082359.0;Afrique;
 2020-03-15;15;3;2020;0;0;Togo;TG;TGO;8082359.0;Afrique;
 2020-03-07;7;3;2020;1;0;Togo;TG;TGO;8082359.0;Afrique;
+2020-10-07;7;10;2020;79;1;Trinidad et Tobago;TT;TTO;1394969.0;Amérique latine & Caraïbes;58.78266829
 2020-10-06;6;10;2020;4;1;Trinidad et Tobago;TT;TTO;1394969.0;Amérique latine & Caraïbes;58.92604065
 2020-10-05;5;10;2020;54;3;Trinidad et Tobago;TT;TTO;1394969.0;Amérique latine & Caraïbes;61.79348788
 2020-10-04;4;10;2020;80;2;Trinidad et Tobago;TT;TTO;1394969.0;Amérique latine & Caraïbes;61.3633708
@@ -43373,6 +43564,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-15;15;3;2020;0;0;Trinidad et Tobago;TT;TTO;1394969.0;Amérique latine & Caraïbes;
 2020-03-14;14;3;2020;1;0;Trinidad et Tobago;TT;TTO;1394969.0;Amérique latine & Caraïbes;
 2020-03-13;13;3;2020;1;0;Trinidad et Tobago;TT;TTO;1394969.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;0;0;Tunisie;TN;TUN;11694721.0;Méditerranée orientale;104.26071729
 2020-10-06;6;10;2020;0;0;Tunisie;TN;TUN;11694721.0;Méditerranée orientale;104.26071729
 2020-10-05;5;10;2020;2509;45;Tunisie;TN;TUN;11694721.0;Méditerranée orientale;108.77557489
 2020-10-04;4;10;2020;1223;5;Tunisie;TN;TUN;11694721.0;Méditerranée orientale;95.83811362
@@ -43585,6 +43777,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-11;11;3;2020;3;0;Tunisie;TN;TUN;11694721.0;Méditerranée orientale;
 2020-03-10;10;3;2020;1;0;Tunisie;TN;TUN;11694721.0;Méditerranée orientale;
 2020-03-03;3;3;2020;1;0;Tunisie;TN;TUN;11694721.0;Méditerranée orientale;
+2020-10-07;7;10;2020;1511;55;Turquie;TR;TUR;82003882.0;Europe;25.91950464
 2020-10-06;6;10;2020;1603;57;Turquie;TR;TUR;82003882.0;Europe;26.1402259
 2020-10-05;5;10;2020;1429;57;Turquie;TR;TUR;82003882.0;Europe;26.31094952
 2020-10-04;4;10;2020;1502;59;Turquie;TR;TUR;82003882.0;Europe;26.42070042
@@ -43792,6 +43985,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;16;0;Turquie;TR;TUR;82003882.0;Europe;
 2020-03-13;13;3;2020;1;0;Turquie;TR;TUR;82003882.0;Europe;
 2020-03-12;12;3;2020;1;0;Turquie;TR;TUR;82003882.0;Europe;
+2020-10-07;7;10;2020;0;0;Îles Turques-et-Caïques;TC;TCA;38194.0;Amérique latine & Caraïbes;60.21888255
 2020-10-06;6;10;2020;0;0;Îles Turques-et-Caïques;TC;TCA;38194.0;Amérique latine & Caraïbes;70.69173169
 2020-10-05;5;10;2020;0;0;Îles Turques-et-Caïques;TC;TCA;38194.0;Amérique latine & Caraïbes;70.69173169
 2020-10-04;4;10;2020;0;0;Îles Turques-et-Caïques;TC;TCA;38194.0;Amérique latine & Caraïbes;70.69173169
@@ -43988,6 +44182,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-27;27;3;2020;1;0;Îles Turques-et-Caïques;TC;TCA;38194.0;Amérique latine & Caraïbes;
 2020-03-26;26;3;2020;0;0;Îles Turques-et-Caïques;TC;TCA;38194.0;Amérique latine & Caraïbes;
 2020-03-25;25;3;2020;1;0;Îles Turques-et-Caïques;TC;TCA;38194.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;117;2;Ouganda;UG;UGA;44269587.0;Afrique;5.35356248
 2020-10-06;6;10;2020;157;1;Ouganda;UG;UGA;44269587.0;Afrique;5.64044115
 2020-10-05;5;10;2020;146;2;Ouganda;UG;UGA;44269587.0;Afrique;5.69465444
 2020-10-04;4;10;2020;171;0;Ouganda;UG;UGA;44269587.0;Afrique;5.97475644
@@ -44187,6 +44382,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-24;24;3;2020;8;0;Ouganda;UG;UGA;44269587.0;Afrique;
 2020-03-23;23;3;2020;0;0;Ouganda;UG;UGA;44269587.0;Afrique;
 2020-03-22;22;3;2020;1;0;Ouganda;UG;UGA;44269587.0;Afrique;
+2020-10-07;7;10;2020;4348;90;Ukraine;UA;UKR;43993643.0;Europe;121.26070123
 2020-10-06;6;10;2020;3774;33;Ukraine;UA;UKR;43993643.0;Europe;117.93294772
 2020-10-05;5;10;2020;4230;44;Ukraine;UA;UKR;43993643.0;Europe;115.43485953
 2020-10-04;4;10;2020;4571;92;Ukraine;UA;UKR;43993643.0;Europe;112.56171716
@@ -44394,6 +44590,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-16;16;3;2020;0;0;Ukraine;UA;UKR;43993643.0;Europe;
 2020-03-13;13;3;2020;2;0;Ukraine;UA;UKR;43993643.0;Europe;
 2020-03-04;4;3;2020;1;0;Ukraine;UA;UKR;43993643.0;Europe;
+2020-10-07;7;10;2020;1061;6;Émirats arabes Unis;AE;ARE;9770526.0;Méditerranée orientale;146.83958673
 2020-10-06;6;10;2020;932;3;Émirats arabes Unis;AE;ARE;9770526.0;Méditerranée orientale;144.70050026
 2020-10-05;5;10;2020;1041;0;Émirats arabes Unis;AE;ARE;9770526.0;Méditerranée orientale;142.11107979
 2020-10-04;4;10;2020;1231;2;Émirats arabes Unis;AE;ARE;9770526.0;Méditerranée orientale;138.35488489
@@ -44669,6 +44866,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Émirats arabes Unis;AE;ARE;9770526.0;Méditerranée orientale;
 2020-01-01;1;1;2020;0;0;Émirats arabes Unis;AE;ARE;9770526.0;Méditerranée orientale;
 2019-12-31;31;12;2019;0;0;Émirats arabes Unis;AE;ARE;9770526.0;Méditerranée orientale;
+2020-10-07;7;10;2020;14542;76;Royaume-Uni;UK;GBR;66647112.0;Europe;189.89870109
 2020-10-06;6;10;2020;12593;19;Royaume-Uni;UK;GBR;66647112.0;Europe;175.470469
 2020-10-05;5;10;2020;22961;33;Royaume-Uni;UK;GBR;66647112.0;Europe;163.12934909999998
 2020-10-04;4;10;2020;12871;49;Royaume-Uni;UK;GBR;66647112.0;Europe;134.52795974
@@ -44950,6 +45148,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Royaume-Uni;UK;GBR;66647112.0;Europe;
 2020-01-01;1;1;2020;0;0;Royaume-Uni;UK;GBR;66647112.0;Europe;
 2019-12-31;31;12;2019;0;0;Royaume-Uni;UK;GBR;66647112.0;Europe;
+2020-10-07;7;10;2020;0;0;Tanzanie;TZ;TZA;58005461.0;Afrique;0.0
 2020-10-06;6;10;2020;0;0;Tanzanie;TZ;TZA;58005461.0;Afrique;0.0
 2020-10-05;5;10;2020;0;0;Tanzanie;TZ;TZA;58005461.0;Afrique;0.0
 2020-10-04;4;10;2020;0;0;Tanzanie;TZ;TZA;58005461.0;Afrique;0.0
@@ -45154,6 +45353,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-19;19;3;2020;2;0;Tanzanie;TZ;TZA;58005461.0;Afrique;
 2020-03-18;18;3;2020;0;0;Tanzanie;TZ;TZA;58005461.0;Afrique;
 2020-03-17;17;3;2020;1;0;Tanzanie;TZ;TZA;58005461.0;Afrique;
+2020-10-07;7;10;2020;43062;717;États-Unis;US;USA;329064917.0;Amérique du Nord;183.95701539
 2020-10-06;6;10;2020;40705;398;États-Unis;US;USA;329064917.0;Amérique du Nord;182.51201176
 2020-10-05;5;10;2020;34901;400;États-Unis;US;USA;329064917.0;Amérique du Nord;186.29485197
 2020-10-04;4;10;2020;50659;678;États-Unis;US;USA;329064917.0;Amérique du Nord;187.79941831
@@ -45435,6 +45635,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;États-Unis;US;USA;329064917.0;Amérique du Nord;
 2020-01-01;1;1;2020;0;0;États-Unis;US;USA;329064917.0;Amérique du Nord;
 2019-12-31;31;12;2019;0;0;États-Unis;US;USA;329064917.0;Amérique du Nord;
+2020-10-07;7;10;2020;0;0;Îles Vierges américaines;VI;VIR;104579.0;Amérique latine & Caraïbes;46.85453102
 2020-10-06;6;10;2020;0;0;Îles Vierges américaines;VI;VIR;104579.0;Amérique latine & Caraïbes;55.46046529
 2020-10-05;5;10;2020;0;0;Îles Vierges américaines;VI;VIR;104579.0;Amérique latine & Caraïbes;55.46046529
 2020-10-04;4;10;2020;1;0;Îles Vierges américaines;VI;VIR;104579.0;Amérique latine & Caraïbes;81.27826809999999
@@ -45631,6 +45832,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-26;26;3;2020;0;0;Îles Vierges américaines;VI;VIR;104579.0;Amérique latine & Caraïbes;
 2020-03-25;25;3;2020;0;0;Îles Vierges américaines;VI;VIR;104579.0;Amérique latine & Caraïbes;
 2020-03-24;24;3;2020;17;0;Îles Vierges américaines;VI;VIR;104579.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;22;1;Uruguay;UY;URY;3461731.0;Amérique latine & Caraïbes;7.01960955
 2020-10-06;6;10;2020;10;0;Uruguay;UY;URY;3461731.0;Amérique latine & Caraïbes;6.58630032
 2020-10-05;5;10;2020;23;0;Uruguay;UY;URY;3461731.0;Amérique latine & Caraïbes;6.58630032
 2020-10-04;4;10;2020;25;0;Uruguay;UY;URY;3461731.0;Amérique latine & Caraïbes;6.2974275
@@ -45837,6 +46039,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;21;0;Uruguay;UY;URY;3461731.0;Amérique latine & Caraïbes;
 2020-03-16;16;3;2020;2;0;Uruguay;UY;URY;3461731.0;Amérique latine & Caraïbes;
 2020-03-15;15;3;2020;6;0;Uruguay;UY;URY;3461731.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;397;4;Ouzbékistan;UZ;UZB;32981715.0;Europe;19.07723719
 2020-10-06;6;10;2020;87;2;Ouzbékistan;UZ;UZB;32981715.0;Europe;19.57145042
 2020-10-05;5;10;2020;438;4;Ouzbékistan;UZ;UZB;32981715.0;Europe;21.43611998
 2020-10-04;4;10;2020;645;4;Ouzbékistan;UZ;UZB;32981715.0;Europe;21.78783001
@@ -46042,6 +46245,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-18;18;3;2020;8;0;Ouzbékistan;UZ;UZB;32981715.0;Europe;
 2020-03-17;17;3;2020;2;0;Ouzbékistan;UZ;UZB;32981715.0;Europe;
 2020-03-16;16;3;2020;6;0;Ouzbékistan;UZ;UZB;32981715.0;Europe;
+2020-10-07;7;10;2020;679;7;Venezuela;VE;VEN;28515829.0;Amérique latine & Caraïbes;39.77790721
 2020-10-06;6;10;2020;683;5;Venezuela;VE;VEN;28515829.0;Amérique latine & Caraïbes;40.93866603
 2020-10-05;5;10;2020;1614;10;Venezuela;VE;VEN;28515829.0;Amérique latine & Caraïbes;41.30337575
 2020-10-04;4;10;2020;0;0;Venezuela;VE;VEN;28515829.0;Amérique latine & Caraïbes;38.12268618
@@ -46247,6 +46451,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-17;17;3;2020;18;0;Venezuela;VE;VEN;28515829.0;Amérique latine & Caraïbes;
 2020-03-16;16;3;2020;5;0;Venezuela;VE;VEN;28515829.0;Amérique latine & Caraïbes;
 2020-03-15;15;3;2020;10;0;Venezuela;VE;VEN;28515829.0;Amérique latine & Caraïbes;
+2020-10-07;7;10;2020;1;0;Vietnam;VN;VNM;96462108.0;Pacifique occidental;0.03110029
 2020-10-06;6;10;2020;1;0;Vietnam;VN;VNM;96462108.0;Pacifique occidental;0.03006362
 2020-10-05;5;10;2020;0;0;Vietnam;VN;VNM;96462108.0;Pacifique occidental;0.02902694
 2020-10-04;4;10;2020;0;0;Vietnam;VN;VNM;96462108.0;Pacifique occidental;0.02902694
@@ -46524,6 +46729,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-01-02;2;1;2020;0;0;Vietnam;VN;VNM;96462108.0;Pacifique occidental;
 2020-01-01;1;1;2020;0;0;Vietnam;VN;VNM;96462108.0;Pacifique occidental;
 2019-12-31;31;12;2019;0;0;Vietnam;VN;VNM;96462108.0;Pacifique occidental;
+2020-10-07;7;10;2020;0;0;Sahara Occidental;EH;ESH;582458.0;Méditerranée orientale;0.0
 2020-10-06;6;10;2020;0;0;Sahara Occidental;EH;ESH;582458.0;Méditerranée orientale;0.0
 2020-10-05;5;10;2020;0;0;Sahara Occidental;EH;ESH;582458.0;Méditerranée orientale;0.0
 2020-10-04;4;10;2020;0;0;Sahara Occidental;EH;ESH;582458.0;Méditerranée orientale;0.0
@@ -46688,6 +46894,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-28;28;4;2020;0;0;Sahara Occidental;EH;ESH;582458.0;Méditerranée orientale;
 2020-04-27;27;4;2020;0;0;Sahara Occidental;EH;ESH;582458.0;Méditerranée orientale;
 2020-04-26;26;4;2020;6;0;Sahara Occidental;EH;ESH;582458.0;Méditerranée orientale;
+2020-10-07;7;10;2020;0;1;Yémen;YE;YEM;29161922.0;Méditerranée orientale;0.04457868
 2020-10-06;6;10;2020;0;1;Yémen;YE;YEM;29161922.0;Méditerranée orientale;0.05143694
 2020-10-05;5;10;2020;1;1;Yémen;YE;YEM;29161922.0;Méditerranée orientale;0.05143694
 2020-10-04;4;10;2020;1;2;Yémen;YE;YEM;29161922.0;Méditerranée orientale;0.05486607
@@ -46868,6 +47075,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-04-12;12;4;2020;0;0;Yémen;YE;YEM;29161922.0;Méditerranée orientale;
 2020-04-11;11;4;2020;0;0;Yémen;YE;YEM;29161922.0;Méditerranée orientale;
 2020-04-10;10;4;2020;1;0;Yémen;YE;YEM;29161922.0;Méditerranée orientale;
+2020-10-07;7;10;2020;81;1;Zambie;ZM;ZMB;17861034.0;Afrique;4.37264718
 2020-10-06;6;10;2020;37;0;Zambie;ZM;ZMB;17861034.0;Afrique;5.11728492
 2020-10-05;5;10;2020;78;0;Zambie;ZM;ZMB;17861034.0;Afrique;5.15647638
 2020-10-04;4;10;2020;144;0;Zambie;ZM;ZMB;17861034.0;Afrique;5.318841
@@ -47070,6 +47278,7 @@ dateRep;day;month;year;cases;deaths;countriesAndTerritories;geoId;countryterrito
 2020-03-21;21;3;2020;0;0;Zambie;ZM;ZMB;17861034.0;Afrique;
 2020-03-20;20;3;2020;0;0;Zambie;ZM;ZMB;17861034.0;Afrique;
 2020-03-19;19;3;2020;2;0;Zambie;ZM;ZMB;17861034.0;Afrique;
+2020-10-07;7;10;2020;17;1;Zimbabwe;ZW;ZWE;14645473.0;Afrique;1.39292189
 2020-10-06;6;10;2020;13;0;Zimbabwe;ZW;ZWE;14645473.0;Afrique;1.31098531
 2020-10-05;5;10;2020;0;0;Zimbabwe;ZW;ZWE;14645473.0;Afrique;1.3792658000000002
 2020-10-04;4;10;2020;27;0;Zimbabwe;ZW;ZWE;14645473.0;Afrique;1.45437433
